@@ -4,14 +4,17 @@ import logging
 import os
 from collections.abc import Iterable
 
-from anthropic import Anthropic
+import httpx
 
 from src.models import Article
 
 logger = logging.getLogger(__name__)
 
-MODEL = "claude-haiku-4-5-20251001"
+GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
+GITHUB_API_VERSION = "2026-03-10"
+MODEL = "openai/gpt-4o-mini"
 MAX_TOKENS = 400
+REQUEST_TIMEOUT = 30.0
 
 SYSTEM_PROMPT = """당신은 한국어 기술 아티클을 3줄로 요약하는 전문가입니다.
 
@@ -28,47 +31,62 @@ SYSTEM_PROMPT = """당신은 한국어 기술 아티클을 3줄로 요약하는 
 """
 
 
-def summarize_articles(articles: Iterable[Article], client: Anthropic | None = None) -> None:
-    """Mutate each Article.tldr in place with a 3-line summary."""
-    if client is None:
-        api_key = os.environ.get("ANTHROPIC_API_KEY")
-        if not api_key:
-            logger.warning("ANTHROPIC_API_KEY not set; skipping summarization (tldr remain empty)")
-            return
-        client = Anthropic(api_key=api_key)
+def summarize_articles(articles: Iterable[Article], client: httpx.Client | None = None) -> None:
+    """Mutate each Article.tldr in place with a 3-line summary via GitHub Models.
 
-    for article in articles:
-        if not article.geeknews_summary.strip():
-            logger.warning("no geeknews_summary for %s; skipping summarization", article.id)
-            continue
-        try:
-            article.tldr = _summarize_one(client, article)
-        except Exception:
-            logger.exception("summarization failed for %s; leaving tldr empty", article.id)
-            article.tldr = []
+    Reads token from GITHUB_MODELS_TOKEN (preferred for local dev) or GITHUB_TOKEN
+    (auto-provided in GitHub Actions when the workflow has `permissions: models: read`).
+    """
+    token = os.environ.get("GITHUB_MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    if not token:
+        logger.warning(
+            "neither GITHUB_MODELS_TOKEN nor GITHUB_TOKEN set; skipping summarization"
+        )
+        return
+
+    active_client = client if client is not None else httpx.Client(timeout=REQUEST_TIMEOUT)
+    try:
+        for article in articles:
+            if not article.geeknews_summary.strip():
+                logger.warning("no geeknews_summary for %s; skipping", article.id)
+                continue
+            try:
+                article.tldr = _summarize_one(active_client, token, article)
+            except Exception:
+                logger.exception("summarization failed for %s; leaving tldr empty", article.id)
+                article.tldr = []
+    finally:
+        if client is None:
+            active_client.close()
 
 
-def _summarize_one(client: Anthropic, article: Article) -> list[str]:
+def _summarize_one(client: httpx.Client, token: str, article: Article) -> list[str]:
     user_content = (
         f"# 제목\n{article.title}\n\n"
         f"# 출처 도메인\n{', '.join(article.tags) or '(없음)'}\n\n"
         f"# GeekNews 요약\n{article.geeknews_summary}"
     )
 
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        system=[
-            {
-                "type": "text",
-                "text": SYSTEM_PROMPT,
-                "cache_control": {"type": "ephemeral"},
-            }
-        ],
-        messages=[{"role": "user", "content": user_content}],
+    response = client.post(
+        GITHUB_MODELS_URL,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": GITHUB_API_VERSION,
+            "Content-Type": "application/json",
+        },
+        json={
+            "model": MODEL,
+            "max_tokens": MAX_TOKENS,
+            "messages": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_content},
+            ],
+        },
     )
-
-    text = "".join(block.text for block in response.content if block.type == "text")
+    response.raise_for_status()
+    payload = response.json()
+    text = payload["choices"][0]["message"]["content"]
     return _parse_three_bullets(text)
 
 
