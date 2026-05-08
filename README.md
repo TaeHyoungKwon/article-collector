@@ -16,7 +16,7 @@ tests/      # pytest
 ## 핵심 결정
 
 - 소스: GeekNews (https://news.hada.io/rss). 이후 확장.
-- 요약: GeekNews 자체 한국어 요약 보존 + 최상단에 Claude Haiku 4.5 3줄 요약.
+- 요약: GeekNews 자체 한국어 요약 보존 + 최상단에 GitHub Models(`openai/gpt-4o-mini`) 3줄 요약.
 - 본문: 외부 원문 본문은 수집하지 않음 (요약만).
 - 추천 점수 v0: GeekNews 점수 + 매칭 키워드 + 다양성 - 중복 페널티.
 - 학습 시그널: frontmatter `read: true` 또는 `## My Note` 섹션 비어있지 않음.
@@ -33,7 +33,7 @@ uv sync
 
 # 2. 환경변수 준비
 cp .env.example .env
-# .env 열어서 ANTHROPIC_API_KEY, GMAIL_*, OBSIDIAN_VAULT_NAME 채우기
+# .env 열어서 GITHUB_MODELS_TOKEN, GMAIL_*, OBSIDIAN_VAULT_NAME 채우기
 
 # 3. dry-run (메일 발송 없이 dryrun_mail.html만 생성, 비용·시간 검증용)
 uv run python -m src.main --dry-run -v
@@ -66,12 +66,15 @@ uv run pytest -v
 
 | Secret | 필수 | 설명 |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | ✓ | Claude Haiku 요약용 |
 | `GMAIL_USER` | ✓ | 발신/수신 Gmail 주소 |
 | `GMAIL_APP_PASSWORD` | ✓ | 위에서 발급한 16자 앱 비밀번호 |
 | `RECIPIENT_EMAIL` | ✗ | 미지정 시 GMAIL_USER로 자기 자신에게 발송 |
 | `OBSIDIAN_VAULT_NAME` | ✗ | 메일에 obsidian://open 링크 추가 |
 | `KEYWORDS` | ✗ | 콤마 구분 키워드 override |
+
+> LLM 요약은 GitHub Models를 사용하며, Actions에서는 워크플로 자체에 부여된
+> `GITHUB_TOKEN` (with `permissions: models: read`)을 그대로 활용한다 —
+> 별도 secret 등록 불필요.
 
 수동 실행: **Actions → daily-collect → Run workflow** (체크박스로 dry-run 가능).
 

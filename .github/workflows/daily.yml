@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: daily-collect
@@ -39,7 +40,9 @@ jobs:
 
       - name: Run pipeline
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # GitHub Models — uses the workflow's auto-provided GITHUB_TOKEN
+          # thanks to `permissions: models: read` above.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
