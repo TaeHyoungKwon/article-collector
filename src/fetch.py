@@ -10,6 +10,7 @@ from typing import Any
 
 import feedparser
 from bs4 import BeautifulSoup
+from markdownify import markdownify
 
 from src.models import Article
 
@@ -160,7 +161,19 @@ def _extract_summary_html(soup: BeautifulSoup) -> str:
 
 
 def _html_to_text(html: str) -> str:
+    """Convert GeekNews summary HTML to markdown (bullets, bold, links preserved).
+
+    The naive get_text approach broke inline strongs onto their own lines and dropped
+    list/anchor structure entirely. markdownify preserves these as proper markdown so
+    the result reads cleanly inside an Obsidian note.
+    """
     if not html:
         return ""
-    soup = BeautifulSoup(html, "lxml")
-    return soup.get_text("\n", strip=True)
+    md = markdownify(
+        html,
+        heading_style="ATX",
+        bullets="-",
+        strip=["script", "style"],
+    )
+    # Collapse runs of 3+ blank lines that markdownify can leave behind.
+    return re.sub(r"\n{3,}", "\n\n", md).strip()

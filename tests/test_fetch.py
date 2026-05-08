@@ -80,10 +80,20 @@ def test_extract_comment_count():
     assert _extract_comment_count(soup) == 7
 
 
-def test_extract_summary_strips_to_text():
+def test_extract_summary_converts_to_markdown():
     soup = BeautifulSoup(TOPIC_HTML, "lxml")
     html = _extract_summary_html(soup)
     text = _html_to_text(html)
-    assert "첫 번째" in text
-    assert "두 번째 항목" in text
+    # bullets become "- " markdown lines (inline bold preserved on the same line)
+    assert "- 첫 번째 **요약** 항목" in text
+    assert "- 두 번째 항목" in text
+    # raw HTML tags must not survive
     assert "<strong>" not in text
+    assert "<li>" not in text
+
+
+def test_html_to_text_preserves_links():
+    from src.fetch import _html_to_text
+
+    md = _html_to_text('<p>참고: <a href="https://example.com">예시</a> 링크</p>')
+    assert "[예시](https://example.com)" in md
