@@ -93,9 +93,13 @@ def send_email(
     from_addr: str | None = None,
     app_password: str | None = None,
 ) -> None:
-    user = from_addr or os.environ["GMAIL_USER"]
-    password = app_password or os.environ["GMAIL_APP_PASSWORD"]
-    recipient = to_addr or os.environ.get("RECIPIENT_EMAIL", user)
+    user = (from_addr or os.environ["GMAIL_USER"]).strip()
+    # Gmail displays app passwords as "xxxx xxxx xxxx xxxx" — users often paste
+    # them with regular or non-breaking spaces. Strip every whitespace char
+    # (str.split() catches NBSP \xa0 too) so SMTP auth doesn't choke.
+    raw_password = app_password or os.environ["GMAIL_APP_PASSWORD"]
+    password = "".join(raw_password.split())
+    recipient = (to_addr or os.environ.get("RECIPIENT_EMAIL") or user).strip()
 
     msg = EmailMessage()
     msg["Subject"] = subject
