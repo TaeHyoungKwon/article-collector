@@ -43,6 +43,10 @@ def main(argv: list[str] | None = None) -> int:
             save_article(a, vault_root)
         logger.info("saved %d new articles to vault (no LLM yet)", len(new_articles))
 
+    if args.collect_only:
+        logger.info("collect-only mode: skipping score/summarize/mail")
+        return 0
+
     all_articles = list(iter_articles(vault_root))
     logger.info("scoring %d total articles", len(all_articles))
     score_articles(all_articles, keywords=configured_keywords())
@@ -96,6 +100,11 @@ def main(argv: list[str] | None = None) -> int:
 def _parse_args(argv: list[str] | None) -> argparse.Namespace:
     p = argparse.ArgumentParser(description="article-collector daily pipeline")
     p.add_argument("--dry-run", action="store_true", help="render mail to file, skip SMTP")
+    p.add_argument(
+        "--collect-only",
+        action="store_true",
+        help="fetch + save new articles only (no scoring, no LLM, no email)",
+    )
     p.add_argument("--top-n", type=int, default=10, help="how many articles to recommend (default: 10)")
     p.add_argument("-v", "--verbose", action="store_true", help="DEBUG level logging")
     return p.parse_args(argv)

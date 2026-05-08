@@ -1,0 +1,51 @@
+name: collect-only
+
+on:
+  schedule:
+    # 6시간마다 (UTC 0/6/12/18시 = KST 9/15/21/03시). RSS 50개 한도 안에서 누락 방지용.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # daily-collect와 같은 group을 사용해 vault 쓰기가 절대 겹치지 않도록 함
+  group: vault-write
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch new articles only
+        run: uv run python -m src.main --collect-only -v
+
+      - name: Commit vault changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vault/articles
+          if git diff --cached --quiet; then
+            echo "No vault changes to commit."
+          else
+            git commit -m "chore(vault): collect $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            # daily-collect가 직전에 push한 커밋을 잡아오기 위해 rebase pull
+            git pull --rebase origin main
+            git push
+          fi

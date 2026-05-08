@@ -16,7 +16,8 @@ permissions:
   models: read
 
 concurrency:
-  group: daily-collect
+  # shared with collect.yml so vault writes never overlap
+  group: vault-write
   cancel-in-progress: false
 
 jobs:
