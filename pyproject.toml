@@ -1,0 +1,41 @@
+[project]
+name = "article-collector"
+version = "0.1.0"
+description = "GeekNews 기반 일일 아티클 수집/추천 파이프라인"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser>=6.0.11",
+    "anthropic>=0.39.0",
+    "jinja2>=3.1.4",
+    "python-dotenv>=1.0.1",
+    "python-frontmatter>=1.1.0",
+    "pyyaml>=6.0.2",
+]
+
+[project.scripts]
+article-collector = "src.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+    "ruff>=0.7.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
