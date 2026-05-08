@@ -98,3 +98,21 @@ def test_iter_articles_extracts_my_note(tmp_path: Path):
 
 def test_existing_ids_empty_when_no_dir(tmp_path: Path):
     assert existing_ids(tmp_path) == set()
+
+
+def test_iter_articles_restores_geeknews_summary(tmp_path: Path):
+    save_article(make_article(geeknews_summary="원본 GeekNews 요약 본문"), tmp_path)
+    arts = list(iter_articles(tmp_path))
+    assert arts[0].geeknews_summary == "원본 GeekNews 요약 본문"
+
+
+def test_iter_articles_restores_tldr(tmp_path: Path):
+    save_article(make_article(tldr=["첫째", "둘째", "셋째"]), tmp_path)
+    arts = list(iter_articles(tmp_path))
+    assert arts[0].tldr == ["첫째", "둘째", "셋째"]
+
+
+def test_iter_articles_empty_tldr_when_placeholder(tmp_path: Path):
+    save_article(make_article(tldr=[]), tmp_path)  # writes placeholder
+    arts = list(iter_articles(tmp_path))
+    assert arts[0].tldr == []

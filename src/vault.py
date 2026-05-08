@@ -13,8 +13,12 @@ logger = logging.getLogger(__name__)
 
 ARTICLES_SUBDIR = "articles"
 
+TLDR_HEADER = "## TL;DR"
+GEEKNEWS_HEADER = "## GeekNews 요약"
 MY_NOTE_HEADER = "## My Note"
 MY_NOTE_PLACEHOLDER = "<!-- 한 줄 코멘트 남기기 -->"
+TLDR_PLACEHOLDER = "(요약 대기 중)"
+GEEKNEWS_PLACEHOLDER = "(요약 없음)"
 
 MARKDOWN_TEMPLATE = """## TL;DR
 {tldr_block}
@@ -85,12 +89,14 @@ def save_article(article: Article, vault_root: Path) -> Path:
 
 
 def render_markdown(article: Article) -> str:
-    tldr_block = "\n".join(f"- {line}" for line in article.tldr) if article.tldr else "- (요약 대기 중)"
+    tldr_block = (
+        "\n".join(f"- {line}" for line in article.tldr) if article.tldr else f"- {TLDR_PLACEHOLDER}"
+    )
     note_body = article.my_note.strip() or MY_NOTE_PLACEHOLDER
     my_note_section = f"{MY_NOTE_HEADER}\n{note_body}"
     return MARKDOWN_TEMPLATE.format(
         tldr_block=tldr_block,
-        geeknews_summary=article.geeknews_summary.strip() or "(요약 없음)",
+        geeknews_summary=article.geeknews_summary.strip() or GEEKNEWS_PLACEHOLDER,
         url=article.url,
         geeknews_url=article.geeknews_url,
         my_note_section=my_note_section,
@@ -98,7 +104,7 @@ def render_markdown(article: Article) -> str:
 
 
 def iter_articles(vault_root: Path) -> Iterator[Article]:
-    """Yield every saved Article in chronological order, with my_note populated from the body."""
+    """Yield every saved Article, restoring body sections (TL;DR, GeekNews summary, My Note)."""
     articles_dir = vault_articles_dir(vault_root)
     if not articles_dir.exists():
         return
@@ -110,20 +116,47 @@ def iter_articles(vault_root: Path) -> Iterator[Article]:
             continue
         if "id" not in post.metadata:
             continue
-        my_note = _extract_my_note(post.content)
-        yield article_from_frontmatter(post.metadata, my_note=my_note)
+        article = article_from_frontmatter(
+            post.metadata,
+            my_note=_extract_my_note(post.content),
+        )
+        article.tldr = _extract_tldr(post.content)
+        article.geeknews_summary = _extract_geeknews_summary(post.content)
+        yield article
 
 
-def _extract_my_note(body: str) -> str:
-    """Pull the contents of the `## My Note` section, ignoring the placeholder."""
+def _extract_section(body: str, header: str) -> str:
     pattern = re.compile(
-        rf"^{re.escape(MY_NOTE_HEADER)}\s*\n(.*?)(?=^##\s|\Z)",
+        rf"^{re.escape(header)}\s*\n(.*?)(?=^##\s|\Z)",
         re.DOTALL | re.MULTILINE,
     )
     m = pattern.search(body)
-    if not m:
-        return ""
-    note = m.group(1).strip()
-    if note == MY_NOTE_PLACEHOLDER or not note:
+    return m.group(1).strip() if m else ""
+
+
+def _extract_my_note(body: str) -> str:
+    note = _extract_section(body, MY_NOTE_HEADER)
+    if note == MY_NOTE_PLACEHOLDER:
         return ""
     return note
+
+
+def _extract_tldr(body: str) -> list[str]:
+    section = _extract_section(body, TLDR_HEADER)
+    if not section:
+        return []
+    bullets: list[str] = []
+    for line in section.splitlines():
+        line = line.strip()
+        if line.startswith(("- ", "* ")):
+            bullets.append(line[2:].strip())
+    if len(bullets) == 1 and bullets[0] == TLDR_PLACEHOLDER:
+        return []
+    return bullets
+
+
+def _extract_geeknews_summary(body: str) -> str:
+    section = _extract_section(body, GEEKNEWS_HEADER)
+    if section == GEEKNEWS_PLACEHOLDER:
+        return ""
+    return section
