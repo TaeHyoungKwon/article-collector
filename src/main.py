@@ -36,11 +36,12 @@ def main(argv: list[str] | None = None) -> int:
     new_articles = fetch_articles(skip_ids=seen)
     logger.info("fetched %d new articles", len(new_articles))
 
+    # Save new articles immediately without TL;DR — we only spend LLM calls on the
+    # articles that survive ranking, not all 50 fetched (rate-limit + cost friendly).
     if new_articles:
-        summarize_articles(new_articles)
         for a in new_articles:
             save_article(a, vault_root)
-        logger.info("saved %d new articles to vault", len(new_articles))
+        logger.info("saved %d new articles to vault (no LLM yet)", len(new_articles))
 
     all_articles = list(iter_articles(vault_root))
     logger.info("scoring %d total articles", len(all_articles))
@@ -56,6 +57,12 @@ def main(argv: list[str] | None = None) -> int:
     if not selection:
         logger.warning("no articles to recommend; exiting")
         return 0
+
+    # Only summarize the articles we're actually going to recommend.
+    needs_tldr = [a for a in selection if not a.tldr]
+    if needs_tldr:
+        logger.info("summarizing %d selected articles via GitHub Models", len(needs_tldr))
+        summarize_articles(needs_tldr)
 
     html = render_email_html(
         selection,
