@@ -12,9 +12,15 @@ from dotenv import load_dotenv
 from src.fetch import fetch_articles
 from src.feedback import collect_feedback
 from src.mailer import render_email_html, send_email
-from src.score import configured_keywords, mark_recommended, score_articles, top_n
+from src.score import (
+    categorize_articles,
+    configured_keywords,
+    mark_recommended,
+    score_articles,
+    top_n,
+)
 from src.summarize import summarize_articles
-from src.vault import existing_ids, iter_articles, save_article
+from src.vault import existing_ids, iter_articles, save_article, write_index
 
 logger = logging.getLogger("article_collector")
 
@@ -43,13 +49,19 @@ def main(argv: list[str] | None = None) -> int:
             save_article(a, vault_root)
         logger.info("saved %d new articles to vault (no LLM yet)", len(new_articles))
 
-    if args.collect_only:
-        logger.info("collect-only mode: skipping score/summarize/mail")
-        return 0
-
+    # Even in collect-only we want categories on every article so the Obsidian
+    # index reflects them. Categorize-and-score is cheap (no I/O, no LLM).
     all_articles = list(iter_articles(vault_root))
-    logger.info("scoring %d total articles", len(all_articles))
     score_articles(all_articles, keywords=configured_keywords())
+    categorize_articles(all_articles)
+    for a in all_articles:
+        save_article(a, vault_root)
+    write_index(vault_root)
+    logger.info("categorized %d articles and refreshed _index.md", len(all_articles))
+
+    if args.collect_only:
+        logger.info("collect-only mode: skipping summarize/mail")
+        return 0
 
     selection = top_n(all_articles, n=args.top_n)
     logger.info(

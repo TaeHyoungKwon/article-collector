@@ -8,6 +8,7 @@ from pathlib import Path
 import frontmatter
 
 from src.models import Article, article_from_frontmatter
+from src.score import ALL_CATEGORIES
 
 logger = logging.getLogger(__name__)
 
@@ -83,7 +84,12 @@ def save_article(article: Article, vault_root: Path) -> Path:
     article.my_note = preserved_note or article.my_note
 
     body = render_markdown(article)
-    post = frontmatter.Post(content=body, **article.to_frontmatter())
+    fm = article.to_frontmatter()
+    # Ensure the category is also surfaced as a tag so Obsidian's Tags pane
+    # groups articles by category out of the box. Preserves any existing tags.
+    if article.category and article.category not in fm["tags"]:
+        fm["tags"] = [article.category, *fm["tags"]]
+    post = frontmatter.Post(content=body, **fm)
     target.write_text(frontmatter.dumps(post) + "\n", encoding="utf-8")
     return target
 
@@ -160,3 +166,81 @@ def _extract_geeknews_summary(body: str) -> str:
     if section == GEEKNEWS_PLACEHOLDER:
         return ""
     return section
+
+
+INDEX_FILENAME = "_index.md"
+
+
+def write_index(vault_root: Path) -> Path:
+    """(Re)write vault/_index.md with Dataview queries grouping articles by category."""
+    target = vault_root / INDEX_FILENAME
+    target.write_text(_render_index(), encoding="utf-8")
+    return target
+
+
+def _render_index() -> str:
+    lines: list[str] = [
+        "---",
+        "title: Articles Index",
+        "tags: [_meta]",
+        "---",
+        "",
+        "# 📚 Articles Index",
+        "",
+        "> Dataview plugin이 설치돼 있어야 카테고리별 표가 보입니다.",
+        "> Settings → Community plugins → Browse → \"Dataview\" 설치 후 활성화.",
+        "",
+        "## 추천된 글 (최근순)",
+        "",
+        "```dataview",
+        "TABLE WITHOUT ID",
+        '  file.link AS "Title",',
+        "  category,",
+        "  recommend_score,",
+        "  recommended_on,",
+        "  read",
+        'FROM "articles"',
+        "WHERE recommended_on != null",
+        "SORT recommended_on DESC, recommend_score DESC",
+        "```",
+        "",
+        "## 카테고리별",
+        "",
+    ]
+    for category in ALL_CATEGORIES:
+        lines.extend(
+            [
+                f"### {category}",
+                "",
+                "```dataview",
+                "TABLE WITHOUT ID",
+                '  file.link AS "Title",',
+                "  recommend_score,",
+                "  geeknews_score,",
+                "  recommended_on,",
+                "  read",
+                'FROM "articles"',
+                f'WHERE category = "{category}"',
+                "SORT recommend_score DESC",
+                "```",
+                "",
+            ]
+        )
+
+    lines.extend(
+        [
+            "## 아직 안 읽은 추천 글",
+            "",
+            "```dataview",
+            "TABLE WITHOUT ID",
+            '  file.link AS "Title",',
+            "  category,",
+            "  recommended_on",
+            'FROM "articles"',
+            "WHERE recommended_on != null AND read = false",
+            "SORT recommended_on DESC",
+            "```",
+            "",
+        ]
+    )
+    return "\n".join(lines)

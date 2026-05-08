@@ -1,4 +1,5 @@
 ---
+category: AI
 collected_at: '2026-05-07T06:55:15+09:00'
 geeknews_comments: 3
 geeknews_score: 13
@@ -8,10 +9,11 @@ matched_keywords:
 - AI
 - Claude Code
 read: false
-recommend_score: 7.055
+recommend_score: -992.945
 recommended_on: '2026-05-08'
 source: geeknews
 tags:
+- AI
 - simonwillison.net
 title: Vibe coding과 agentic engineering이 내가 원하는 것보다 더 가까워지고 있다
 url: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/

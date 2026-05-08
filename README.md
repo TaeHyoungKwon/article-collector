@@ -58,6 +58,9 @@ uv run pytest -v
 1. Obsidian을 열고 vault 폴더로 이 repo의 `vault/`를 추가한다.
 2. 추가 시 부여한 vault 이름(예: `articles-vault`)을 `OBSIDIAN_VAULT_NAME`에 적는다.
 3. 메일에 `obsidian://open?vault=...&file=articles/...md` 링크가 포함되며, 클릭하면 해당 노트가 바로 열린다.
+4. **Dataview plugin 설치**: Settings → Community plugins → Browse → `Dataview` 검색 → Install → Enable.
+   - 활성화 후 `vault/_index.md` 노트를 열면 카테고리별 표 + "추천된 글" + "아직 안 읽은 추천 글" 표가 자동으로 채워진다.
+   - 인덱스는 매 실행마다 자동 갱신되므로 직접 편집할 필요 없음.
 
 ## GitHub 운영 (cron)
 

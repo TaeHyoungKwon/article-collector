@@ -1,4 +1,5 @@
 ---
+category: AI
 collected_at: '2026-05-07T09:46:02+09:00'
 geeknews_comments: 0
 geeknews_score: 11
@@ -8,10 +9,11 @@ matched_keywords:
 - AI
 - Claude Code
 read: false
-recommend_score: 6.485
+recommend_score: -993.515
 recommended_on: '2026-05-08'
 source: geeknews
 tags:
+- AI
 - github.com/nowork-studio
 title: Toprank - SEO 및 광고 관리용 Claude Code 플러그인
 url: https://github.com/nowork-studio/toprank

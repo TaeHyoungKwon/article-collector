@@ -17,6 +17,17 @@ DEFAULT_KEYWORDS: tuple[str, ...] = (
     "Codex",
 )
 
+# Maps a category to the matched_keywords that belong to it. Order of CATEGORY_PRIORITY
+# resolves ambiguity when an article hits multiple categories.
+CATEGORY_BY_KEYWORD: dict[str, tuple[str, ...]] = {
+    "AI": ("AI", "LLM", "RAG"),
+    "Dev Tools": ("Claude Code", "Codex"),
+    "Backend": ("backend", "distributed system"),
+}
+CATEGORY_PRIORITY: tuple[str, ...] = ("AI", "Dev Tools", "Backend")
+DEFAULT_CATEGORY = "Other"
+ALL_CATEGORIES: tuple[str, ...] = (*CATEGORY_PRIORITY, DEFAULT_CATEGORY)
+
 # Tunable weights. Stored as module constants so they can be tweaked without API churn.
 KEYWORD_WEIGHT = 2.0
 GEEKNEWS_SCORE_WEIGHT = 1.0
@@ -51,6 +62,21 @@ def score_articles(
         if a.recommended_on is not None:
             score -= ALREADY_RECOMMENDED_PENALTY
         a.recommend_score = round(score, 3)
+
+
+def categorize_articles(articles: Iterable[Article]) -> None:
+    """Assign each article a single primary category based on its matched_keywords."""
+    for a in articles:
+        a.category = _categorize_one(a.matched_keywords)
+
+
+def _categorize_one(matched_keywords: Iterable[str]) -> str:
+    matched_lower = {kw.lower() for kw in matched_keywords}
+    for category in CATEGORY_PRIORITY:
+        keywords = CATEGORY_BY_KEYWORD[category]
+        if any(kw.lower() in matched_lower for kw in keywords):
+            return category
+    return DEFAULT_CATEGORY
 
 
 def top_n(articles: Iterable[Article], n: int = 10) -> list[Article]:

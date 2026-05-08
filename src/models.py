@@ -21,6 +21,7 @@ class Article:
     tldr: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
     matched_keywords: list[str] = field(default_factory=list)
+    category: str = "Other"
     recommend_score: float = 0.0
     recommended_on: date | None = None
     read: bool = False
@@ -38,6 +39,7 @@ class Article:
             "geeknews_comments": self.geeknews_comments,
             "tags": self.tags,
             "matched_keywords": self.matched_keywords,
+            "category": self.category,
             "recommend_score": round(self.recommend_score, 3),
             "read": self.read,
         }
@@ -89,6 +91,7 @@ def article_from_frontmatter(meta: dict[str, Any], my_note: str = "") -> Article
         geeknews_comments=int(meta.get("geeknews_comments", 0)),
         tags=list(meta.get("tags", []) or []),
         matched_keywords=list(meta.get("matched_keywords", []) or []),
+        category=str(meta.get("category", "Other")) or "Other",
         recommend_score=float(meta.get("recommend_score", 0.0) or 0.0),
         recommended_on=recommended_on,
         read=bool(meta.get("read", False)),

@@ -4,6 +4,7 @@ from src.models import Article
 from src.score import (
     ALREADY_RECOMMENDED_PENALTY,
     DEFAULT_KEYWORDS,
+    categorize_articles,
     configured_keywords,
     mark_recommended,
     score_articles,
@@ -95,3 +96,27 @@ def test_configured_keywords_default(monkeypatch):
 def test_configured_keywords_env_override(monkeypatch):
     monkeypatch.setenv("KEYWORDS", "go, kubernetes,observability")
     assert configured_keywords() == ("go", "kubernetes", "observability")
+
+
+def test_categorize_ai_takes_priority_over_backend():
+    a = make_article(matched_keywords=["AI", "backend"])
+    categorize_articles([a])
+    assert a.category == "AI"
+
+
+def test_categorize_dev_tools():
+    a = make_article(matched_keywords=["Claude Code"])
+    categorize_articles([a])
+    assert a.category == "Dev Tools"
+
+
+def test_categorize_backend_only():
+    a = make_article(matched_keywords=["distributed system"])
+    categorize_articles([a])
+    assert a.category == "Backend"
+
+
+def test_categorize_no_match_falls_back_to_other():
+    a = make_article(matched_keywords=[])
+    categorize_articles([a])
+    assert a.category == "Other"

@@ -1,4 +1,5 @@
 ---
+category: Dev Tools
 collected_at: '2026-05-08T10:21:46+09:00'
 geeknews_comments: 1
 geeknews_score: 3
@@ -8,10 +9,11 @@ matched_keywords:
 - Claude Code
 - Codex
 read: false
-recommend_score: 5.594
+recommend_score: -994.406
 recommended_on: '2026-05-08'
 source: geeknews
 tags:
+- Dev Tools
 - github.com/obst2580
 title: 'Show GN: Obsidian 우측 사이드바에서 Claude Code,Codex를 실행하는 Vault Terminal 플러그인을 만들었습니다'
 url: https://github.com/obst2580/obsidian-powershell

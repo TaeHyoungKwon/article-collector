@@ -1,4 +1,5 @@
 ---
+category: AI
 collected_at: '2026-05-08T09:08:18+09:00'
 geeknews_comments: 2
 geeknews_score: 2
@@ -8,10 +9,11 @@ matched_keywords:
 - AI
 - RAG
 read: false
-recommend_score: 5.428
+recommend_score: -994.572
 recommended_on: '2026-05-08'
 source: geeknews
 tags:
+- AI
 - openwall.com
 title: 'Dirty Frag: 범용 Linux LPE(로컬 권한 상승) 취약점'
 url: https://www.openwall.com/lists/oss-security/2026/05/07/8

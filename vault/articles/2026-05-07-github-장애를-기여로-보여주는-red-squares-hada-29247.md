@@ -1,4 +1,5 @@
 ---
+category: Other
 collected_at: '2026-05-07T09:37:07+09:00'
 geeknews_comments: 1
 geeknews_score: 1
@@ -6,9 +7,10 @@ geeknews_url: https://news.hada.io/topic?id=29247
 id: hada-29247
 matched_keywords: []
 read: false
-recommend_score: 0.0
+recommend_score: 0.901
 source: geeknews
 tags:
+- Other
 - red-squares.cian.lol
 title: GitHub 장애를 기여로 보여주는 Red Squares
 url: https://red-squares.cian.lol/
@@ -25,8 +27,6 @@ url: https://red-squares.cian.lol/
 - 최악의 날은 **2026년 4월 30일 목요일**로, 다운타임이 **1.0일**에 달함
 
 ---
-
-## GitHub 장애를 기여 그래프로 풍자
 
 ## 원문
 - [원문](https://red-squares.cian.lol/)

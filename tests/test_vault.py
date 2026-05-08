@@ -3,12 +3,14 @@ from pathlib import Path
 
 from src.models import Article
 from src.vault import (
+    INDEX_FILENAME,
     MY_NOTE_HEADER,
     MY_NOTE_PLACEHOLDER,
     existing_ids,
     iter_articles,
     render_markdown,
     save_article,
+    write_index,
 )
 
 
@@ -116,3 +118,21 @@ def test_iter_articles_empty_tldr_when_placeholder(tmp_path: Path):
     save_article(make_article(tldr=[]), tmp_path)  # writes placeholder
     arts = list(iter_articles(tmp_path))
     assert arts[0].tldr == []
+
+
+def test_save_article_prepends_category_to_tags(tmp_path: Path):
+    save_article(make_article(category="AI", tags=["anthropic.com"]), tmp_path)
+    arts = list(iter_articles(tmp_path))
+    assert arts[0].tags[0] == "AI"
+    assert "anthropic.com" in arts[0].tags
+
+
+def test_write_index_creates_file_with_dataview_queries(tmp_path: Path):
+    path = write_index(tmp_path)
+    assert path.name == INDEX_FILENAME
+    content = path.read_text(encoding="utf-8")
+    assert "```dataview" in content
+    assert 'WHERE category = "AI"' in content
+    assert 'WHERE category = "Backend"' in content
+    assert 'WHERE category = "Other"' in content
+    assert "WHERE recommended_on != null AND read = false" in content

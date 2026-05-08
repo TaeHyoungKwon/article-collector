@@ -1,4 +1,5 @@
 ---
+category: AI
 collected_at: '2026-05-07T09:31:02+09:00'
 geeknews_comments: 0
 geeknews_score: 14
@@ -7,10 +8,11 @@ id: hada-29246
 matched_keywords:
 - AI
 read: false
-recommend_score: 4.708
+recommend_score: -995.292
 recommended_on: '2026-05-08'
 source: geeknews
 tags:
+- AI
 - github.com/Anil-matcha
 title: Open Generative AI - 200개 이상의 AI 모델로 이미지/영상을 생성하는 스튜디오
 url: https://github.com/Anil-matcha/Open-Generative-AI

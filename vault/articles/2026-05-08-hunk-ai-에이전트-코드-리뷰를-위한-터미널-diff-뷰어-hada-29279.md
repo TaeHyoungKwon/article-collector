@@ -1,14 +1,17 @@
 ---
+category: AI
 collected_at: '2026-05-08T09:31:01+09:00'
 geeknews_comments: 1
 geeknews_score: 3
 geeknews_url: https://news.hada.io/topic?id=29279
 id: hada-29279
-matched_keywords: []
+matched_keywords:
+- AI
 read: false
-recommend_score: 0.0
+recommend_score: 3.594
 source: geeknews
 tags:
+- AI
 - github.com/modem-dev
 title: Hunk - AI 에이전트 코드 리뷰를 위한 터미널 Diff 뷰어
 url: https://github.com/modem-dev/hunk

@@ -1,14 +1,17 @@
 ---
+category: AI
 collected_at: '2026-05-08T03:25:56+09:00'
 geeknews_comments: 0
 geeknews_score: 1
 geeknews_url: https://news.hada.io/topic?id=29268
 id: hada-29268
-matched_keywords: []
+matched_keywords:
+- AI
 read: false
-recommend_score: 0.0
+recommend_score: 2.693
 source: geeknews
 tags:
+- AI
 - github.com/PriuS2
 title: 'Show GN: Hermes KanbanWebUI - Hermes Agent Kanban에 AI Workflow Designer를 더한
   칸반보드 스타일 WebUI'

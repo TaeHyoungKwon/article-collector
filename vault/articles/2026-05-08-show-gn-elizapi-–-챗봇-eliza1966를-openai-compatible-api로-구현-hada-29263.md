@@ -1,4 +1,5 @@
 ---
+category: AI
 collected_at: '2026-05-08T00:14:04+09:00'
 geeknews_comments: 0
 geeknews_score: 1
@@ -9,10 +10,11 @@ matched_keywords:
 - LLM
 - Codex
 read: false
-recommend_score: 6.693
+recommend_score: -993.307
 recommended_on: '2026-05-08'
 source: geeknews
 tags:
+- AI
 - github.com/computerphilosopher
 title: 'Show GN: ElizAPI – 챗봇 Eliza(1966)를 OpenAI compatible api로 구현'
 url: https://github.com/computerphilosopher/elizapi
