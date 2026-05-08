@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.594
+recommended_on: '2026-05-08'
 source: geeknews
 tags:
 - AI
@@ -18,7 +19,9 @@ url: https://github.com/modem-dev/hunk
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Hunk라는 AI 에이전트 코드 리뷰 도구의 터미널 Diff 뷰어 기능을 다룬다.
+- Hunk는 인라인 AI 주석과 멀티 파일 리뷰 스트림을 제공하여 코드 변경사항을 효율적으로 확인할 수 있다.
+- 이는 개발자들이 코드 리뷰 과정에서 더욱 직관적이고 자동화된 경험을 할 수 있도록 해준다.
 
 ## GeekNews 요약
 - **리뷰 중심 인터랙티브 UI**로 에이전트가 생성한 코드 변경사항을 터미널에서 확인할 수 있는 오픈소스로 [OpenTUI](https://github.com/anomalyco/opentui)와 [Pierre diffs](https://www.npmjs.com/package/@pierre/diffs) 기반
