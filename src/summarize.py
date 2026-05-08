@@ -31,7 +31,11 @@ SYSTEM_PROMPT = """당신은 한국어 기술 아티클을 3줄로 요약하는 
 def summarize_articles(articles: Iterable[Article], client: Anthropic | None = None) -> None:
     """Mutate each Article.tldr in place with a 3-line summary."""
     if client is None:
-        client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        api_key = os.environ.get("ANTHROPIC_API_KEY")
+        if not api_key:
+            logger.warning("ANTHROPIC_API_KEY not set; skipping summarization (tldr remain empty)")
+            return
+        client = Anthropic(api_key=api_key)
 
     for article in articles:
         if not article.geeknews_summary.strip():

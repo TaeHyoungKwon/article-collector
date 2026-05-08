@@ -15,6 +15,9 @@ venv/
 .env.local
 *.pem
 
+# Dry-run output
+dryrun_mail.html
+
 # OS / Editor
 .DS_Store
 .idea/
