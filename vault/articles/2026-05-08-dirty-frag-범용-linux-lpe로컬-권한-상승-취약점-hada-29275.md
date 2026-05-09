@@ -18,7 +18,7 @@ tags:
 title: 'Dirty Frag: 범용 Linux LPE(로컬 권한 상승) 취약점'
 url: https://www.openwall.com/lists/oss-security/2026/05/07/8
 ---
-
+********
 ## TL;DR
 - 이 글은 **Dirty Frag**라는 범용 Linux 로컬 권한 상승 취약점에 대해 설명한다.
 - 이 취약점은 **결정론적 로직 버그**로 인해 높은 성공률을 가지며, 패치가 아직 제공되지 않는다.

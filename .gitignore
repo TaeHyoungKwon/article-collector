@@ -27,3 +27,7 @@ dryrun_mail.html
 vault/.obsidian/workspace*
 vault/.obsidian/cache
 vault/.trash/
+# Community plugins/themes are large and best installed per-environment.
+# We still track community-plugins.json (the enabled list) and snippets/.
+vault/.obsidian/plugins/
+vault/.obsidian/themes/
