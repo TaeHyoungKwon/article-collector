@@ -74,5 +74,9 @@ jobs:
             echo "No vault changes to commit."
           else
             git commit -m "chore(vault): daily collect $(date -u +%Y-%m-%d) [skip ci]"
+            # Pull any commits pushed since checkout (e.g. by collect.yml or a manual
+            # local push). --autostash keeps unstaged runtime changes (uv.lock etc.)
+            # from blocking the rebase.
+            git pull --rebase --autostash origin main
             git push
           fi

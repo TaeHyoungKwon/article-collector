@@ -45,7 +45,8 @@ jobs:
             echo "No vault changes to commit."
           else
             git commit -m "chore(vault): collect $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
-            # daily-collect가 직전에 push한 커밋을 잡아오기 위해 rebase pull
-            git pull --rebase origin main
+            # 다른 push(daily-collect 또는 로컬)가 있으면 가져오기.
+            # --autostash로 vault 외부의 unstaged 변경(uv.lock 등)이 rebase를 막지 않게 함.
+            git pull --rebase --autostash origin main
             git push
           fi
