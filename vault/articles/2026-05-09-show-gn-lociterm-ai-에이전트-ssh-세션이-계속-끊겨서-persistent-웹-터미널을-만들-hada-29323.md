@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-05-09'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/Younkyum/Loci-Terminal
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 LociTerm이라는 persistent 웹 터미널을 소개한다.
+- LociTerm은 tmux 세션을 기반으로 모바일과 브라우저 환경에서 AI 코딩 워크플로우를 지원한다.
+- 사용자는 브라우저에서 끊김 없이 작업을 이어갈 수 있어 더욱 효율적인 개발 환경을 경험할 수 있다.
 
 ## GeekNews 요약
 노트북에서 클로드코드나 오픈코드를 돌리면, 작업하다가 노트북을 닫고 이동할 수가 없는 상황이 계속 불편했습니다.

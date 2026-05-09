@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.231
+recommended_on: '2026-05-09'
 source: geeknews
 tags:
 - Dev Tools
@@ -18,7 +19,9 @@ url: https://www.anthropic.com/news/higher-limits-spacex
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Anthropic은 SpaceX와의 계약을 통해 Claude 서비스의 사용 한도를 두 배로 확대한다.
+- Claude Code의 사용량 제한이 증가하고 피크 시간대 한도가 제거되어 고객에게 더 많은 컴퓨트 리소스를 제공한다.
+- 이는 Anthropic의 경쟁력을 높이면서, 고객이 더욱 효율적으로 서비스를 이용할 수 있는 기반을 마련한다.
 
 ## GeekNews 요약
 - Anthropic은 **SpaceX**와의 파트너십과 최근 체결한 여러 컴퓨트 계약을 통해 **Claude Code**와 Claude API의 사용 한도를 확대한다고 발표

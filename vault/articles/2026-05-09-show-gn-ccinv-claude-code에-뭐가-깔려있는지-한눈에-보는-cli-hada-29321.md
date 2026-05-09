@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.307
+recommended_on: '2026-05-09'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/Sianmin/ccinv
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code의 다양한 구성요소를 시각적으로 보여주는 CLI 도구인 ccinv에 대해 다룹니다.
+- ccinv는 기본 출력 형식으로 터미널 컬러 테이블을 제공하며, HTML 및 JSON 형태로도 출력할 수 있는 기능이 있습니다.
+- 이 도구는 개발자들이 Claude Code의 구조를 쉽게 이해하고 활용할 수 있도록 하여 효율성을 높이는 데 기여합니다.
 
 ## GeekNews 요약
 [[IMG] https://raw.githubusercontent.com/Sianmin/ccinv/main/assets/screenshot.png](https://raw.githubusercontent.com/Sianmin/ccinv/main/assets/screenshot.png)

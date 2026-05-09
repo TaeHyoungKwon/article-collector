@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 5.307
+recommended_on: '2026-05-09'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/jo-inc/camofox-browser
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Camofox Browser는 AI 에이전트를 위한 스텔스 기반의 헤드리스 브라우저이다.
+- 이 브라우저는 프록시 및 GeoIP 지원을 통해 로케일과 타임존을 자동으로 일치시키며, 리소스 효율성이 높아 저사양 장비에서도 실행할 수 있다.
+- AI와 자동화 작업에서의 사용 가능성을 높이며, 다양한 기능을 통해 개발자에게 실질적인 이점을 제공한다.
 
 ## GeekNews 요약
 - Cloudflare·봇 탐지 우회, Puppeteer/Playwright 대체 가능

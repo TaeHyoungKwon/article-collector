@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-05-09'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-use
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Google의 reCAPTCHA 시스템이 de-Googled Android 사용자를 어떻게 차별화하는지를 다룬다.
+- de-Googled Android에서 reCAPTCHA 사용자는 자동으로 검증에 실패하며, 추가 검증을 위해 Google Play Services 연결이 필수적이다.
+- 이는 사용자 프라이버시를 중시하는 사람들에게 Google 소프트웨어 사용을 강요하는 구조적 문제를 드러낸다.
 
 ## GeekNews 요약
 - Google이 Android용 차세대 **reCAPTCHA**를 **Google Play Services**와 연결해, de-Googled Android 사용자는 추가 검증 단계에서 자동으로 실패하게 됨
