@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 9.099
+recommended_on: '2026-05-10'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/legalize-kr
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- legalize-kr 프로젝트의 최근 업데이트 내용과 기능 개선 사항을 다룬 아티클이다.
+- 행정규칙 및 자치법규의 추가로 법령 데이터의 추적 가능성이 높아졌으며, GitHub REST API 기반의 CLI 도구도 제공된다.
+- 법령 정보 접근성을 높이고, 공공 법률 데이터 활용의 기회를 넓히는 의미 있는 변화로 볼 수 있다.
 
 ## GeekNews 요약
 지난번 [Show GN](https://news.hada.io/topic?id=28353)으로 소개 이후, 1달(31일) 간의 legalize-kr 프로젝트 업데이트 소식을 정리해서 공유드립니다. 많은 분들께서 관심 가져주시고 응원해주신 덕분에 이것저것 개선할 수 있었습니다. 감사합니다!

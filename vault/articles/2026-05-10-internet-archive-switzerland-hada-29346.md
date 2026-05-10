@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-05-10'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Internet Archive Switzerland는 스위스에서 출범한 비영리 재단으로, 지식의 보편적 접근을 목표로 한다.
+- 이 재단은 세계의 위기 아카이브 보존과 생성형 AI 데이터 수집에 집중하며, 새로운 AI 모델 아카이빙 프로젝트를 진행하고 있다.
+- 이는 디지털 아카이빙 분야에서의 성장을 촉진하고, 스위스의 학문적 전통을 강화하는 데 기여할 수 있다.
 
 ## GeekNews 요약
 - [Internet Archive Switzerland](https://internetarchive.ch/)는 St. Gallen 기반의 신설 스위스 비영리 재단으로 출범했으며, “**Universal Access to All Knowledge**” 사명을 스위스의 국가적 맥락에서 독립적으로 확장함

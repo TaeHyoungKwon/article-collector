@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-10'
 source: geeknews
 tags:
 - AI
@@ -18,7 +19,9 @@ url: https://openai.com/index/advancing-voice-intelligence-with-new-models-in-th
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenAI는 GPT-5급 추론 능력을 가진 새로운 GPT-Realtime-2 시리즈 음성 모델을 공개했다.
+- 이 모델은 음성 애플리케이션에서 실시간으로 추론, 번역, 전사 기능을 수행하여 대화의 자연스러움을 증가시킨다.
+- 이러한 기술은 음성 인터페이스의 사용 범위를 확장하고, 개발자와 사용자에게 보다 향상된 경험을 제공할 수 있는 기회를 의미한다.
 
 ## GeekNews 요약
 - **실시간 음성 API**에 추론, 번역, 전사 기능을 갖춘 3개의 새로운 오디오 모델을 출시하여, 개발자가 더 자연스럽고 지능적인 **음성 애플리케이션**을 구축할 수 있게 됨

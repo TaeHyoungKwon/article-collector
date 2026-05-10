@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 10.405
+recommended_on: '2026-05-10'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/getagentseal/codeburn
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 코딩 도구의 토큰 사용량과 비용을 추적하는 TUI 대시보드인 CodeBurn에 대해 다룬다.
+- CodeBurn은 디스크의 세션 데이터를 직접 읽고 비용을 산정하여 낭비 패턴을 자동으로 탐지하고 수정안을 제공한다.
+- 이 도구는 AI 코딩 도구의 효율성을 높여 개발 환경에서의 비용 절감을 가능하게 한다.
 
 ## GeekNews 요약
 - Claude Code, Codex, Cursor 등 **18개 AI 코딩 도구**의 토큰 사용량과 비용을 자동 추적하는 터미널 대시보드
