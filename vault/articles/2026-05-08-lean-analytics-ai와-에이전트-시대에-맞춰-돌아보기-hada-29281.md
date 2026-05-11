@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-11'
 source: geeknews
 tags:
 - AI
@@ -18,7 +19,9 @@ url: https://www.focusedchaos.co/p/lean-analytics-reconsidered
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Lean Analytics가 AI 시대에 어떻게 재정의되어야 하는지를 다룬다.
+- AI 제품에서는 가치 도달 시간이 급격히 단축되며, 사용자가 첫 시도에서 기대하는 결과가 높아졌다.
+- 이는 기업이 사용자 요구를 이해하고 전략을 수정하는 데 중요한 통찰을 제공한다.
 
 ## GeekNews 요약
 - 2013년 출간된 Lean Analytics의 **핵심 프레임워크**(단계 파악, 비즈니스 모델 이해, OMTM, 벤치마크)는 여전히 유효하지만, AI 시대에 맞춰 구체적 지표 대부분이 재정의 필요

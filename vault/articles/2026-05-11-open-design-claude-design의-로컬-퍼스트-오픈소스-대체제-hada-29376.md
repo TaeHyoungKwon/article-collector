@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.079
+recommended_on: '2026-05-11'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/nexu-io/open-design
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Design의 로컬 퍼스트 오픈소스 대체제인 Open Design의 주요 기능과 특징을 설명한다.
+- Open Design은 31개 스킬과 129개 브랜드급 디자인 시스템을 제공하며, 인터랙티브 질문 폼을 통해 사용자 요구를 정확히 반영한다.
+- 이 시스템은 실시간 협업과 고품질 디자인 작업을 가능하게 하여 개발자와 디자이너의 작업 효율성을 크게 향상시킨다.
 
 ## GeekNews 요약
 - **에이전트를 내장하지 않고** 사용자의 PATH에 있는 16종 코딩 에이전트 CLI(Claude Code, Codex등)를 자동 감지하여 디자인 엔진으로 활용

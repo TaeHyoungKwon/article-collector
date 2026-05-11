@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-11'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/kuku-mom/kuku
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Kuku는 macOS용 로컬 Markdown 폴더를 지식 작업 공간으로 활용하는 오픈소스 앱이다.
+- 이 앱은 사용자의 .md 파일을 직접 수정하지 않고, AI가 제안하는 변경 사항을 사용자가 검토 후 적용하는 방식으로 작동한다.
+- Kuku는 기존 노트 앱의 한계를 극복하며, AI 기능을 필요에 따라 선택적으로 사용할 수 있는 점에서 의미가 있다.
 
 ## GeekNews 요약
 안녕하세요, Kuku를 만들고 있는 빌더입니다. Kuku는 macOS용 로컬 우선 Markdown 지식 작업공간입니다.

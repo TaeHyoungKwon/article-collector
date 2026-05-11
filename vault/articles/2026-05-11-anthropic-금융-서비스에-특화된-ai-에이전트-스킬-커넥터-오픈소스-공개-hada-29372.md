@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 7.479
+recommended_on: '2026-05-11'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/anthropics/financial-services
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Anthropic이 금융 서비스에 특화된 AI 에이전트 및 스킬을 오픈소스로 공개했다.
+- 10종의 워크플로우 에이전트와 11개 금융 데이터 제공업체 커넥터를 통해 자동화된 금융 업무 처리를 지원한다.
+- 이 기술은 금융 분야의 업무 효율성을 높이고, 사용자 맞춤형 솔루션을 제공할 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 - **Claude Cowork 플러그인** 또는 **Managed Agents API** 두 가지 방식으로 동일한 에이전트를 실행할 수 있는 금융 서비스 워크플로우 자동화 레퍼런스 레포지토리
