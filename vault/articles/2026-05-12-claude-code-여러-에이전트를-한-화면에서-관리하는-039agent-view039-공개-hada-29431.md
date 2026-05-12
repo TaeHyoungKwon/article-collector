@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.609
+recommended_on: '2026-05-12'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://code.claude.com/docs/en/agent-view
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code의 새로운 기능인 'Agent View'에 대한 내용을 다룹니다.
+- 'Agent View'는 여러 에이전트를 한 화면에서 통합 관리할 수 있는 인터페이스를 제공합니다.
+- 개발자들은 이 기능을 활용해 작업 효율성을 높이고 다양한 에이전트를 보다 쉽고 빠르게 관리할 수 있습니다.
 
 ## GeekNews 요약
 시연 영상 > <https://youtu.be/-INveHwbRz4>

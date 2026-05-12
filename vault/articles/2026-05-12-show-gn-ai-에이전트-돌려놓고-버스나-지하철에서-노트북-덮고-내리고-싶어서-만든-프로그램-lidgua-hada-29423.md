@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-05-12'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/airtaxi/LidGuard/blob/master/README.ko.md
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 이동 중 노트북을 사용하면서 발생하는 절전 문제를 해결하기 위한 프로그램 LidGuard의 제작 배경과 기능을 설명한다.
+- LidGuard는 AI 에이전트가 작업 중일 때 노트북이 절전 모드로 들어가는 것을 방지하고, 작업 완료 후 원래 설정으로 복원하는 기능을 갖춘다.
+- 이 도구는 이동 중 코딩 작업의 연속성을 제공하여 사용자에게 더 나은 편의성을 제공하며, 특정한 작업 환경에서의 실질적인 필요를 충족시킨다.
 
 ## GeekNews 요약
 이동 중에 노트북으로 코딩을 자주 합니다. 특히 요즘은 Codex 같은 AI 코딩 에이전트에 시간이 좀 걸릴 일을 맡겨두는 경우가 많아졌습니다.

@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.409
+recommended_on: '2026-05-12'
 source: geeknews
 tags:
 - Dev Tools
@@ -20,7 +21,9 @@ url: https://code.claude.com/docs/ko/goal
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code에 새롭게 추가된 /goal 기능에 대해 설명하고 있다.
+- /goal 기능은 목표를 자동으로 반복 실행하고 각 턴 종료 후 목표 달성 여부를 평가하는 시스템이다.
+- 이는 사용자가 목표를 보다 효율적으로 관리할 수 있도록 도와주며, 채팅형 보조자의 활용도를 높인다.
 
 ## GeekNews 요약
 - Claude Code에 목표 기반 자동 반복 실행 기능인 /goal 추가
