@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.386
+recommended_on: '2026-05-13'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://www.macwelt.de/article/3135791/neuer-mac-stealer-tarnt-sich-als-app
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 새로운 Mac 스틸러는 Claude 채팅창에서 Apple 지원을 사칭하여 맥 사용자를 타겟으로 하고 있다.
+- 공격자는 가짜 채팅을 통해 사용자가 악성 터미널 명령어를 실행하도록 유도하여 정보를 탈취한다.
+- 이는 사용자에게 보안 의식을 강화할 필요성을 시사하며, 최신 macOS 업데이트와 보안 대책 유지의 중요성을 강조한다.
 
 ## GeekNews 요약
 보안 연구원들과 'Bleeping Computer'는 최근 맥 사용자를 겨냥한 새로운 공격 방식을 발견했습니다. 공격자들은 공유된 클로드(Claude) 채팅창 내에서 애플 지원팀(Apple Support)을 사칭하며, 맥에 '클로드 코드(Claude Code)' 소프트웨어를 설치하는 방법을 안내하며 접근합니다.

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-13'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 GNU Emacs에서 lsp-mode를 Eglot으로 전환하는 방법에 대해 다룬다.
+- Eglot이 lsp-mode보다 경량화된 대안으로, 설정과 코드 완성 기능이 향상된다고 주장한다.
+- 이러한 전환은 개발자들에게 Emacs 환경을 더 효율적이고 간편하게 사용할 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 - Wandering Thoughts와 CSpace 일부는 **오래된 브라우저 User-Agent**가 크롤러 방지 규칙에 걸리면 차단 페이지를 표시함
