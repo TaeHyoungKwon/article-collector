@@ -10,7 +10,7 @@ matched_keywords:
 - LLM
 - Claude Code
 read: false
-recommend_score: 8.981
+recommend_score: -991.019
 recommended_on: '2026-05-12'
 source: geeknews
 tags:
