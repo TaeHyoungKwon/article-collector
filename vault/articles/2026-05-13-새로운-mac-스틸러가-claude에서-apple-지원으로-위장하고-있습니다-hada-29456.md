@@ -8,7 +8,7 @@ id: hada-29456
 matched_keywords:
 - Claude Code
 read: false
-recommend_score: 3.386
+recommend_score: -996.614
 recommended_on: '2026-05-13'
 source: geeknews
 tags:
