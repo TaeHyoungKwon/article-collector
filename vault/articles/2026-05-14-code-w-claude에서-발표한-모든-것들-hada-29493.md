@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 6.303
+recommended_on: '2026-05-14'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://claude.com/code-with-claude/san-francisco
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Anthropic의 Code w/ Claude 컨퍼런스에서 발표된 기술 혁신과 발전에 대해 다룬다.
+- Claude의 발전 방향은 장기 메모리와 다양한 도구 사용 등 기존 개발자 작업에서의 병목을 해소하는 새로운 기능으로 집중되고 있다.
+- 이러한 변화는 개발자들이 코드 작성보다 검증과 보안에 더 많은 시간을 투자하게 되어, AI 기술이 조직 내에서 더 효율적으로 활용될 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 - **Anthropic의 개발자 컨퍼런스**: 온라인과 오프라인으로 진행되며, 오프라인 행사는 **샌프란시스코 5/6, 런던 5/19, 도쿄 6/10**에 열림. 샌프란 행사에서 **19개 세션** 영상이 공개됨

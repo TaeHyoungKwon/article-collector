@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.924
+recommended_on: '2026-05-14'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://twitter.com/i/status/2054610152817619388
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude의 유료 플랜에서 프로그래밍 방식 사용량 청구 시스템을 설명한다.
+- 6월 15일부터 사용자들은 Agent SDK와 관련된 사용량을 월간 전용 크레딧으로 관리할 수 있게 된다.
+- 이는 사용자들이 월간 예산을 효율적으로 배분하고, 다양한 API 서비스를 명확히 구분하여 관리할 수 있도록 돕는다.
 
 ## GeekNews 요약
 - 6월 15일부터 **Claude 유료 플랜** 사용자는 Agent SDK 등 프로그램 방식 사용량에 쓸 월간 전용 크레딧을 청구할 수 있음

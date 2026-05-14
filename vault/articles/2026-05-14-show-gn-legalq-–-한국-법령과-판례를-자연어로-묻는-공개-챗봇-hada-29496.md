@@ -11,6 +11,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 7.099
+recommended_on: '2026-05-14'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://legalq.dnotitia.ai/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 한국 법령과 판례를 자연어로 묻는 챗봇 legalQ에 대해 설명하고 있다.
+- legalQ는 사용자의 질문을 검색 최적화하여 관련 법령과 판례 정보를 정확히 제시하도록 설계되었다.
+- 이 기술은 법률 정보 검색의 접근성을 높여, 일반 사용자에게 법적 정보를 쉽게 제공할 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 한국 법령과 판례를 자연어로 물어보는 공개 챗봇 **legalQ(리걸큐)** 를 만들어 공유합니다.
