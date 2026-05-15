@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-15'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 본 글은 Lobsters 플랫폼에서 LLM이 생성한 글에 대한 댓글의 처리 방안을 다룬다.
+- 단순 댓글이 주제 이탈로 신고되도록 제안하며, 댓글 품질이 Lobsters의 핵심이라는 점을 강조하고 있다.
+- 이는 사용자 경험을 개선하고, 콘텐츠의 가치와 저자의 노력을 존중하기 위한 움직임으로 의미 있다.
 
 ## GeekNews 요약
 - Lobsters에서 **LLM 생성 글** 금지와 태그 변경 논의가 이어졌지만, 낮은 노력·낮은 정보량 게시물은 스팸 신고로 처리하자는 쪽에 합의가 있는 것으로 보임

@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-15'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://openai.com/index/work-with-codex-from-anywhere/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Codex가 ChatGPT 모바일 앱에 통합되어 다양한 기기에서 작업의 연속성을 지원한다.
+- 모바일 앱은 활성 스레드, 승인, 플러그인 정보를 실시간으로 불러와 원격 환경에서의 작업 조정이 가능하다.
+- 이는 개발자들에게 유연한 작업 환경을 제공하며, 모바일에서도 데스크톱과 동일한 작업 효율을 유지할 수 있게 한다.
 
 ## GeekNews 요약
 - **Codex**가 ChatGPT 모바일 앱에 통합되어, 노트북·devbox·원격 환경에서 진행 중인 작업을 휴대폰으로 확인하고 개입할 수 있음

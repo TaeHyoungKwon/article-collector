@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.939
+recommended_on: '2026-05-15'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://chatgpt.com/codex/mobile/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenAI가 Codex를 ChatGPT 모바일 앱에 통합하여 원격 코딩 작업의 연속성을 강화했다.
+- Codex는 이제 모바일에서 장시간 실행되는 에이전트 작업을 관리하고 모니터링할 수 있는 기능을 제공한다.
+- 이는 Codex를 단순한 코딩 툴에서 사용자의 컴퓨터를 조작하는 에이전트로 발전시키려는 OpenAI의 전략을 보여준다.
 
 ## GeekNews 요약
 소개 글 : <https://openai.com/index/work-with-codex-from-anywhere/>

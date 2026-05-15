@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.307
+recommended_on: '2026-05-15'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/DrCatHicks/learning-opportunities
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Claude Code와 Codex에서 사용자의 전문성을 증진시키는 기술 개발을 지원하는 학습 기회를 다룬 글이다.
+- Claude는 사용자에게 10~15분짜리 선택형 학습 연습을 제공하며, 이를 통해 에이전틱 코딩 방식에서 학습의 질을 향상시키도록 설계되었다.
+- 이 스킬은 개발자들이 실제 프로젝트에서 더욱 효과적으로 학습하고 성장할 수 있도록 돕는 데 중요한 의미가 있다.
 
 ## GeekNews 요약
 - **에이전틱 코딩**을 하면서 프로젝트만이 아니라 **사용자의 전문성**도 키우도록 돕는 Claude Code 및 Codex용 스킬

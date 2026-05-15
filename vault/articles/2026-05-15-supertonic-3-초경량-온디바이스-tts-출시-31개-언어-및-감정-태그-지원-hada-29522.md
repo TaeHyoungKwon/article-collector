@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.718
+recommended_on: '2026-05-15'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/supertone-inc/supertonic
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Supertonic 3는 초경량 온디바이스 텍스트 음성 변환(TTS) 솔루션으로, 31개 언어와 감정 태그를 지원한다.
+- 신규 감정 태그 기능으로 텍스트에 다양한 감정을 표현할 수 있으며, 발음 정확도와 음성 복제 성능이 향상되었다.
+- 이 기술은 사용자 프라이버시를 보장하고 다양한 플랫폼에서 쉽게 사용할 수 있어 실생활 응용 가능성이 높다.
 
 ## GeekNews 요약
 - **한국어 포함 31개 언어** 지원
