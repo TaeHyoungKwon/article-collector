@@ -9,7 +9,7 @@ matched_keywords:
 - AI
 - Codex
 read: false
-recommend_score: 4.901
+recommend_score: -995.099
 recommended_on: '2026-05-15'
 source: geeknews
 tags:
