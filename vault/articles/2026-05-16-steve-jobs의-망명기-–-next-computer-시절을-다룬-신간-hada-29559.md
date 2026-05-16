@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.817
+recommended_on: '2026-05-16'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://spectrum.ieee.org/steve-jobs-next-computer
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Steve Jobs의 NeXT Computer 시절과 그로 인한 교훈을 다룬 신간에 대한 내용이다.
+- Geoffrey Cain은 NeXT의 실패가 Jobs에게 시장과 고객 요구에 대한 규율을 가르쳤다고 주장한다.
+- 이 시기는 Jobs가 Apple로 복귀 준비를 하는 데 중요한 배경이 됐으며, 기술 산업에 대한 중요한 통찰을 제공한다.
 
 ## GeekNews 요약
 - Steve Jobs는 Apple에서 밀려난 뒤 **1985~1997년** NeXT Computer를 이끌며 이후 Apple 복귀에 필요한 학습을 거쳤음

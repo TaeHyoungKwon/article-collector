@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.511
+recommended_on: '2026-05-16'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-pract
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code의 작동 방식과 대규모 코드베이스에서의 활용 모범 사례를 다룬다.
+- Claude Code는 파일 시스템 탐색과 `grep`을 통해 직접 코드베이스를 읽고, 성능은 여러 요소에 의존한다.
+- 독자는 대규모 저장소에서 Claude Code를 효과적으로 활용하기 위한 전략과 관리 접근법을 배울 수 있다.
 
 ## GeekNews 요약
 - Claude Code는 인덱스를 업로드하지 않고 개발자 머신에서 **파일 시스템 탐색**과 `grep`, 참조 추적으로 라이브 코드베이스를 직접 읽음

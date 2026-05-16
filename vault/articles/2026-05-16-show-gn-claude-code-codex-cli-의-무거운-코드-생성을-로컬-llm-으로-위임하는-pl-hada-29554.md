@@ -13,6 +13,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 10.693
+recommended_on: '2026-05-16'
 source: geeknews
 tags:
 - AI
@@ -23,7 +24,9 @@ url: https://github.com/hang-in/tunaLlama
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 로컬 LLM을 활용하여 Claude Code와 Codex CLI의 코드 생성 부담을 줄이는 tunaLlama 플러그인에 대해 다룬다.
+- tunaLlama는 긴 코드 생성을 로컬로 전환하고, 짧은 분해 및 검증 단계는 클라우드 모델에 맡겨 효율성을 높인다.
+- 이를 통해 사용자는 AI API 한도를 더 효과적으로 관리하고, 저비용 환경에서 협업할 수 있는 도구를 제공받을 수 있다.
 
 ## GeekNews 요약
 바이브 코딩 시 Claude Code 나 Codex CLI 의 정액제 사용 한도가 빨리 닳는 분들을 위해 만든 위임 도구입니다.

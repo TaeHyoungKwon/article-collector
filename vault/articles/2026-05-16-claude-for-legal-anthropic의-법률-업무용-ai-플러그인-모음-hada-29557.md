@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-16'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/anthropics/claude-for-legal
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Anthropic의 법률 업무용 AI 플러그인 모음을 설명하고 있다.
+- 70개 이상의 Named Agent와 20개 이상의 MCP 커넥터를 통해 다양한 법률 업무를 자동화할 수 있다.
+- 법률 실무의 효율성을 높이고, 법학 교육에 기여하는 가능성이 있다.
 
 ## GeekNews 요약
 - 사내 상업계약, 프라이버시, 고용, M&A, 소송, 규제, AI 거버넌스, 지식재산, 법학 교육까지 **법률 실무 전 영역을 커버하는 플러그인 스위트**로, Claude Cowork·Claude Code·Managed Agents API 세 가지 방식으로 배포 가능

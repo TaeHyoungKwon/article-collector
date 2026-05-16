@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-16'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://maily.so/makersnote/posts/1do1dwqlox6
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code 플러그인 Superpowers의 기능과 중요성을 다룬다.
+- Superpowers는 기획 단계의 중요성을 강조하며, AI가 구현할 부분을 명확히 정의하도록 돕는 2단계 검증 시스템을 갖추고 있다.
+- 기획자의 역할을 재정의하고, 스펙 기반의 개발을 촉진함으로써 AI 코딩의 효율성을 높이는 데 기여한다.
 
 ## GeekNews 요약
 AI 코딩 도구의 가장 큰 문제는 기획 없이 폭주한다는 것  
