@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://x.com/elonmusk/status/2055914584373141906?s=20
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 일론 머스크가 Cursor를 인수 후, Grok V9 모델 훈련에 Cursor 데이터를 추가할 계획을 발표했다.
+- V9는 1.5T 파라미터로 업그레이드되었으며, Cursor의 코딩 행동 데이터는 모델의 성능을 크게 향상시킬 것으로 기대된다.
+- 이는 xAI가 시장에서 경쟁력을 높이기 위한 전략적 투자이며, 인수 옵션 계약의 데이터 활용 가능성을 시사한다.
 
 ## GeekNews 요약
 - 일론 머스크가 5월 15~17일 X(트위터)에서 Grok 신규 모델의 훈련 현황을 직접 공개함

@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 9.099
+recommended_on: '2026-05-17'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/khw1031/glowed
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Ghostty 터미널에서 Markdown 문서를 다루는 TUI 도구인 glowed에 대해 설명하고 있다.
+- glowed는 .md 파일의 스캔, 검색, 편집을 지원하며, 외부 LLM CLI 세션을 통합할 수 있는 기능을 제공한다.
+- 사용자는 자신의 업무 흐름에 맞게 glowed를 수정하고 배포함으로써 개인화된 작업 방식을 구축할 수 있는 가능성이 있다.
 
 ## GeekNews 요약
 glowed는 Ghostty 터미널에서 프로젝트 안의 Markdown 문서를 검색, 미리보기, 편집하는 TUI 도구입니다.

@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-05-17'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Tailwind CSS에서 시맨틱 HTML과 바닐라 CSS로 전환하며 CSS 구조화를 배우는 과정을 다룬다.
+- Tailwind의 기능을 재구성하여 필요 없는 의존성을 줄이고, CSS 변수를 사용한 컴포넌트별 관리 방식을 채택했다.
+- 이는 성능과 유지보수성을 높이며, 최신 웹 개발 트렌드에 맞춰 더 유연한 디자인을 가능하게 한다.
 
 ## GeekNews 요약
 - 몇몇 사이트를 **Tailwind**에서 시맨틱 HTML과 바닐라 CSS로 옮기며, Tailwind가 제공하던 규칙 중 필요한 것만 직접 재구현함

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://crates.io/crates/zerostack/1.0.0
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Rust로 작성된 코딩 에이전트인 Zerostack에 대해 다룬다.
+- Zerostack은 여러 LLM 공급자와의 호환성을 가지며, 파일 처리 및 Bash 실행 기능을 포함한다.
+- 이 도구는 Unix에서 영감을 받아 개발되어 개발자에게 효율적인 작업 환경을 제공한다.
 
 ## GeekNews 요약
 - **zerostack**은 Rust로 작성된 최소형 코딩 에이전트로, 여러 LLM 제공자와 사용자 지정 제공자를 함께 지원함
