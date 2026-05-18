@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 7.427
+recommended_on: '2026-05-18'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/Andyyyy64/whichllm
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 사용자 하드웨어에 최적화된 로컬 LLM을 추천하는 CLI 도구인 whichllm에 대해 다룬다.
+- whichllm은 실측 벤치마크를 기반으로 GPU, CPU, RAM에 맞는 상위 모델을 랭킹으로 제시하여 가장 성능이 좋은 모델을 추천한다.
+- 이는 사용자가 하드웨어 성능을 극대화하고, 최신의 최적화된 모델을 선택할 수 있도록 돕는 중요한 도구가 된다.
 
 ## GeekNews 요약
 - **파라미터 수가 아닌 실측 벤치마크 기반**으로 사용자 하드웨어에 맞는 로컬 LLM을 자동 추천하는 CLI 도구

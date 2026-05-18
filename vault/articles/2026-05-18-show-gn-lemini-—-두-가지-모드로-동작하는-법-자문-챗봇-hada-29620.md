@@ -11,6 +11,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 6.693
+recommended_on: '2026-05-18'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/maantano/lemini-pub
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Lemini는 한국 법령과 판례에 대한 질문을 두 가지 모드로 처리하는 법 자문 챗봇이다.
+- 사용자가 상황에 대한 사실관계가 부족할 때와 문서에 대한 검토 요청 시 각 모드에서 맞춤형 피드백을 제공한다.
+- 이를 통해 법률 정보에 대한 접근성을 높이고, 신뢰할 수 있는 법적 조언을 받을 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 URL : <https://lemini-brown.vercel.app/>
