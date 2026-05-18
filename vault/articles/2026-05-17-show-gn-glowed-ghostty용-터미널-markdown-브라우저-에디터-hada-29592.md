@@ -11,7 +11,7 @@ matched_keywords:
 - RAG
 - Codex
 read: false
-recommend_score: 9.099
+recommend_score: -990.901
 recommended_on: '2026-05-17'
 source: geeknews
 tags:
