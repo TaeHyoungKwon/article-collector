@@ -10,7 +10,7 @@ matched_keywords:
 - LLM
 - RAG
 read: false
-recommend_score: 6.693
+recommend_score: -993.307
 recommended_on: '2026-05-18'
 source: geeknews
 tags:
