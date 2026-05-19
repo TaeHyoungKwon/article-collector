@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.0
+recommended_on: '2026-05-19'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://calnewport.com/the-dark-side-of-the-jevons-paradox/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 제번스 역설과 AI 시대의 효율성 증가에 따른 부작용을 다룬다.
+- 기술의 효율성 향상이 자원의 소비 증가를 초래할 수 있으며, 이는 업무 과중과 의미 없는 과잉 생산으로 이어질 수 있다.
+- 독자는 생산성이 높아진다고 해서 삶의 질이 반드시 향상되지 않음을 이해하고 주의해야 한다.
 
 ## GeekNews 요약
 AI 시대에 다시 주목받는 ‘제번스 역설’.

@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-19'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/computerphilosopher/agent-skills/blob/main/skills/goal-s
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 OpenAI의 Codex의 Goal 기능을 활용하여 목표 설정을 효율화하는 Agent Skill인 Goal Setter에 대해 설명한다.
+- Goal Setter는 사용자의 요구 사항을 조사하여 명확한 목표를 만들고 이를 바탕으로 실행 가능한 마크다운 파일을 생성한다.
+- 잘 정의된 목표 설정은 에이전트의 수행 비용을 절감하고 프로젝트 관리의 효율성을 높이는 데 기여할 수 있다.
 
 ## GeekNews 요약
 Codex에 Goal 기능이 생기면서 긴 작업을 끝날 때까지 계속 맡길 수 있게 됐습니다. 다만 Goal은 조금만 의도가 어긋나도 토큰과 시간이 크게 낭비될 수 있습니다.

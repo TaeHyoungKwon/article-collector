@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.307
+recommended_on: '2026-05-19'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://agentcat.app
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 macOS와 Windows에서 AI 에이전트의 상태와 사용량을 시각적으로 표시하는 메뉴바 앱인 에이전트 캣을 소개한다.
+- 이 앱은 에이전트와 직접 소통하지 않고 로컬 데몬을 통해 정보만 수집하며, 사용자가 필요로 하는 기능과 편의성을 고려하여 설계되었다.
+- 사용자들은 이 앱을 통해 AI 에이전트의 작업 상태를 간편하게 모니터링할 수 있으며, 오픈소스 제공으로 신뢰성을 높일 수 있다.
 
 ## GeekNews 요약
 저는 AI 에이전트를 두세 개씩 동시에 띄워놓고 일하는 편입니다. 그런데 띄워놓고 다른 일 하다 보면 "얘 지금 뭐 하고 있지?

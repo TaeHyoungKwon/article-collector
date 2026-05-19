@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.275
+recommended_on: '2026-05-19'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Codex의 Goals 기능을 어떻게 활용할 수 있는지에 대해 설명한다.
+- Goals는 영속적 목표 기능으로, 여러 턴에 걸쳐 복잡한 작업을 쉽게 처리할 수 있도록 돕는다.
+- 이는 사용자가 Codex의 작업을 사용자 통제 하에 효율적으로 관리할 수 있게 하여 실용성을 높인다.
 
 ## GeekNews 요약
 - **Goals**는 Codex 스레드가 정의된 결과를 향해 여러 턴에 걸쳐 작업을 지속하도록 만드는 **영속적 목표(persistent objective)** 기능

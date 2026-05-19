@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.818
+recommended_on: '2026-05-19'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://chromewebstore.google.com/detail/shadow-translator/njhfceigjibchcno
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 크롬 내장 Google Translate의 불편함을 해결하기 위한 크롬 확장프로그램인 Show GN에 대해 다룬다.
+- 이 프로그램은 번역문 아래에 원문을 그림자처럼 동시에 표시하여 번갈아보기의 번거로움을 덜어준다.
+- 개발자와 어학 학습자에게 유용한 기능으로, 더 나아가 구글의 공식 번역 기능 개선을 요구하는 필요성을 제기한다.
 
 ## GeekNews 요약
 가끔 퀄리티는 떨어지지만 전체 번역이 필요해서 내장 Google Translate를 사용할 때가 있습니다.  
