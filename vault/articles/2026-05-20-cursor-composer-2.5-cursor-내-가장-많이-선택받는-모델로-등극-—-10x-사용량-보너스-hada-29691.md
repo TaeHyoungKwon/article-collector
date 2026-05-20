@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.594
+recommended_on: '2026-05-20'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://x.com/mntruell/status/2056780569380626686?s=46
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Cursor의 새로운 모델 Composer 2.5이 사용자들 사이에서 가장 많이 선택받게 된 것을 다룬다.
+- Composer 2.5는 강화학습과 저렴한 가격으로 인해 빠른 채택률을 기록하며, 기존 모델과의 성능 차이를 최소화했다.
+- 이는 사용자들이 경제성과 효율성을 중시하는 현재의 AI 시장에서 Cursor의 경쟁력을 높일 수 있는 중요한 발전이다.
 
 ## GeekNews 요약
 - Cursor CEO Michael Truell가 X에 “Composer 2.5가 Cursor에서 가장 많이 선택되는 모델이 됐다. 하루 동안 모든 사용자에게 10배 사용량을 제공한다” ￼고 발표

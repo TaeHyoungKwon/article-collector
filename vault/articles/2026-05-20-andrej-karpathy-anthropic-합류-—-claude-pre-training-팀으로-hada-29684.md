@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.023
+recommended_on: '2026-05-20'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://x.com/karpathy/status/2056753169888334312?s=46
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Andrej Karpathy가 Anthropic에 합류하여 Claude pre-training 팀에서 활동을 시작했다.
+- Karpathy는 LLM 프론티어에서의 연구와 교육에 대한 열정을 강조하며, 연구 가속화를 위해 새 팀을 구성할 계획이다.
+- 이 인선은 AI 분야에서 인재 확보와 경쟁에서 Anthropic의 위상을 강화하려는 노력을 나타낸다.
 
 ## GeekNews 요약
 Andrej Karpathy, Anthropic 합류 — Claude pre-training 팀으로  

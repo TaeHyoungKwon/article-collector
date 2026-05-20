@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 5.19
+recommended_on: '2026-05-20'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://postmelee.github.io/alhangeul-macos/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 macOS에서 HWP/HWPX 파일을 보다 쉽게 다루기 위한 유틸리티 앱 알한글에 대해 소개한다.
+- 알한글은 파일 미리보기와 간단한 편집 기능을 제공하며, 현재 오픈소스로 개발되고 있다.
+- 이는 macOS 사용자들이 HWP/HWPX 파일을 관리하는 방식을 개선하여 작업 효율을 높일 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 안녕하세요. macOS용 HWP/HWPX 유틸리티 앱 알한글(Alhangeul)을 만들고 있습니다.
