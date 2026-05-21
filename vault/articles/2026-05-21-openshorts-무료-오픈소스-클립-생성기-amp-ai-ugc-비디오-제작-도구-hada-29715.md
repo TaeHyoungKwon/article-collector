@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-21'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.openshorts.app/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 OpenShorts라는 무료 오픈소스 클립 생성기 및 AI 기반 비디오 제작 도구를 다룬다.
+- 이 도구는 자동 변환, AI 비디오 생성 및 유튜브 업로드 기능을 제공하여 사용자들이 긴 영상을 짧고 매력적인 형식으로 변환할 수 있도록 돕는다.
+- 무료 및 무제한 기능으로 콘텐츠 제작자들에게 비용 효율적인 솔루션을 제공하며, 독창적인 비디오 제작 방식의 변화를 시사한다.
 
 ## GeekNews 요약
 - 긴 영상을 **9:16 세로형 바이럴 숏츠**로 자동 변환하는 셀프 호스팅 오픈소스, TikTok·Reels·YouTube Shorts 제작 지원

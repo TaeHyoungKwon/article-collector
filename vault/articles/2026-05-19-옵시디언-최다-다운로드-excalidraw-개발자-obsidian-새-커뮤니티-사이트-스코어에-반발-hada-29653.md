@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.792
+recommended_on: '2026-05-21'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.youtube.com/watch?v=wedHXARs6n4
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글에서는 Obsidian의 새로운 커뮤니티 사이트에서 Excalidraw 플러그인 개발자의 반발과 관련된 논란을 다룬다.
+- Excalidraw의 개발자 Zsolt는 보안 평가 시스템의 문제점을 지적하며, 취미 개발자들에게 상업적 기준을 요구하는 것에 대한 우려를 표명했다.
+- 이 사건은 오픈소스 생태계의 거버넌스와 보안 투명성의 균형을 어떻게 유지할 것인지에 대한 중요한 질문을 던진다.
 
 ## GeekNews 요약
 Obsidian이 새 커뮤니티 사이트에서 플러그인 보안·품질·유지보수 리뷰를 공개하자, 누적 다운로드 610만(전체의 약 5%)을 기록한 최다 다운로드 플러그인 Excalidraw의 개발자 Zsolt(zsviczian)가 27분짜리 영상으로 개발자 관점의 입장을 밝힘. Obsidian CEO Steph Ango(kepano) 도 곧바로 Reddit에 장문 답글로 응답하며 논쟁이 이어짐.

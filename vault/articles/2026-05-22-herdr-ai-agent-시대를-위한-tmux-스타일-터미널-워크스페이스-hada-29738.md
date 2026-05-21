@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-05-21'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://herdr.dev/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Herdr는 AI 에이전트를 통합 관리할 수 있는 터미널 워크스페이스 매니저입니다.
+- 각 AI agent의 상태를 자동으로 인식하고 시각적으로 표시하는 기능이 특징적입니다.
+- 이는 복잡한 개발 환경에서 여러 AI agent를 효율적으로 운영할 수 있는 솔루션을 제공합니다.
 
 ## GeekNews 요약
 Herdr는 터미널 안에서 동작하는 “agent-native” 워크스페이스 매니저입니다. tmux처럼 세션 유지(detach/reattach), pane 분할, SSH 환경 지원을 제공하면서도, Claude Code·Codex·OpenCode 같은 AI coding agent들을 여러 개 동시에 관리하는 데 최적화되어 있습니다.
