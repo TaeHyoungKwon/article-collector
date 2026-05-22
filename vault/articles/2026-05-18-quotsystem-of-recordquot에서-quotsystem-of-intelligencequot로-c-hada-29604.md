@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.386
+recommended_on: '2026-05-22'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.a16z.news/p/from-system-of-record-to-system-of
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 CRM 데이터베이스에서 AI를 활용한 지능 시스템의 전환을 다루고 있다.
+- CRM이 이제 데이터베이스에서 AI 에이전트의 입력으로 기능하는 구조적 변화가 진행 중이다.
+- 이는 기업들이 데이터에서 AI 중심의 운영으로 전환하며 비용 절감과 효율성을 동시에 추구할 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 - 엔터프라이즈 소프트웨어의 가치 중심이 기록시스템인 **CRM 데이터베이스**에서 AI 에이전트가 작동하는 지능시스템 **오케스트레이션 레이어**로 이동 중

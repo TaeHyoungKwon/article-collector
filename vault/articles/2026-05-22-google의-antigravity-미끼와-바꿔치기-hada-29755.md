@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-22'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.0xsid.com/blog/antigravity-bait-n-switch
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Google의 Antigravity에 대한 자동 업데이트 및 IDE 변경 사항을 다룬다.
+- Antigravity 2.0의 업데이트로 기존 IDE가 사라지고 독립형 챗봇 인터페이스로 전환되면서 사용자 경험이 크게 변화함.
+- 사용자의 신뢰를 위해 개발 도구는 사용자가 선택한 대로 유지되어야 한다는 점에서 중요한 시사점을 제공한다.
 
 ## GeekNews 요약
 - **Antigravity 2.0** 자동 업데이트가 기존 IDE를 독립형 Codex 스타일 대화형 도구로 바꾸면서 실행 바로가기에서 IDE가 사라짐

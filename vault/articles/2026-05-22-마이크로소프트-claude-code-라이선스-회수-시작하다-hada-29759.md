@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-22'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-not
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 마이크로소프트가 자사 AI 코딩 도구 Claude Code의 라이선스를 회수하고 GitHub Copilot CLI로의 전환을 추진한다.
+- 사내에서 Claude Code의 인기가 높았으나, GitHub Copilot CLI의 시장 점유율을 높이기 위한 전략이란 분석이 제기된다.
+- 이 결정은 마이크로소프트의 AI 관련 제품 관리 및 개발 워크플로의 효율성을 높일 가능성이 있다.
 
 ## GeekNews 요약
 마이크로소프트가 지난 12월부터 자사 개발자 수천 명에게 개방했던 Anthropic의 AI 코딩 도구 **Claude Code**의 라이선스를 대거 회수하기 시작. 6개월간 사내에서 폭발적 인기를 끌었으나, 오히려 자사 **GitHub Copilot CLI**의 입지를 위협한 것이 부메랑으로 돌아오다.

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-22'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/systalyze/utilyze
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 GPU의 효율적인 작업 수행을 측정하는 도구인 Utilyze에 대해 설명한다.
+- Utilyze는 GPU 성능 카운터를 직접 읽어, 실행 중인 작업의 실제 자원 사용량을 실시간으로 보여준다.
+- 이 도구는 사용자에게 GPU 리소스를 최대한 활용할 수 있는 방법을 제시하여, 성능 최적화의 기회를 제공한다.
 
 ## GeekNews 요약
 - `nvidia-smi`나 `nvtop`은 GPU에서 커널 실행 여부만 확인해, 실제 하드웨어 용량의 극히 일부만 쓰고 있어도 **100% 활용률을 표시**할 수 있음

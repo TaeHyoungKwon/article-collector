@@ -6,9 +6,11 @@ geeknews_score: 1
 geeknews_url: https://news.hada.io/topic?id=29765
 id: hada-29765
 matched_keywords:
+- AI
 - RAG
 read: false
-recommend_score: 2.901
+recommend_score: 4.901
+recommended_on: '2026-05-22'
 source: geeknews
 tags:
 - AI
@@ -19,7 +21,9 @@ url: https://github.com/kageroumado/phosphene
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 비디오 파일을 macOS 배경화면으로 활용할 수 있는 Phosphene 앱에 대해 다룬다.
+- 이 앱은 Apple의 비공식 WallpaperExtensionKit을 기반으로 하며, 다양한 설정과 최적화를 통해 매끄러운 비디오 배경화면 재생을 지원한다.
+- 독자는 이 앱을 통해 자신의 비디오를 활용하여 개성 있는 데스크톱 환경을 구축할 수 있음을 알 수 있다.
 
 ## GeekNews 요약
 - **Phosphene**은 사용자가 가진 비디오 파일을 macOS 데스크톱과 잠금 화면 배경화면으로 재생하는 **메뉴 막대 앱 + 배경화면 확장**임
