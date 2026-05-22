@@ -8,7 +8,7 @@ id: hada-29653
 matched_keywords:
 - AI
 read: false
-recommend_score: 3.792
+recommend_score: -996.208
 recommended_on: '2026-05-21'
 source: geeknews
 tags:
