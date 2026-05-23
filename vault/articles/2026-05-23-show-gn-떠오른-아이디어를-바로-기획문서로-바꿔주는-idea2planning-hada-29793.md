@@ -11,6 +11,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 7.609
+recommended_on: '2026-05-23'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/pentaxzs/skill-idea2planning
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 /idea2planning이라는 스킬을 통해 아이디어를 기획 문서로 변환하는 과정을 설명한다.
+- 사용자는 3단계 자동 변환 파이프라인을 통해 1-pager, PRD, ASCII 와이어프레임을 쉽게 생성할 수 있다.
+- 이 스킬은 PM·PD 직군이 빠르고 일관된 기획 문서를 작성할 수 있도록 돕기 때문에 실용성이 높다.
 
 ## GeekNews 요약
 Product Manager와 Product Designer가 자주 마주하는 과제 중 하나는,  

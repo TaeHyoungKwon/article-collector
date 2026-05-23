@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.901
+recommended_on: '2026-05-23'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://modelrift.com/blog/openscad-llm-benchmark/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 OpenSCAD Pantheon 벤치마크에서 Google Antigravity 2.0이 1위를 차지한 내용을 다룬다.
+- Antigravity 2.0은 품질 4.5/5로 치수 및 내부 패턴까지 정확하게 구현한 성과를 보였다.
+- 이 결과는 AI 코딩 도구의 발전이 건축 설계 및 제작 과정에 미치는 영향을 시사한다.
 
 ## GeekNews 요약
 - **OpenSCAD Pantheon 벤치마크**는 참고 이미지 2장과 짧은 프롬프트만으로 AI 코딩 도구가 건축물을 파라메트릭 CAD 코드로 구현하는지 시험함
