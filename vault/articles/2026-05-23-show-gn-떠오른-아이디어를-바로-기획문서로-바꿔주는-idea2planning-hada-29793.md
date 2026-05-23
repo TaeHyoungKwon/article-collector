@@ -6,10 +6,11 @@ geeknews_score: 4
 geeknews_url: https://news.hada.io/topic?id=29793
 id: hada-29793
 matched_keywords:
+- AI
 - RAG
 - Claude Code
 read: false
-recommend_score: 5.609
+recommend_score: 7.609
 source: geeknews
 tags:
 - AI
