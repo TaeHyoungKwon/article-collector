@@ -10,7 +10,7 @@ matched_keywords:
 - RAG
 - Claude Code
 read: false
-recommend_score: 7.609
+recommend_score: -992.391
 recommended_on: '2026-05-23'
 source: geeknews
 tags:
