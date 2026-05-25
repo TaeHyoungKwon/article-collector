@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.817
+recommended_on: '2026-05-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.adventuresinoss.com/aws-four-years/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AWS에서의 4년 경과와 퇴사 후의 소감을 다룬다.
+- 저자는 기업 내 인력 관리 방식이 IT 조직의 특성과 맞지 않으며, GenAI로의 초점 이동이 우려스럽다고 주장한다.
+- AWS의 변화는 사용자들이 오픈소스를 통해 더 큰 통제권을 가지게 되는 중요한 시사점을 제공한다.
 
 ## GeekNews 요약
 - **AWS에서의 4년**을 보냈고, 조직 변화속에서 해고당했지만, 회사가 예전 모습과 달라져 오히려 다행이라고 생각

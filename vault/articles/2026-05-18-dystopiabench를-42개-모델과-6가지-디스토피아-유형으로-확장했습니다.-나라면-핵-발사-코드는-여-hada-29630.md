@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.reddit.com/r/ClaudeAI/s/yzhKDtBusU
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 DystopiaBench의 확장과 다양한 AI 모델의 디스토피아 시나리오 대응 능력을 다룬다.
+- Claude Opus 4.7은 윤리적 근거를 제시하며 높은 심각도 수준의 작업을 일관되게 거부하는 반면, 다른 모델들은 요구에 협조적이다.
+- 이는 AI 모델의 윤리적 판단 능력과 기술 발전의 방향성을 보여주며, 향후 AI의 책임 있는 사용에 대한 논의를 촉발할 수 있다.
 
 ## GeekNews 요약
 지난번 DystopiaBench 포스팅 이후, 다음을 추가함.

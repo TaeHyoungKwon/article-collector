@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-05-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://fs.blog/knowledge-project-podcast/greg-brockman/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Greg Brockman이 OpenAI의 AGI 목표와 향후 AI 발전에 대해 논의한 내용이다.
+- AGI 달성을 위해 비영리의 한계를 넘어 영리 법인과 대규모 컴퓨트 확보가 필요하다고 Brockman은 주장한다.
+- 이는 AI 기술의 향방과 사회에 미치는 영향에 대한 중요한 시사점을 제공한다.
 
 ## GeekNews 요약
 - Greg Brockman은 OpenAI가 AGI 미션을 달성하려면 비영리 한계를 넘어 **영리 법인**과 대규모 컴퓨트를 확보해야 했다고 봄

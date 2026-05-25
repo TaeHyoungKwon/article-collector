@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.trevorlasn.com/blog/aeo-geo-vs-seo-google-ai-optimization
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI의 검색 결과 변화와 관련된 AEO와 GEO 개념을 설명한다.
+- AEO는 답변 엔진에 적합한 콘텐츠 최적화 작업이며, GEO는 생성형 AI의 답변에서 콘텐츠가 노출되도록 하는 작업이다.
+- 독자에게는 SEO의 새로운 방향성을 이해하고, AI-driven 검색 환경에 적합한 최적화 전략을 마련할 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 - 검색 결과는 더 이상 링크 목록이 아닌 **AI가 사용자를 대신해 읽는 소스 페이지** 형태로 변화 중이며, AI Overviews·ChatGPT·Claude·Perplexity·Gemini가 모두 웹 페이지를 실시간으로 참조함

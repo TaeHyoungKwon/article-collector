@@ -9,6 +9,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-25'
 source: geeknews
 tags:
 - Dev Tools
@@ -20,7 +21,9 @@ url: https://apps.apple.com/kr/app/codex-relay-remote-codex-app/id6764463488
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Codex Relay라는 모바일 애플리케이션의 기능과 장점에 대해 다룬다.
+- Codex Relay는 Terminal, Browser, Git, File Viewer, Markdown 기능을 포함하여 다양한 작업을 지원하는 무료 오픈소스 애플리케이션이다.
+- 이러한 기능은 사용자가 모바일 환경에서 효율적으로 개발 작업을 수행할 수 있도록 하여, 생산성을 높이는데 기여할 수 있다.
 
 ## GeekNews 요약
 100% 무료 오픈소스 기반 Codex Relay입니다.
