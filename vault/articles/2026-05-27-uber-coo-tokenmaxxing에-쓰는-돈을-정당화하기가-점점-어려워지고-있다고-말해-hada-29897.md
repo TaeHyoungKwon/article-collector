@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-05-26'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Uber의 COO가 AI 투자 효과에 대한 의문을 제기한 배경을 설명한다.
+- Uber의 CTO가 2026년 Claude Code 예산을 이미 소진했다고 발표하면서 내부 논의가 활성화되었다.
+- 이는 기업이 AI 투자에 대한 실질적 성과를 측정하고 전략을 재조정해야 하는 필요성을 보여준다.
 
 ## GeekNews 요약
 - Uber의 COO는 AI 지출이 투입 비용만큼 성과를 내는지 정당화하기가 점점 어려워졌다고 봄
