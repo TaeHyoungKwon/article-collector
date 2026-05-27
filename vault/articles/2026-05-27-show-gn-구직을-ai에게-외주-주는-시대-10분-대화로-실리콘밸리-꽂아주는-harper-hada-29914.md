@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.329
+recommended_on: '2026-05-27'
 source: geeknews
 tags:
 - AI

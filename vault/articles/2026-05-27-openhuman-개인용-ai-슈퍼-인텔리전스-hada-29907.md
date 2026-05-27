@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 10.773
+recommended_on: '2026-05-27'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/tinyhumansai/openhuman
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenHuman은 개인용 AI 슈퍼 인텔리전스를 제공하는 오픈 소스 에이전트형 비서이다.
+- 이 비서는 다양한 서드파티 앱과의 원클릭 연동과 자동 데이터 로딩 등 혁신적인 기능을 갖추고 있다.
+- 사용자에게 일상생활에서 더 효율적이고 지능적인 지원을 제공하여 생산성을 높일 수 있는 기회를 의미한다.
 
 ## GeekNews 요약
 - **일상생활에 자연스럽게 통합**되도록 설계된 오픈 소스 에이전트형 비서

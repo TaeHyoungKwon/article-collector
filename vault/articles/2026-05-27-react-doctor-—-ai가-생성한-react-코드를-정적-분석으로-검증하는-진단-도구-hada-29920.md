@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-05-27'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/millionco/react-doctor
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI가 생성한 React 코드의 품질을 검증하는 도구인 React Doctor에 대해 다루고 있다.
+- React Doctor는 프로젝트를 스캔하여 다양한 항목에 대한 진단 결과를 0~100점으로 출력하며, AI 연동을 지원한다.
+- AI 코드의 품질 검증이 중요해진 현시점에서, 이 도구는 개발자들에게 신뢰할 수 있는 코드 품질 관리 방법을 제공한다.
 
 ## GeekNews 요약
 AI 코딩 에이전트가 쓴 React 코드가 정말 올바른지, 누가 검토하고 있을까요. React Doctor는 바로 이 물음에서 출발한 도구입니다. `npx react-doctor@latest` 한 줄로 프로젝트를 스캔하면 상태 관리·부수 효과·성능·보안·접근성·아키텍처 전반에 걸친 진단 결과가 0~100점 점수와 함께 터미널에 출력됩니다. Million.co에서 개발했으며, MIT 라이선스로 공개되어 있습니다.
