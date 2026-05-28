@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.693
+recommended_on: '2026-05-28'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: http://anthropic.com/news/claude-opus-4-8
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Anthropic이 최상위 AI 모델인 Claude Opus의 최신 버전인 Claude Opus 4.8을 출시했습니다.
+- 이 모델은 성능이 향상되었고, AI의 정직성과 협업 능력이 강화되어 코딩 및 데이터 처리에서 우수한 결과를 보여줍니다.
+- Opus 4.8의 개선 사항은 기업들이 AI를 더욱 신뢰할 수 있게 하고, 효율적인 비용 관리를 가능하게 합니다.
 
 ## GeekNews 요약
 Anthropic이 자사의 최상위 모델인 Claude Opus의 업그레이드 버전인 **Claude Opus 4.8**을 출시했습니다. 이전 버전인 4.7을 기반으로 벤치마크 성능을 개선하고 협업 능력을 강화했으며, 가격은 동일하게 유지됩니다.

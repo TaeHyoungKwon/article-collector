@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.154
+recommended_on: '2026-05-28'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://simonwillison.net/2026/May/27/product-market-fit/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Anthropic과 OpenAI의 제품-시장 적합성과 관련된 매출 모델을 다룬다.
+- 엔터프라이즈 사용량 과금이 소비자 구독보다 더 큰 매출 잠재력을 가지고 있다는 점이 관심을 끈다.
+- 이는 AI 기업들이 수익 모델을 채택할 때 소비자와 기업 고객의 차별적 요구를 이해해야 함을 시사한다.
 
 ## GeekNews 요약
 - **Anthropic과 OpenAI**의 코딩·범용 에이전트는 소비자 구독보다 엔터프라이즈 사용량 과금에서 더 큰 매출 가능성을 드러냄

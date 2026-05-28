@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.708
+recommended_on: '2026-05-28'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/PurpleAILAB/Decepticon
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 자율 해킹 에이전트인 Decepticon의 기능과 구조를 다룬다.
+- Decepticon은 전문 레드팀 운영을 위한 종합적인 공격 체인을 지원하며, MITRE ATT&CK에 매핑된 작전 패키지를 생성한다.
+- 이는 사이버 보안 분야에서 효과적인 공격 및 방어 전략을 수립하는 데 중요한 기술적 기초가 된다.
 
 ## GeekNews 요약
 - **자율형 레드팀 에이전트**로, nmap 실행 후 보고서를 출력하는 수준의 데모와 차별화된 **전문 레드팀 운영** 수행
