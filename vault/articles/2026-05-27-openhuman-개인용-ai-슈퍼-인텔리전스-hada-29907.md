@@ -11,7 +11,7 @@ matched_keywords:
 - Claude Code
 - Codex
 read: false
-recommend_score: 10.773
+recommend_score: -989.227
 recommended_on: '2026-05-27'
 source: geeknews
 tags:
