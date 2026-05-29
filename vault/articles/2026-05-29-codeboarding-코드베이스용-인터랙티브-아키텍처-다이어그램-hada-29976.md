@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.386
+recommended_on: '2026-05-29'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/CodeBoarding/CodeBoarding
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- CodeBoarding은 코드베이스 아키텍처를 자동으로 시각화해주는 오픈소스 도구이다.
+- 이 도구는 정적 분석과 LLM 추론을 통해 코드베이스의 다이어그램과 문서를 자동 생성하며, 결과물을 쉽게 저장하고 활용할 수 있다.
+- 개발자는 CodeBoarding을 통해 AI와의 협업을 통해 코드 구조를 이해하고 기술 부채를 방지할 수 있는 기회를 가진다.
 
 ## GeekNews 요약
 - 사람과 AI 에이전트가 함께 보는 코드베이스 지도를 자동으로 그려주는 오픈소스 도구
