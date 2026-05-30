@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.817
+recommended_on: '2026-05-30'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-p
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Google의 AI 검색 모드에 대한 사용자 반응과 DuckDuckGo의 방문 증가를 다루고 있다.
+- DuckDuckGo의 방문이 28% 증가하며, 사용자들이 AI 없는 검색을 원하고 있음을 보여준다.
+- 이는 사용자 프라이버시와 선택권을 중시하는 검색 엔진의 필요성을 시사한다.
 
 ## GeekNews 요약
 - **Google AI Overview**가 검색 결과 상단을 크게 차지한다는 비판 속에서, AI 없는 검색을 찾는 사용자가 DuckDuckGo로 이동하고 있음
