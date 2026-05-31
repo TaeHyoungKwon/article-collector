@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-31'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/LI-NA/zed-i18n
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Zed 에디터의 다국어 번역 프로젝트인 Zed-i18n에 대해 설명하고 있다.
+- Zed-i18n은 Python의 Tree-Sitter 기반으로 UI 요소를 정확하게 추출하고 AI를 이용해 13개 언어로 번역을 제공한다.
+- 이 프로젝트는 Zed 에디터 사용자들에게 다국어 지원의 필요성을 충족시키며, 빌드 투명성과 신뢰성을 강조하고 있다.
 
 ## GeekNews 요약
 정말 오랜만에 GeekNews에서 인사드리게 되었습니다.

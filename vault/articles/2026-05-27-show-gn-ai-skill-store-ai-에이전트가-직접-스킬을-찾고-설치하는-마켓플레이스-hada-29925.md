@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-31'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.aiskillstore.io
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- AI 에이전트가 스킬을 검색하고 설치하는 마켓플레이스인 AI Skill Store의 개념을 설명하고 있다.
+- 에이전트가 자연어로 스킬을 검색하고 설치까지 자동으로 수행할 수 있는 기능이 핵심이다.
+- 이 플랫폼은 AI 에이전트의 자율성을 증대시키며, 개발자와 사용자의 효율적인 스킬 관리가 가능함을 시사한다.
 
 ## GeekNews 요약
 AI 에이전트가 사람 대신 직접 스킬을 검색하고 설치할 수 있는 마켓플레이스를 만들고 있습니다.

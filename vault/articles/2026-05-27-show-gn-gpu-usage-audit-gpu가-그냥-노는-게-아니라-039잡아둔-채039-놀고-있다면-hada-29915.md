@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-05-31'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/AI-Ocean/gpu-usage-audit
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 GPU 자원 사용 상태를 효과적으로 감사할 수 있는 도구인 GPU-Usage-Audit을 소개한다.
+- GPU-Usage-Audit은 실제 계산 시간, 비어 있는 시간, 'idle-held' 시간을 구분하여 리포트로 제공하여 자원 낭비를 식별한다.
+- 이를 통해 사용자는 공유 서버 환경에서 GPU 자원을 더 효율적으로 관리하고 비용을 절감할 수 있는 기회를 갖는다.
 
 ## GeekNews 요약
 nvidia-smi에 util 1%로 찍히면 카드가 비어 보이지만,  
