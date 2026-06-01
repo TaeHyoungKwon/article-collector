@@ -6,9 +6,10 @@ geeknews_score: 6
 geeknews_url: https://news.hada.io/topic?id=30066
 id: hada-30066
 matched_keywords:
+- AI
 - LLM
 read: false
-recommend_score: 4.154
+recommend_score: 6.154
 source: geeknews
 tags:
 - AI
