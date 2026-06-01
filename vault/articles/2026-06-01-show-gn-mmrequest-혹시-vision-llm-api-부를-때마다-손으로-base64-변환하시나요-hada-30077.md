@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-01'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://mm-request.vercel.app
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 vision 또는 audio LLM API 호출 시 이미지/오디오 파일의 base64 변환을 자동화하는 Chrome 확장인 MMRequest에 대해 다룹니다.
+- 이 확장은 파일을 드래그하거나 붙여넣기를 통해 자동으로 base64 인코딩을 수행하고, Postman에서의 JSON 본문 처리 과정을 간소화합니다.
+- 이러한 도구는 멀티모달 API 사용 시 반복적인 작업을 줄여주어 개발자들의 생산성을 향상시키는 데 기여할 수 있다.
 
 ## GeekNews 요약
 **혹시 vision 또는 audio LLM API 부를 때마다, Postman에서 매번 이미지/오디오를 base64로 변환하시는 분 계신가요?**

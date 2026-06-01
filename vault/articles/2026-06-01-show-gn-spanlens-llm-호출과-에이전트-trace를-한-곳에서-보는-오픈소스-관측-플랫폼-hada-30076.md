@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-01'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.spanlens.io
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 오픈소스 관측 플랫폼 Spanlens에 대해 다룬다.
+- Spanlens는 LLM 호출 로깅, 비용 추적, 에이전트 trace 기능을 통합하여 제공한다.
+- 이 플랫폼은 데이터 분석 및 비용 관리에 필요한 통찰력을 제공하여 기업에 중요한 의미가 있다.
 
 ## GeekNews 요약
 안녕하세요. LLM 호출 로깅, 비용 추적, 에이전트 trace를 한 곳에서 보는 오픈소스 관측 플랫폼 Spanlens를 만들고 있습니다.
