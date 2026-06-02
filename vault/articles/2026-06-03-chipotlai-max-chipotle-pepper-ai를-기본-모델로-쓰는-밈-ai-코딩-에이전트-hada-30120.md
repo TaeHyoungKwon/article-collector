@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-02'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/cyberpapiii/chipotlai-max
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Chipotlai Max는 Chipotle의 고객지원 챗봇 Pepper AI를 기반으로 하는 AI 코딩 에이전트이다.
+- 이 에이전트는 리버스 엔지니어링된 백엔드를 통해 사용자에게 밈성 코딩 기능을 제공하며, 비용은 무료로 설정되어 있다.
+- 그러나 Chipotle의 정책 위반 가능성과 운영상의 제약으로 인해 프로덕션 환경에서 사용되지 말아야 한다는 경고가 있다.
 
 ## GeekNews 요약
 - **Chipotlai Max**는 [OpenCode](https://github.com/anomalyco/opencode)를 포크해 Chipotle의 고객지원 챗봇 **Pepper AI**를 기본 모델로 설정한 밈성 AI 코딩 에이전트임

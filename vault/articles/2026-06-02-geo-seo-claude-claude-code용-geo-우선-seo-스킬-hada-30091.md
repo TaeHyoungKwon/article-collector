@@ -11,6 +11,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 8.362
+recommended_on: '2026-06-02'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/zubair-trabzada/geo-seo-claude
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 검색 엔진을 위한 웹사이트 최적화 기술을 소개하고 있다.
+- GEO-first, SEO-supported 방식으로 AI 가시성을 높이는 동시에 최적화 요소를 종합적으로 검토하는 방안이 제시된다.
+- 이는 웹사이트 운영자에게 AI 기반 콘텐츠의 중요성을 강조하며, 효과적인 검색 엔진 최적화 전략을 제공한다.
 
 ## GeekNews 요약
 - AI 검색 엔진(**ChatGPT, Claude, Perplexity, Google AI 오버뷰**)을 겨냥한 웹사이트 최적화를 수행하면서 전통 SEO 기반도 함께 유지하는 Claude Code용 스킬

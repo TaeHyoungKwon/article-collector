@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-06-02'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/kyu1204/oh-my-harness
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 코딩 에이전트를 위한 훅 제너레이터 CLI인 oh-my-harness의 개발 배경과 기능을 다룬다.
+- oh-my-harness는 프로젝트 규칙을 자동으로 설정하고 검증하여 실수를 줄여주는 안전장치를 제공한다.
+- AI 도구의 사용이 증가함에 따라, 이러한 실수 방지 메커니즘이 필수적이라는 점을 강조한다.
 
 ## GeekNews 요약
 안녕하세요. Claude Code랑 Codex를 쓰면서, 프롬프트에 배신당해(?) 훅 제너레이터인 oh-my-harness라는 CLI를 만들고 있습니다.

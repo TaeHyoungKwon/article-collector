@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.693
+recommended_on: '2026-06-02'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/epicsagas/Velith
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Velith는 AI 기반의 장문 콘텐츠 제작을 위한 워크플로우로, Obsidian과 연계하여 장기적인 문서 작성을 지원한다.
+- 이 시스템은 프롬프트 하나로 단순히 책을 생성하는 것이 아니라 집필 과정을 단계별로 지원하고, 사용자 판단을 포함하는 방식으로 진행된다.
+- 정리된 자료를 바탕으로 빠른 초안 작성을 원하는 사용자에게 유용하며, AI 활용을 통해 효율적인 문서 제작 프로세스를 제공한다.
 
 ## GeekNews 요약
 안녕하세요.
