@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-03'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/rkttu/cadenza
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Cadenza는 .NET 10+ 파일 기반 앱을 위한 간편한 스크립팅 SDK로, 코드 작성과 실행을 쉽게 할 수 있도록 돕는다.
+- 이 SDK는 콘솔 스크립트, 웹 API 등 다섯 가지 타입을 제공하며, 특히 맞춤형 AI 에이전트를 개발할 수 있는 기능이 강조된다.
+- Cadenza는 추가 라이센스 없이 VS Code 환경에서 사용 가능해, 개발자들이 보다 쉽게 AI 및 클라우드 기반 솔루션을 다룰 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 Cadenza는 .NET 10+ file-based 앱을 위한 단일 파일 스크립팅 SDK 묶음으로. .NET 10 SDK 최신 버전만 설치하면 곧바로 코드를 작성하고 실행할 수 있도록 설계되어있습니다. 익숙하지 않으신 분을 위하 부연 설명을 하자면, Python 기준으로 uv가 PEP 723 경험을 제공하는 것과 비슷한 것으로 볼 수 있습니다.

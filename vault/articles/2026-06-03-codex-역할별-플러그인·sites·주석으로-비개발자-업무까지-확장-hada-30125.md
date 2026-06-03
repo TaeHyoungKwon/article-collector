@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-03'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://openai.com/index/codex-for-every-role-tool-workflow/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Codex의 비개발자 지원 기능 및 확장성을 다룬다.
+- 비개발자가 전체 사용자 중 20%를 차지하며, 관련 앱과 스킬이 역할별로 분류되어 다양한 직무를 지원한다.
+- 이는 비개발자들이 기술적 장벽 없이 업무를 수행할 수 있도록 돕고, 팀의 생산성을 향상시키는 시사점을 갖는다.
 
 ## GeekNews 요약
 - 분석가·마케터·운영자·디자이너·투자자·뱅커 등 **비개발자**가 전체 500만 사용자의 약 20%를 차지하고 개발자보다 **3배 이상 빠르게 증가** 중

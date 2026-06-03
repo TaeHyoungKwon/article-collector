@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-03'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://oxide.computer/blog/iddqd-unsafe
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Rust 프로그래밍 언어의 값을 관리하는 라이브러리 iddqd와 그 안전성에 대해 다루고 있다.
+- iddqd는 IdOrdMap을 통해 키와 값을 효율적으로 연결하며, unsafe Rust의 도전 과제를 보여준다.
+- 이는 Rust의 메모리 안전성을 유지하면서도 복잡한 데이터 관리 문제를 해결하는 방법에 대한 인사이트를 제공한다.
 
 ## GeekNews 요약
 - **iddqd**는 값에서 키를 빌려오는 Rust 맵 라이브러리로, Oxide의 Omicron 제어 평면에서 디스크와 sled inventory 같은 큰 레코드의 인메모리 인덱스를 유지해 정확성이 중요함
