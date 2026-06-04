@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.609
+recommended_on: '2026-06-04'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claud
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code의 동적 워크플로우 기능과 작업별 맞춤 하네스를 다룬다.
+- 이 기능은 JavaScript 파일 실행을 통해 서브에이전트를 생성하고 조율하며, 다양한 작업에 효율적으로 활용될 수 있다.
+- 이를 통해 사용자는 코딩 외의 비기술적 작업에서도 Claude Code의 창의적 활용 가능성을 높일 수 있다.
 
 ## GeekNews 요약
 - **동적 워크플로우** 는 Claude Code가 작업에 맞는 **하네스(harness)** 를 즉석에서 직접 작성하는 기능으로, 기존에 별도로 구축하던 맞춤 하네스를 코드 내부에서 네이티브로 처리

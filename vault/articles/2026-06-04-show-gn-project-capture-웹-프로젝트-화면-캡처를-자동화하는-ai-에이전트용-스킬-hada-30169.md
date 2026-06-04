@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-06-04'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/Kuneosu/project-capture
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 웹 프로젝트 화면 캡처를 자동화하는 AI 도구, `project-capture`에 대해 설명한다.
+- 이 도구는 프로젝트 구조 분석과 화면 캡처 작업을 자동화하며, 사용자가 캡처 범위를 선택할 수 있도록 돕는다.
+- 이를 통해 개발자는 반복적인 캡처 작업에서 벗어나 효율성을 높일 수 있다.
 
 ## GeekNews 요약
 웹 프로젝트 화면 캡처를 반복해서 하다 보니, 라우트 확인, 로그인 처리, 캡처 범위 선택, 결과 정리를 매번 수동으로 하는 게 번거로워서 만들었습니다.
