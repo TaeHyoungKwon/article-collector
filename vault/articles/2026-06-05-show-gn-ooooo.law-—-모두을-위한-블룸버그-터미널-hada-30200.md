@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-05'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.ooooo.law/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 일반인을 위한 블룸버그 터미널인 ooooo.law의 소개와 기능에 대해 다룬다.
+- 블룸버그 터미널의 비싼 구독료에도 불구하고, 많은 정보가 이미 공개되어 있으며 이를 통합해 제공하는 플랫폼을 개발 중이라는 점이 핵심이다.
+- 일반 투자자에게 필요한 정보를 쉽게 접근할 수 있게 하여 금융 시장에 대한 이해도를 높이는 데 기여할 것으로 기대된다.
 
 ## GeekNews 요약
 ### 들어가며

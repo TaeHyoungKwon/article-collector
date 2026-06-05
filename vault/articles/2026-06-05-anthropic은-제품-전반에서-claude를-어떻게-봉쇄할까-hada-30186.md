@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-05'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.anthropic.com/engineering/how-we-contain-claude
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Anthropic이 Claude의 잠재적 피해를 봉쇄하기 위한 아키텍처 구축 방안을 다룬다.
+- 에이전트의 능력과 접근성을 확대함에 따라 위험이 증가하므로 containment 방식의 중요성이 강조된다.
+- 모델 계층보다 환경 계층에서 봉쇄를 설계해야 한다는 교훈은 안전성을 높이는 데 중요한 시사점을 제공한다.
 
 ## GeekNews 요약
 - 에이전트의 능력과 접근권한이 커질수록 **잠재적 피해 반경** 도 함께 확대되며, 클로드 웹/Claude Code/Cowork 각각에 맞춘 봉쇄 아키텍처 구축 경험을 정리

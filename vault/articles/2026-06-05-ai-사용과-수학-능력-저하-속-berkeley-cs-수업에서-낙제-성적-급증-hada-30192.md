@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-05'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-profe
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Berkeley CS 수업의 낙제율 증가와 AI 사용 간의 연관성을 다룬 글이다.
+- LLM(대형 언어 모델) 사용으로 인한 학업 부정행위가 낙제율 급증의 주요 원인으로 지적되고 있다.
+- 이는 대학 교육의 질과 학생들의 수학 능력에 대한 우려를 초래하며, 교육 방식을 재조정할 필요가 있음을 시사한다.
 
 ## GeekNews 요약
 - Berkeley CS 수업의 **낙제율**은 2026년 봄 CS 10 35.3%, CS 61A 10.6%로 과거 학기보다 크게 높아졌고, 하위 과정 D·F 비율 7%와 평균 GPA 2.8~3.3이라는 EECS 지침에서 벗어남

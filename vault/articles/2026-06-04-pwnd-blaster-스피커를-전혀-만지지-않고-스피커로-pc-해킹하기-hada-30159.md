@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-06-05'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://blog.nns.ee/2026/06/03/katana-badusb/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Creative Sound Blaster Katana V2X 스피커의 보안 취약점을 다룬다.
+- 블루투스를 통해 공격자가 물리적 접촉 없이 스피커에 악성 펌웨어를 설치하고 원격 조정할 수 있다.
+- 이는 블루투스 기기 보안의 중요성을 강조하며, 사용자는 취약점이 있는 기기를 주의해야 한다.
 
 ## GeekNews 요약
 - **Creative Sound Blaster Katana V2X**는 Bluetooth 범위 약 15m 안의 공격자가 페어링이나 물리 접촉 없이 CTP 명령과 펌웨어 업데이트를 실행해 감시 장치나 원격 Rubber Ducky처럼 바꿀 수 있음

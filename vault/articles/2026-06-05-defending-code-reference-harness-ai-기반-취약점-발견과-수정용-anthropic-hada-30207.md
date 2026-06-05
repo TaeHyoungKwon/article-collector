@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-05'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/anthropics/defending-code-reference-harness
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- **Defending Code Reference Harness**는 AI 기반으로 취약점을 발견하고 수정하는 자율 파이프라인을 제공하는 오픈소스 프레임워크이다.
+- 이 프로젝트는 Docker와 ASAN을 사용하여 C/C++ 메모리 취약점을 탐색하며, 기존 코드를 맞춤화하는 방식으로 다양한 코드베이스에 적용가능하다.
+- 독자는 이 프레임워크를 통해 자율적인 보안 작업 흐름을 구축하고, 취약점 관리와 패치 자동화를 통해 보안 성능을 개선할 수 있다.
 
 ## GeekNews 요약
 - **Defending Code Reference Harness**는 Claude로 자율 취약점 발견과 수정을 수행하기 위한 참조 구현이며, 여러 조직의 보안팀과 협업하며 얻은 학습을 바탕으로 구성한 프로젝트임
