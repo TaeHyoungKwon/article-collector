@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-06'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/pewdiepie-archdaemon/odysseus
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Odysseus는 로컬 하드웨어에서 ChatGPT/Claude의 UI 경험을 제공하는 셀프 호스팅 AI 워크스페이스이다.
+- PewDiePie가 12개월간 개발하여 GitHub에서 출시 1주일 만에 5만 개의 스타를 기록했다.
+- 사용자는 데이터의 소유권과 디자인의 자유를 보장받으며, 강화된 AI 작업 환경을 통해 다양한 기능을 활용할 수 있다.
 
 ## GeekNews 요약
 - ChatGPT/Claude의 UI 경험을 **자체 하드웨어**에서 직접 운영하는 **로컬 퍼스트** 통합 AI 워크스페이스

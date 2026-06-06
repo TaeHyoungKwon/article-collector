@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.023
+recommended_on: '2026-06-06'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://news.ycombinator.com/item?id=48406174
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 GenAI가 실제로 사용될 때 느낀 경각심과 충격적인 경험에 대해 다루고 있다.
+- 독자들은 구형 하드웨어의 리버스 엔지니어링과 같은 사례를 통해 LLM의 활용 가능성을 확인할 수 있다.
+- 하지만 일부는 코드 품질 저하와 직업 소멸을 우려하며 GenAI의 단점을 언급해, 기술 발전에 대한 균형 잡힌 시각이 필요함을 시사한다.
 
 ## GeekNews 요약
 - DALL-E와 ChatGPT를 처음엔 한물간 장난으로 치부했지만, 실사용 과정에서 능력의 한계를 깨닫고 충격받은 **구체적 경험담**을 공유하는 스레드

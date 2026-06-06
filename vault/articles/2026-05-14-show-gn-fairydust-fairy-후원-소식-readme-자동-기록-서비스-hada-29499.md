@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-06'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.fairydust.kr
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 "Fairydust"라는 서비스가 GitHub 프로젝트의 후원 소식을 자동으로 기록하는 방법에 대해 설명한다.
+- 사용자가 GitHub에 로그인하고 후원 항목을 연결하면 새로운 후원 내용이 자동으로 README 파일에 반영된다.
+- 이 서비스는 후원자에 대한 감사의 마음을 손쉽게 표현할 수 있도록 도와주어, 개발자에게 유용한 자동화 도구가 된다.
 
 ## GeekNews 요약
 Fairy로 받은 후원 소식을 GitHub 프로젝트에 자동으로 남겨주는 서비스입니다.
