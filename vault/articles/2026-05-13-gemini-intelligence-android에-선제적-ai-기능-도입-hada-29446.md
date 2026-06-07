@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-07'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://blog.google/products-and-platforms/platforms/android/gemini-intelli
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Android에서 Gemini Intelligence라는 새로운 AI 기능 세트의 도입을 다룬다.
+- Gemini는 멀티스텝 작업 자동화와 웹 콘텐츠 요약 등 일상 업무를 대신 처리하며, 사용자의 제어권과 개인정보 보호를 강조한다.
+- 이는 Android 사용자에게 더 효율적인 작업 환경을 제공하고, 기기 간의 AI 기능 확장을 통해 새로운 활용 가능성을 제시한다.
 
 ## GeekNews 요약
 - Android가 운영체제에서 **지능형 시스템**으로 전환하며, Gemini Intelligence라는 새로운 **Proactive AI** 기능 세트를 최신 기기에 통합

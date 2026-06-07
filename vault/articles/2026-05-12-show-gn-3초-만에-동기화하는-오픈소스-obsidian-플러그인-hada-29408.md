@@ -8,6 +8,7 @@ id: hada-29408
 matched_keywords: []
 read: false
 recommend_score: 3.069
+recommended_on: '2026-06-07'
 source: geeknews
 tags:
 - Other
@@ -17,7 +18,9 @@ url: https://synch.run
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Obsidian용 오픈소스 동기화 플러그인인 Synch에 대해 다룹니다.
+- Synch는 클라우드 서비스에 의존하지 않고 몇 초 만에 파일 변경을 동기화하는 혁신적인 기능을 제공합니다.
+- 이 플러그인은 Obsidian 사용자에게 더 나은 데이터 보안과 관리 옵션을 제공하여 개인화된 경험을 개선할 수 있는 가능성을 제시합니다.
 
 ## GeekNews 요약
 Obsidian용 오픈소스 동기화 플러그인 Synch를 만들고 있습니다.

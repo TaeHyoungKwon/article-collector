@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-07'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-s
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Mini Shai-Hulud 웜이 npm 생태계에서 자가 전파형 공급망 공격을 수행하고 있다.
+- 이 공격은 정상적인 npm 패키지의 빌드 프로세스를 이용해 수십만 개의 프로젝트에 악성 코드를 전파할 수 있다.
+- 따라서 개발자들은 보안 강화를 통해 CI/CD 파이프라인과 토큰 관리에 대한 주의가 필요하다.
 
 ## GeekNews 요약
 ### 개요

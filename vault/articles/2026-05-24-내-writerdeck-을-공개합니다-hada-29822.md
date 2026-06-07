@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.023
+recommended_on: '2026-06-07'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://veronicaexplains.net/my-first-writerdeck/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 writerdeck이라는 전용 글쓰기 장치를 소개하고 그 특징을 설명한다.
+- System76 Galago Pro 노트북을 재활용하여 Debian Trixie를 설치하고, tmux와 Vimwiki를 활용한 집중적인 글쓰기 환경을 조성하였다.
+- 이는 기술을 활용하여 산만함을 줄이고 창작 활동에 보다 집중할 수 있는 방법을 제시한다.
 
 ## GeekNews 요약
 - **writerdeck**은 현대 인터넷의 산만함을 줄이는 전용 글쓰기 장치로, 새 하드웨어 대신 6년 된 노트북을 재활용한 구성임

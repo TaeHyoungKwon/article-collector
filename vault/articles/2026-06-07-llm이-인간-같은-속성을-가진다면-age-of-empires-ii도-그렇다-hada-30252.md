@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-07'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://arxiv.org/pdf/2605.31514
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 LLM과 Age of Empires II의 인간 같은 속성에 대한 의인화 평가 문제를 다룬다.
+- 의인화 평가가 표현 방식에 영향을 받을 수 있으며, 특정 기질이 LLM과 동등한 존재를 구현할 수 있다는 주장을 제기한다.
+- 이는 인공지능의 이해와 실험 설계에서 명확한 기준 설정의 필요성을 강조하며, LLM의 비고유성을 가정하는 것이 중요함을 시사한다.
 
 ## GeekNews 요약
 - LLM 연구의 **의인화 평가**는 모델 출력에 인간 같은 속성을 부여하거나 가정할 때 측정 기준 없이 해석이 표현 방식에 좌우될 수 있다는 문제 제기
