@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.307
+recommended_on: '2026-06-08'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/seungmanchoi/react-native-fsd-agent-template
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 1인 앱 개발을 위한 React Native와 Expo 기반의 베이스 템플릿을 다룹니다.
+- Feature-Sliced Design(FSD) 구조와 AI 에이전트를 통해 앱 제작과 배포 과정을 자동화합니다.
+- 1인 개발자가 반복적인 앱 개발 및 배포 작업을 효율적으로 수행할 수 있는 유용한 도구입니다.
 
 ## GeekNews 요약
 1인 개발자가 React Native 앱을 빠르게 만들고 실제 스토어 배포까지 이어갈 수 있도록 만든 베이스 템플릿입니다.

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-08'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-i
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 디자인 워크플로의 변화와 AI 도구의 활용을 다룬다.
+- Figma 대신의 프로토타입 중심의 접근 방식으로, 실제 구현이 강조되고 있다.
+- 이는 디자이너에게 빠른 피드백과 창의적 탐색의 기회를 제공하지만, 새로운 문제를 함께 야기한다.
 
 ## GeekNews 요약
 - 디자인 워크플로는 명세 문서와 Figma 목업을 거쳐 구현을 검토하는 방식에서, 실제 코드베이스에 동작하는 **프로토타입 기능**을 만드는 흐름으로 이동 중

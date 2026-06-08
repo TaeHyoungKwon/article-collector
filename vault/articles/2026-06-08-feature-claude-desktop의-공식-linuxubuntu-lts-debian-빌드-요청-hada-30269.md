@@ -11,6 +11,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 6.901
+recommended_on: '2026-06-08'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/anthropics/claude-code/issues/65697
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Desktop의 Linux(Ubuntu/Debian) 공식 빌드 요청과 관련된 문제를 다룬다.
+- 요청자는 Linux에서의 보안 및 개발 워크플로 문제를 언급하며 공식 지원의 필요성을 주장한다.
+- 이는 Linux 사용자의 개발 환경 안전성과 효율성을 높이는 데 중요한 시사점을 가진다.
 
 ## GeekNews 요약
 - 이 이슈는 Claude Desktop의 Linux 공식 빌드 또는 최소한 Anthropic의 공개 입장을 요구하는 기능 요청이며, 제공된 내용상 아직 유지보수자의 답변이나 최종 결정은 확인되지 않는다.

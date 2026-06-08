@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.901
+recommended_on: '2026-06-08'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/devenjarvis/lathe
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Lathe는 LLM을 활용하여 사용자가 실습형 기술 튜토리얼을 로컬 UI에서 직접 학습할 수 있도록 돕는 도구이다.
+- 이 도구는 튜토리얼 생성, 검증, 확장을 지원하며, 여러 LLM 세션에서 튜토리얼 제작이 가능하다.
+- Lathe는 개인 학습에 초점을 맞추고 있으며, 사용자 맞춤형 튜토리얼을 통한 효과적인 자기 학습 방법을 제공한다.
 
 ## GeekNews 요약
 - Lathe는 LLM이 대신 생각하게 하기보다 가르치도록 쓰는 실험으로, 프롬프트에서 **실습형 기술 튜토리얼**을 생성하고 사용자가 로컬 UI에서 직접 손으로 따라가며 학습하게 함

@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-08'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/PerryTS/perry
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 TypeScript를 LLVM 기계어로 직접 컴파일하는 오픈소스 프로젝트 "Perry"에 대해 다룬다.
+- Perry는 런타임 없이 TypeScript 코드를 네이티브 바이너리로 컴파일하여 크로스 플랫폼 지원과 함께 True TypeScript 기능을 제공한다.
+- 이 프로젝트는 TypeScript의 사용성을 시스템 프로그래밍과 초경량 앱으로 확장하려는 시도로, 개발자들에게 새로운 가능성을 제시한다.
 
 ## GeekNews 요약
 기존의 TypeScript 개발 패러다임은 고수준 추상화인 TS 코드를 JavaScript로 트랜스파일한 뒤, V8이나 JavaScriptCore 같은 무거운 JIT 런타임 엔진(Node.js, Bun, Deno 등) 위에서 구동하는 방식이 당연시되어 왔습니다.
