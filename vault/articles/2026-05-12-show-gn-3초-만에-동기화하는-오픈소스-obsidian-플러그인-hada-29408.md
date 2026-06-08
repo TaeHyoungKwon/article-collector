@@ -7,7 +7,7 @@ geeknews_url: https://news.hada.io/topic?id=29408
 id: hada-29408
 matched_keywords: []
 read: false
-recommend_score: 3.069
+recommend_score: -996.931
 recommended_on: '2026-06-07'
 source: geeknews
 tags:
