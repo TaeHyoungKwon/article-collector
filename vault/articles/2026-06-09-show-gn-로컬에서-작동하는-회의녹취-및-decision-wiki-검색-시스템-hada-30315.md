@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.099
+recommended_on: '2026-06-09'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/notadev-iamaura/meeting-transcriber
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 로컬에서 회의 녹취 및 결정사항을 정리할 수 있는 오픈소스 도구를 소개한다.
+- 이 도구는 외부 AI 사용이 어려운 환경에서도 회의록 및 액션아이템을 효과적으로 관리할 수 있도록 설계되었다.
+- 특히 회의가 많은 업무 환경에서 효율성을 높이는 데 기여할 수 있는 점이 중요하다.
 
 ## GeekNews 요약
 한국어 회의를 로컬에서 녹음하고, 전사·요약·Decision Wiki 정리하고 검색 (AI 챗)할 수 있는 오픈소스 도구를 만들어봤습니다.

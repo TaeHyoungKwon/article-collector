@@ -8,6 +8,7 @@ id: hada-30281
 matched_keywords: []
 read: false
 recommend_score: 2.962
+recommended_on: '2026-06-09'
 source: geeknews
 tags:
 - Other
@@ -17,7 +18,9 @@ url: https://octomo.octoverse.kr
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 옥토모의 휴대폰 본인인증 API인 OCTOMO를 소개한다.
+- 사용자가 자신의 휴대폰으로 인증코드를 문자로 보내는 방식으로, 서비스 측의 SMS 발송 비용을 절감할 수 있다.
+- 인증 과정의 간소화로 사용자 경험을 개선하였지만, 해외 사용자와 특정 요금제의 제한이 있어 향후 개선이 필요하다.
 
 ## GeekNews 요약
 > 서비스에 회원가입 본인인증을 붙일 때마다 SMS 발송 비용이 부담이라, 방향을 뒤집어서 만든 휴대폰 인증 API입니다.

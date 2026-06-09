@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-06-09'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://x.com/addyosmani/status/2064127981161959567
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Addy Osmani의 루프 엔지니어링 개념을 다룬다.
+- 루프 엔지니어링은 AI 코딩 에이전트가 사람이 직접 지시하지 않고, 반복 가능한 작업 시스템을 통해 자동화된 구조로 전환되는 방식이다.
+- 이를 통해 개발자는 작업 방식의 변화를 경험하게 되지만, 여전히 검증 책임과 이해도의 중요성이 남아있음을 강조한다.
 
 ## GeekNews 요약
 AI 코딩 에이전트의 다음 단계로 제시된 ‘루프 엔지니어링’

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.099
+recommended_on: '2026-06-09'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://mqlang.org/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 mq라는 Markdown 쿼리 언어의 기능과 용도를 설명한다.
+- mq는 Markdown 문서를 효율적으로 질의하고 변환할 수 있는 CLI 도구로, 구조화된 데이터 처리에 유용하다.
+- LLM이 Markdown을 기본으로 사용하는 현 상황에서 mq는 문서 관리 및 콘텐츠 분석 작업에 중요한 기여를 할 수 있다.
 
 ## GeekNews 요약
 - jq와 유사한 문법으로 **Markdown 문서를 질의·필터링·변환**하는 CLI 도구로, JSON에서 jq가 하던 역할을 Markdown으로 옮겨옴
