@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-10'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Microsoft의 오픈소스 도구에서 해킹 사건이 발생하여 AI 개발자들의 비밀번호가 탈취당하는 사례를 다룬다.
+- GitHub에 호스팅된 최소 70개의 프로젝트가 침해되어 비밀번호 탈취 악성코드가 주입되었고, Microsoft는 즉각적으로 접근을 차단했다.
+- 이번 사건은 오픈소스 코드의 보안 취약성을 드러내며, 개발자들에게 공급망 공격에 대한 경각심을 높여주는 계기가 된다.
 
 ## GeekNews 요약
 - GitHub에 호스팅된 **수십 개의 오픈소스 프로젝트**가 해커에 의해 침해되어 비밀번호 탈취 악성코드가 코드에 주입되면서, Microsoft가 해당 프로젝트 접근을 차단하고 조사에 착수
