@@ -11,6 +11,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 7.099
+recommended_on: '2026-06-11'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/supermemoryai/supermemory
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Supermemory는 AI를 위한 메모리 및 컨텍스트 엔진으로, 대화 간 정보를 기억하지 못하는 AI의 한계를 극복한다.
+- 이 시스템은 사용자 프로필을 자동으로 유지하며, 사실의 업데이트와 초과 정보를 삭제하는 기능을 제공한다.
+- 개발자들은 단일 API를 통해 메모리 및 다양한 기능을 쉽게 통합할 수 있어 AI의 개인화 및 효율성을 높일 수 있다.
 
 ## GeekNews 요약
 - 대화에서 **사실(facts)을 자동 추출**하고 사용자 프로필을 구축하는 AI용 메모리·컨텍스트 레이어로, 대화 간 정보를 기억하지 못하는 AI의 한계를 보완

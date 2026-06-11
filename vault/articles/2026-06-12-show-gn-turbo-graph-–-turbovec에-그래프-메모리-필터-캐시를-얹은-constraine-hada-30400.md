@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-11'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/bigmacfive/turbo-graph
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 turbovec 기반의 constrained RAG용 그래프 메모리 레이어인 turbo-graph에 대해 다룬다.
+- turbo-graph는 기존의 turbovec을 활용하여 그래프와 메타데이터 처리의 효율성을 높이는 실험을 진행 중이다.
+- 독자는 turbo-graph의 발전과 API 필요성에 대한 피드백 요청을 통해 향후 데이터 검색 기술 발전에 기여할 수 있다.
 
 ## GeekNews 요약
 안녕하세요. turbovec/TurboQuant 기반으로 constrained RAG용 graph memory layer를 붙인 turbo-graph를 만들었습니다.

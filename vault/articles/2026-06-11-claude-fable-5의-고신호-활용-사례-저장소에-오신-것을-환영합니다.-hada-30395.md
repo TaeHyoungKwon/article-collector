@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-11'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/EvoLinkAI/awesome-claude-fable-5/blob/main/README_ko.md
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Claude Fable 5의 다양한 활용 사례를 공유하는 저장소에 대한 내용이다.
+- 총 60개의 사례가 제공되며, 각 사례는 원본 소스와 크리에이터 정보를 포함하고 있다.
+- 이 저장소는 사용자들이 실용적인 워크플로와 통합 예시를 쉽게 찾을 수 있도록 도와준다.
 
 ## GeekNews 요약
 공개 크리에이터, 개발자, 벤치마크 팀, 도구 제작자가 공유한 선별된 Claude Fable 5 사례 60개.

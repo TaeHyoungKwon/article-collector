@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-11'
 source: geeknews
 tags:
 - Dev Tools
@@ -20,7 +21,9 @@ url: https://github.com/halfmoon-mind/rubric-evaluator
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code와 Codex 스킬의 효과성을 검증하는 방법에 대해 설명하고 있다.
+- 토스 기술 블로그에서 제안하는 루브릭 평가 방식을 통해 개발자가 자신의 스킬 수정 방향을 찾을 수 있다.
+- 이를 통해 개발자는 스킬 품질을 높이고, 사용자 피드백을 반영하여 지속적인 개선이 가능하다.
 
 ## GeekNews 요약
 내가 작성한 Claude Code, Codex의 스킬이 적절하게 작동하는지, 원하는대로 작동하는지, 불필요하게 만든 것이 아닌지 테스트할 수 있는 방법이 최근에 [토스 기술 블로그](https://toss.tech/article/skill-quality-rubric)에 올라왔는데요  

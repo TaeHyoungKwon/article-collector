@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.594
+recommended_on: '2026-06-11'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://blog.google/innovation-and-ai/technology/developers-tools/diffusion
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- DiffusionGemma는 4배 빠른 텍스트 생성을 위한 새로운 텍스트 확산 모델이다.
+- 이 모델은 256토큰 병렬 생성 방식을 통해 전용 GPU에서 효율적으로 작동하며, 26B MoE의 3.8B 파라미터만 사용한다.
+- 빠른 처리 속도가 필요한 다양한 애플리케이션에서 활용 가능하지만, 품질이 중요한 경우에는 표준 Gemma 4를 사용하는 것이 바람직하다.
 
 ## GeekNews 요약
 - **DiffusionGemma**는 텍스트 확산 방식으로 전체 텍스트 블록을 동시에 생성하는 Apache 2.0 라이선스의 26B MoE 실험용 공개 모델임

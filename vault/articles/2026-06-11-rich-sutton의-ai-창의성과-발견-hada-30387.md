@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.817
+recommended_on: '2026-06-11'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://twitter.com/RichardSSutton/status/2061216087744946656
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Rich Sutton이 주장하는 AI의 창의성과 발견에 대한 한계와 가능성을 다룬다.
+- 생성 AI는 기존 사례를 모방하는 데 강하지만 새로운 과학적 발견에는 한계가 있으며, 평가 없이는 좋은 결과를 도출하기 어렵다.
+- AI의 창의성과 발견을 자동화하려면 명시적 목표를 공유하고 평가하는 과정이 필요하다는 점이 중요하다.
 
 ## GeekNews 요약
 - 지도학습으로 훈련된 **생성 AI**는 사례와 비슷하게 행동하는 모방 모델로, 유용하더라도 과학·수학의 새로운 발견에는 한계가 있음
