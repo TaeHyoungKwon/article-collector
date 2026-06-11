@@ -10,7 +10,7 @@ matched_keywords:
 - LLM
 - Codex
 read: false
-recommend_score: 6.901
+recommend_score: -993.099
 recommended_on: '2026-06-10'
 source: geeknews
 tags:
