@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.023
+recommended_on: '2026-06-12'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://news.ycombinator.com/item?id=48465702
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 **Vision Pro** 사용자 경험과 의견을 다루고 있다.
+- 사용 빈도가 사람마다 다르며, 가격과 무게가 주요 사용 장벽으로 지적된다.
+- Vision Pro의 사용 경험은 가격 대비 성능을 고민하는 소비자에게 중요한 정보가 된다.
 
 ## GeekNews 요약
 - 거의 2년 전 같은 주제의 [스레드](https://news.ycombinator.com/item?id=40872102)가 있었고, 시간이 더 지난 지금 **Vision Pro**에 대한 생각이 궁금함

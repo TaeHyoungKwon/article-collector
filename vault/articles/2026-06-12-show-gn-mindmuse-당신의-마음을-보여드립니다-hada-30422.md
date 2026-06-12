@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.939
+recommended_on: '2026-06-12'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://themindmuse.ai
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 마음의 병을 가진 사용자가 개발한 AI 기반 마음 상태 모니터링 웹서비스에 대한 내용이다.
+- 이 서비스는 사고, 감정, 본능의 세 영역으로 마음을 분석하고, 그래프로 변화를 시각화할 수 있도록 돕는다.
+- 독자는 자신의 마음 상태를 더 잘 이해하고 관리할 수 있는 도구를 통해 심리적 지원을 받을 수 있는 가능성을 엿볼 수 있다.
 
 ## GeekNews 요약
 저는 마음의 병을 가지고 있어서  
