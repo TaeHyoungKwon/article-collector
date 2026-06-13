@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.901
+recommended_on: '2026-06-13'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 문샷 AI는 코딩 성능을 향상시킨 에이전트 중심의 모델 '키미 K2.7-Code'를 출시했다.
+- K2.7-Code는 1조 개의 매개변수를 가진 혼합 전문가 모델로, 이전 모델보다 코딩 성능을 대폭 개선하고 참조 토큰 사용량을 30% 줄였다.
+- 이 모델의 출시는 소프트웨어 엔지니어링 작업에 대한 효율성을 높이고, 서버급 배포를 통해 실용적인 응용을 가능하게 한다.
 
 ## GeekNews 요약
 > 문샷 AI가 이전 모델 대비 코딩 성능을 대폭 향상시키고 추론 토큰 소모량을 30% 줄인 에이전트 중심의 오픈 가중치 코딩 모델 '키미 K2.7-Code'를 출시했습니다.

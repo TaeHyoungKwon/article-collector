@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 5.428
+recommended_on: '2026-06-13'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://x.com/OpenAI/status/2065225362544726371
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenAI는 Codex의 토큰 리밋을 필요할 때 리셋할 수 있는 기능을 도입했다.
+- 월간 1회 리셋이 가능하며, 친구 추천 시 양쪽에 추가 토큰이 지급되는 제도도 포함됐다.
+- 이 기능은 사용자가 더 원활하게 Codex를 활용할 수 있도록 하여 서비스의 만족도를 높일 수 있다.
 
 ## GeekNews 요약
 - 월간 1회 정도의 **레이트 리밋 리셋 기능**을 기본으로 제공, 저장해 뒀다가 필요할 때 리셋을 사용 가능

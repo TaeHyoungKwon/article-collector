@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 5.201
+recommended_on: '2026-06-13'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.cnbc.com/amp/2026/06/12/anthropic-disables-access-to-fable-5-an
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Anthropic이 미국 정부의 수출통제 지시에 따라 Fable 5와 Mythos 5 모델의 사용을 전면 중단했다.
+- 해당 모델은 국가안보를 이유로 외국인의 접근이 금지되었으며, 이는 최신 AI 기술이 전략기술로 간주되고 있음을 나타낸다.
+- 이는 향후 다른 AI 기업에도 유사한 규제가 확산될 수 있음을 시사하며, 사용자 접근 제한이 중요한 이슈로 떠오르고 있다.
 
 ## GeekNews 요약
 - Anthropic이 미국 정부의 수출통제(export control) 지시에 따라 최신 AI 모델인 Fable 5와 Mythos 5의 사용을 전면 중단.
