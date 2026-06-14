@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-14'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://slopscan.ava.pet/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 repo-slopscore라는 도구를 통해 Git 저장소의 AI 및 LLM 기여를 감지하는 방법을 설명한다.
+- 이 도구는 3058개의 저장소를 스캔하고, 다양한 Git 호스팅 플랫폼을 지원하여 정보를 제공합니다.
+- 이는 개발자들이 AI 기여를 명확히 파악하고, 코드 품질이나 신뢰성을 평가하는 데 도움을 줄 수 있다.
 
 ## GeekNews 요약
 - **repo-slopscore**는 Git 저장소의 커밋 기록을 분석해 AI/LLM 기여를 감지하는 도구로 소개됨

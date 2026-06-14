@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-06-14'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://desfontain.es/blog/banning-noise.html
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Census Bureau의 통계 제품에서 노이즈 주입 금지를 다루고 있다.
+- 노이즈 주입 금지는 개인정보를 보호하면서도 통계 유용성을 유지하려는 목적으로 시행되었다.
+- 이는 향후 통계 공개가 불완전해질 수 있다는 점에서 데이터의 정확성과 신뢰성에 중요한 영향을 미친다.
 
 ## GeekNews 요약
 - 비밀 데이터셋에서 공개 통계를 만들 때 쓰는 **노이즈 주입**은 원자료 개인정보를 숨기면서 통계 유용성을 유지하는 공개 회피 도구임

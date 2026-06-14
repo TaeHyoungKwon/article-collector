@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-14'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/murrdb/murr
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Murr는 AI 추론 워크로드를 위한 RocksDB 기반의 NVMe/S3 캐시 솔루션이다.
+- 이 시스템은 제로카피 방식의 저지연 처리와 S3 기반 tiered storage를 통해 메모리와 디스크 간 데이터 유동성을 제공한다.
+- 비용 효율성을 높이고, 대용량 데이터 처리 시 Redis보다 유리한 성능을 발휘하여 데이터 중심의 애플리케이션에 적합하다.
 
 ## GeekNews 요약
 - AI 추론 워크로드를 겨냥한 **RocksDB 기반 NVMe/S3 캐시**로 Redis를 대체 가능
