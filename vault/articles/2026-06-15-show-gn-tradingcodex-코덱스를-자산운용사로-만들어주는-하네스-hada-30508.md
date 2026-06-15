@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-15'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/monarchjuno/tradingcodex
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 tradingcodex라는 하네스가 코덱스 플랫폼을 통해 자산운용사로 작동하도록 돕는 방식에 대해 설명한다.
+- tradingcodex는 에이전트의 역할 구분과 안전한 주문 실행 구조를 통해 체계적이고 효율적인 투자 분석 및 실행을 지원한다.
+- 독자는 이 시스템을 활용해 맞춤형 투자 전략을 개발하고 실행할 수 있으며, 보다 안전한 금융 운영이 가능함을 의미한다.
 
 ## GeekNews 요약
 코덱스에서 바이브 코딩이 아닌, 바이브 인베스팅을 하기 위한 하네스입니다.

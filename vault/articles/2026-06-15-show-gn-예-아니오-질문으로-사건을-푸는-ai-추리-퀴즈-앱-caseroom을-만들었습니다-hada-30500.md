@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.428
+recommended_on: '2026-06-15'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://caseroom.space/daily
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 추리 퀴즈 앱인 CaseRoom을 소개하고 있다.
+- 사용자는 사건 브리핑을 바탕으로 예/아니오 질문을 던져 사건의 진실을 추리할 수 있다.
+- 이 앱은 혼자서도 추리 퀴즈를 즐길 수 있는 새로운 경험을 제공하며, 사고의 방식에 변화를 줄 수 있다.
 
 ## GeekNews 요약
 안녕하세요. CaseRoom이라는 AI 추리 퀴즈 서비스를 만들고 있습니다.

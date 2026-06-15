@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.386
+recommended_on: '2026-06-15'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/jadhvank/eclam
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 맥북을 클램쉘 모드에서 AI 에이전트를 계속 작동시키는 메뉴바 앱인 Electronic Clam을 소개한다.
+- 이 앱은 덮개를 닫아도 시스템을 잠재우지 않으며, 과열과 방전을 방지하는 기능을 갖추고 있다.
+- 독자는 이 앱을 활용해 외부 화면 없이도 안정적인 원격 작업이 가능해질 것이라는 점에서 의미가 있다.
 
 ## GeekNews 요약
 안녕하세요. 맥북을 덮어도(클램쉘 모드) AI 에이전트가 멈추지 않고 계속 돌아가게 하는  

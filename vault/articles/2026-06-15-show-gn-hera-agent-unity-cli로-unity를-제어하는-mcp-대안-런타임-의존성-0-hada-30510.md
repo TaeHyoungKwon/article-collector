@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 9.099
+recommended_on: '2026-06-15'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/NotNull92/hera-agent-unity
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 hera-agent-unity라는 CLI 도구를 소개하며, Unity 에디터를 실시간으로 제어하는 방식에 대해 설명한다.
+- 해당 도구는 AI가 추측하는 대신 직접 Unity에서 코드를 실행하고 결과를 반환하여 개발 효율성을 높인다.
+- 개발자는 프로토타입 제작과 UI 디자인을 더욱 간편하게 진행할 수 있으며, 모든 기능을 무료로 이용할 수 있다.
 
 ## GeekNews 요약
 - LLM은 여러분의 프로젝트를 모르고, 작년에 학습한 Unity API와 뭉뚱그린 패턴을 기억할 뿐입니다. hera-agent-unity는 AI가 코드를 넘겨짚기 전에 **살아있는 Unity 에디터에서 직접 실행하고 결과를 가져오게** 해줍니다 — 추측 대신 실측
