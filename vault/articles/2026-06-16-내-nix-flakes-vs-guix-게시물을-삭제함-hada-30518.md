@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-16'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Nix flakes와 Guix에 대한 개인 블로그 게시물이 삭제된 경과를 설명한다.
+- 게시물은 기술적 호기심으로 시작되었으나 LLM 사용 의심과 기술 비판으로 인해 삭제되었다.
+- 이는 독자들에게 정보의 출처와 신뢰성을 고려하는 것이 중요하다는 점을 시사한다.
 
 ## GeekNews 요약
 - **Nix flakes**와 Guix 대응 관계를 정리한 개인 블로그 게시물이 LLM 사용 의심을 받은 뒤 삭제됨

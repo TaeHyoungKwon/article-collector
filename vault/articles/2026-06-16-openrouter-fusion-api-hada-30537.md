@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-06-16'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://openrouter.ai/openrouter/fusion
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenRouter Fusion API는 여러 모델의 결과를 종합해 성능을 향상시키는 기능을 가진 API이다.
+- 이 API는 단일 프롬프트에 대해 여러 전문가 모델이 병렬 분석을 수행하고, 심판 모델이 그 결과를 최종 정리하여 제공하는 멀티 모델 심의 방식을 채택하고 있다.
+- 다양한 분야에서 단일 모델의 한계를 극복할 수 있는 이 API는 리서치나 전문가 비평 등에 효과적으로 활용될 수 있다.
 
 ## GeekNews 요약
 - 여러 모델의 결과를 **종합(synthesize)** 하면 개별 모델 단독 성능을 크게 능가할 수 있다는 발견에서 출발
