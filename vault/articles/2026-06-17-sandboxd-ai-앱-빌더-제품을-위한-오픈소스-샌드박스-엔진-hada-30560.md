@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/tastyeffectco/sandboxd
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- sandboxd는 AI 앱 빌더를 위한 오픈소스 샌드박스 엔진으로, 격리된 클라우드 개발 환경을 제공한다.
+- HTTP 요청 한 번으로 Linux 컨테이너를 생성하고, AI 코딩 에이전트가 즉시 앱을 빌드하여 미리보기 링크를 생성한다.
+- 이는 개발자들이 간편하게 앱을 프로토타입하고 테스트할 수 있는 효율적인 방법을 제시해준다.
 
 ## GeekNews 요약
 - 사용자별 **격리된 클라우드 개발 환경**, 내장 코딩 에이전트, 라이브 미리보기 URL을 통합해서 제공하는 **AI 앱 빌더용 오픈소스 백엔드 엔진**

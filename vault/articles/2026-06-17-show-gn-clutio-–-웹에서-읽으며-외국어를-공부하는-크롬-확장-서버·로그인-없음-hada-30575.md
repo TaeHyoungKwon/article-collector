@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.clutio.com/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Clutio라는 크롬 확장을 통해 웹에서 외국어를 공부하는 방법을 다룹니다.
+- 사용자가 클릭한 단어의 문맥에 맞는 뜻을 LLM이 제공하고, 이를 단어장 및 빈칸 퀴즈로 활용할 수 있습니다.
+- 이 확장은 로그인이나 서버 의존 없이 개인 브라우저에 데이터가 저장되어 사용자 프라이버시를 보호합니다.
 
 ## GeekNews 요약
 영문 뉴스·논문·문서를 읽다가 모르는 단어가 나오면 번역기 탭을 왔다 갔다 하게 되고,  

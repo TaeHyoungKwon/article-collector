@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.023
+recommended_on: '2026-06-17'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://parksb.github.io/en/article/32.html
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 yak shaving의 개념과 그것이 엔지니어링 과정에 미치는 영향을 다룬다.
+- yak shaving은 본래 목표와 멀어지는 연쇄 작업을 의미하며, 대체 솔루션을 고려하는 것이 중요함을 강조한다.
+- 제한된 자원에서의 효율적인 선택이 크고 작은 프로젝트의 성공을 좌우할 수 있음을 시사한다.
 
 ## GeekNews 요약
 - 블로그를 자유롭게 커스터마이즈하려다 HTML 작성, JSON 글쓰기, Markdown 변환, 컴파일·배포 도구까지 만들게 되었고 결국 **정적 사이트 생성기**를 직접 구현한 경험으로 이어짐

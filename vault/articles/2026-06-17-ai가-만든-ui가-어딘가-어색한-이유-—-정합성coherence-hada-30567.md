@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 5.177
+recommended_on: '2026-06-17'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://dev.to/kiwibreaksme/aiga-mandeun-uiga-eodinga-eosaeghan-iyu-geurigo
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI가 생성한 UI에서 정합성이 결여된 이유와 해결 방안을 다룹니다.
+- AI가 만든 UI에서 합치면 "생성된 티"가 나는 주된 원인은 각 요소 간의 불일치, 즉 정합성의 부재입니다.
+- 정합성을 높이기 위한 구체적인 방법이 제시되어 있어, 실무에서 AI를 활용한 디자인 개선에 유용한 시사점을 제공합니다.
 
 ## GeekNews 요약
 AI한테 UI 시키면 컴포넌트는 멀쩡한데 합치면 "생성된 티"가 나죠.  

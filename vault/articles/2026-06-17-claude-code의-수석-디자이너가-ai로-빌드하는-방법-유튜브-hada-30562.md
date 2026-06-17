@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.099
+recommended_on: '2026-06-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.youtube.com/watch?v=hKeDfupbA4U
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code의 활용 방법을 통해 디자이너와 개발자가 AI를 이용해 제품을 개발하는 방식을 다룬다.
+- AI를 코드 작성 도구로 사용하는 것에 그치지 않고, 제품 개발 전 과정에 통합하여 안전성과 효율성을 높이는 방법을 제시한다.
+- 이는 AI 시대에 디자인과 개발의 협업 방식을 재고하게 하며, 품질을 유지하면서도 더 빠른 실험을 가능하게 한다.
 
 ## GeekNews 요약
 - 실제 제품 개발에서 클로드 코드를 어떻게 쓰는지, Excalidraw에 autocomplete 기능을 직접 추가하며 **실전 워크플로우**를 시연

@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-06-17'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/runbear-io/sfs
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 여러 AI 에이전트가 공유하는 두뇌(shared brain) 파일시스템인 sfs에 대해 다룬다.
+- sfs는 에이전트가 동일한 폴더에서 작업하여 파일 변경 내역을 추적하고, 일반 파일처럼 즉시 읽고 쓸 수 있도록 설계되었다.
+- 독자는 AI 에이전트 간의 효율적인 작업 흐름과 데이터를 관리할 수 있는 방안을 마련할 수 있다.
 
 ## GeekNews 요약
 안녕하세요. Claude Code, Codex 같은 AI 에이전트를 여러 기기/세션에서 돌리다 보니, 에이전트마다 컨텍스트가 따로 쌓이고, 어제 한 에이전트가 정리해 둔 내용을 오늘 다른 기기의 에이전트는 모른다는 게 답답해서 만들었습니다.
