@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.023
+recommended_on: '2026-06-18'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://lore.org/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Epic Games의 오픈소스 버전 관리 시스템 Lore에 대해 설명한다.
+- Lore는 코드와 대형 바이너리 자산을 함께 지원하며, 효율적인 데이터 공유와 재사용을 강조한다.
+- 이 기술은 대규모 프로젝트에서 데이터 관리의 효율성을 높일 수 있어 개발자들에게 중요한 의미를 가진다.
 
 ## GeekNews 요약
 - Epic Games가 유지관리하는 **Lore**는 코드와 대형 바이너리 자산을 함께 다루는 프로젝트를 겨냥한 차세대 오픈소스 버전 관리 시스템임

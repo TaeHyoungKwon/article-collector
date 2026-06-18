@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.515
+recommended_on: '2026-06-18'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://htmlbook.io
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 htmlbook이라는 AI 기반 플랫폼을 통한 HTML 문서의 간편한 공유 방법을 다룬다.
+- 사용자는 생성한 HTML 문서를 링크로 공유하여 수신자가 파일을 다운받거나 설치 없이 쉽게 읽을 수 있다.
+- 이는 문서 공유 과정을 단순화하여 시간과 노력을 절약할 수 있음을 의미한다.
 
 ## GeekNews 요약
 AI한테 리포트·대시보드·문서를 HTML로 만들어달라 하면 결과물은 잘 나옴. 근데 남한테 보여주려면? `.html` 파일 그대로 보내거나(받는 쪽은 다운받아 열어야 됨), 코드 채팅에 복붙하거나, 스샷 찍음. 결과물이 로컬에 갇혀 있으니까.

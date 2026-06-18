@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-06-18'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://cursor.com/ko/origin
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Cursor에서 가을에 Git 서비스인 Origin을 출시할 예정이다.
+- 현재 출시 대기자 명단에 등록할 수 있으나, 회사 도메인을 가진 이메일만 사용 가능하다.
+- 이는 기업 사용자를 겨냥한 서비스임을 시사하며, 대기자 등록은 제한된 접근성을 보여준다.
 
 ## GeekNews 요약
 Cursor에서 올 가을 Git 서비스 Origin을 출시 예정이라고 합니다.
