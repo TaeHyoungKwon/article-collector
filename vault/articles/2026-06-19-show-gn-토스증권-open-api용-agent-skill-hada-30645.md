@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-19'
 source: geeknews
 tags:
 - Dev Tools
@@ -20,7 +21,9 @@ url: https://github.com/BEOKS/tossinvest-skill
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 토스증권 Open API를 활용할 수 있는 Agent Skill의 설치 및 사용법에 대해 설명한다.
+- 에이전트에서 토스증권의 다양한 기능을 CLI 명령어로 쉽게 사용할 수 있으며, 기본적으로 주문 관련 기능은 안전을 위해 dry-run 모드로 설정되어 있다.
+- 독자는 이 기술을 통해 개발 환경에서 금융 데이터와 서비스에 접근하고, 실수 없이 기능을 테스트할 수 있는 방법을 알게 된다.
 
 ## GeekNews 요약
 토스증권 Open API를 Codex, Claude Code 같은 에이전트에서 바로 사용할 수 있도록 만든 Agent Skill입니다.

@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.0
+recommended_on: '2026-06-19'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 SQLite 창시자 리처드 힙이 26년간의 코드 여정을 통해 전하는 개발 철학과 경험을 다룬다.
+- 힙은 자신만의 도구 개발, 외부 기여 최소화, 철저한 테스트가 코드 품질 유지의 비결이라고 주장한다.
+- 이 주장은 오픈소스 생태계에서의 자유의 본질을 이해하는 데 중요한 시사점을 제공한다.
 
 ## GeekNews 요약
 > SQLite의 창시자가 밝히는 26년간의 성공 비결은 자신만의 도구를 직접 만들고, 외부 기여를 최소화하며, 철저한 테스트를 통해 코드의 품질을 유지하는 것이다.  

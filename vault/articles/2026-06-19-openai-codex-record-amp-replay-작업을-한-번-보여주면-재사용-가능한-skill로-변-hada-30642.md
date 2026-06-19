@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 5.386
+recommended_on: '2026-06-19'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://developers.openai.com/codex/record-and-replay
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenAI Codex의 Record & Replay 기능은 사용자가 수행한 작업을 녹화하여 재사용 가능한 Skill로 변환하는 기능이다.
+- 이 기능은 반복적이고 규칙적인 작업을 간편하게 자동화할 수 있게 도와주며, 사용자 선호를 반영한 맞춤형 Skill을 생성한다.
+- 따라서 이는 개발자들이 효율성을 높이고 작업 자동화를 통해 시간을 절약할 수 있는 유용한 도구가 된다.
 
 ## GeekNews 요약
 - Record & Replay는 Mac에서 사용자가 직접 수행한 워크플로를 Codex가 관찰한 뒤, 재사용 가능한 Skill로 만들어주는 기능임

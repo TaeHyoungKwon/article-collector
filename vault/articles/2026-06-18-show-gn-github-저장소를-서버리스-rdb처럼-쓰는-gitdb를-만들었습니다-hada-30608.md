@@ -11,6 +11,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 7.609
+recommended_on: '2026-06-19'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/3x-haust/gitdb
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 GitHub 저장소를 서버리스 RDB처럼 활용하는 GitDB TypeScript 라이브러리에 대해 설명하고 있다.
+- GitDB는 데이터 변경 이력을 Git history로 관리하며, SQL 쿼리와 다양한 API를 지원한다.
+- 이는 GitHub를 데이터 저장소로 활용할 수 있는 새로운 방법을 제공하여 경량 애플리케이션 개발에 유용하다.
 
 ## GeekNews 요약
 GitDB라는 TypeScript 라이브러리를 만들고 있습니다.

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-19'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://twitter.com/NoamShazeer/status/2067400851438932297
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Noam Shazeer가 OpenAI에 합류한다는 사실을 다루고 있다.
+- 그는 Transformer 아키텍처의 핵심 개발자이자 Google의 다양한 대화형 AI 프로젝트에 기여한 인물이다.
+- Shazeer의 합류는 OpenAI의 AI 기술 발전에 중요한 영향을 미칠 것으로 예상된다.
 
 ## GeekNews 요약
 - **Transformer 아키텍처**를 만든 핵심 인물이자 Google **Gemini 공동 리드**였던 Noam Shazeer가 **OpenAI 합류**를 발표

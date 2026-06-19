@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.307
+recommended_on: '2026-06-19'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledg
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 구글의 Open Knowledge Format(OKF) 발표와 AI 에이전트를 위한 지식 공유 표준에 대해 다룬다.
+- OKF v0.1은 YAML frontmatter가 포함된 markdown 파일 디렉터리 형식으로, 복잡한 압축 방식 없이 쉽게 지식을 표현할 수 있다.
+- 개방형 사양으로서 에이전트가 파편화된 조직 지식을 효율적으로 활용할 수 있도록 하여, 생산자와 소비자가 더욱 원활하게 협력할 수 있는 환경을 제공한다.
 
 ## GeekNews 요약
 - 서로 다른 생산자가 작성한 위키를 번역 없이 여러 에이전트가 소비할 수 있게 하는 **벤더 중립적 개방형 사양**으로, **LLM-wiki 패턴**을 이식 가능하고 상호운용 가능한 형식으로 정형화
