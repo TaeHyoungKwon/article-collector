@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 9.099
+recommended_on: '2026-06-21'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/alibaba/open-code-review
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 알리바바의 AI 코드 리뷰 도구 **open-code-review**는 수백만 건의 코드 결함을 식별한 후 오픈소스로 공개되었다.
+- 이 도구는 **라인 단위의 심층 리뷰**를 통해 정밀도를 높이고, 코드 리뷰 속도를 향상시키며, 에이전트와 엔지니어링 로직의 하이브리드 구조로 동작한다.
+- 개발자들은 이 도구를 통해 코드 결함의 식별과 리뷰 과정을 효과적으로 개선할 수 있을 것으로 기대된다.
 
 ## GeekNews 요약
 - 알리바바가 내부에서 사용하던 **AI 코드 리뷰 어시스턴트**로 **2년간 수만 명의 개발자**가 **수백만 건의 코드 결함**을 식별한 뒤 오픈소스로 공개

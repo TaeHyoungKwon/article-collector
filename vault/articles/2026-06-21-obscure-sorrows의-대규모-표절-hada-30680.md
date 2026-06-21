@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-06-21'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- John Koenig의 *The Dictionary of Obscure Sorrows*가 비공식 사이트에 통째로 재게시되는 사건을 다룬다.
+- 이 사이트는 원본보다 검색에서 더 잘 보이며, AI 이미지와 GPT-4로 생성된 신조어 기능까지 추가하여 저자 의도와 혼동을 일으킨다.
+- 이는 저작권 문제를 확대시키며, 디지털 콘텐츠의 안전성과 공정성에 대한 우려를 증대시킨다.
 
 ## GeekNews 요약
 - John Koenig의 *The Dictionary of Obscure Sorrows*가 별도 도메인에 통째로 재게시되면서, **비공식 사이트**가 원본보다 검색에서 더 잘 보이는 상황이 됨

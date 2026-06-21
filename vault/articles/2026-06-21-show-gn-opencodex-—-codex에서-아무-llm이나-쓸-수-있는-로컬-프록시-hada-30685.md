@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.792
+recommended_on: '2026-06-21'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://lidge-jun.github.io/opencodex/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 opencodex라는 로컬 프록시에 대해 설명하며, 이를 통해 다양한 LLM을 Codex와 함께 사용할 수 있다.
+- opencodex는 Codex와 LLM 프로바이더 간의 프로토콜을 실시간으로 번역하여 양방향으로 작동하도록 구현되었다.
+- 독자는 opencodex를 통해 Codex의 기본 제한을 넘어서 다양한 LLM을 활용할 수 있는 가능성을 알게 된다.
 
 ## GeekNews 요약
 Codex는 OpenAI 모델만 된다. Claude 쓰고 싶으면? GLM-5.2로 코딩하고 싶으면? OpenAI가 추가해줄 때까지 기다려야 한다.

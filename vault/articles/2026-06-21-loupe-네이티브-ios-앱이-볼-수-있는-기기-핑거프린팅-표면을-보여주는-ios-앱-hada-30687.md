@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-06-21'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/mysk-research/loupe
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Loupe는 iOS와 iPadOS에서 기기의 핑거프린터 정보를 확인할 수 있는 오픈소스 앱이다.
+- 이 앱은 사용자의 개인정보를 수집하지 않으면서도 기기가 노출하는 다양한 원시 값을 통해 핑거프린트를 형성할 수 있는 방법을 제공한다.
+- 사용자와 개발자에게 앱과 웹사이트 간의 개인 인식 방법을 이해하는 데 중요한 통찰을 제공한다.
 
 ## GeekNews 요약
 - **Loupe**는 공개 iOS API에서 실제 값을 읽어 원시 형태로 보여주는 iOS·iPadOS 앱이며, 서드파티 앱이 호출할 수 있는 API를 통해 기기가 노출하는 값을 직접 확인하게 함
