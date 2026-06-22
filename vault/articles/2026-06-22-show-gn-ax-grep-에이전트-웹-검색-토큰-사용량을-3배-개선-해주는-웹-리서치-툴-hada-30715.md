@@ -6,11 +6,12 @@ geeknews_score: 1
 geeknews_url: https://news.hada.io/topic?id=30715
 id: hada-30715
 matched_keywords:
+- AI
 - LLM
 - Claude Code
 - Codex
 read: false
-recommend_score: 6.693
+recommend_score: 8.693
 source: geeknews
 tags:
 - AI
