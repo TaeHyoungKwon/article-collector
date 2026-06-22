@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 9.817
+recommended_on: '2026-06-22'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/Turtle-Hwan/im-ai-copyeditor
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 LLM을 활용한 효과적인 문장 교정 기술에 대해 다룬다.
+- LLM을 이용해 문장을 구분자 단위로 읽힘으로써 교정 및 교열 포인트를 정밀하게 잡아낼 수 있다.
+- 이 기술은 글쓰기 과정에서 놓치기 쉬운 부분을 개선할 수 있어 사용자에게 유용하다.
 
 ## GeekNews 요약
 Claude code나 codex에서 글을 교정하라고 시키면 grep으로 읽어 단어를 빠뜨리곤 합니다.  

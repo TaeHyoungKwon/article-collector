@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-22'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/TaewoooPark/Agent-Blackbox
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code와 OpenCode의 실행 과정을 기록하고 분석할 수 있는 도구인 Agent-Blackbox에 대해 설명한다.
+- 사용자가 Agent-Blackbox를 통해 실제 실행 이벤트를 기록하고, 컨텍스트 효율 분석을 실시하여 토큰 낭비를 줄일 수 있다는 점이 핵심이다.
+- 이는 개발자들에게 실행 과정의 비효율성을 이해하고 개선할 수 있는 유용한 방법을 제공하여, 작업 효율성을 높이는 데 기여할 수 있다.
 
 ## GeekNews 요약
 Claude Code / OpenCode 실행을 로컬에서 기록하고, 세션 맵과 컨텍스트 효율 점수로 보여주는 Agent-Blackbox를 만들었습니다.

@@ -11,6 +11,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 6.901
+recommended_on: '2026-06-22'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://mydoo.ai
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 클로드 코드를 기본 LLM으로 활용한 IDE myDoo의 기능과 특징을 다룬다.
+- myDoo는 VS Code 기반으로 다양한 프로젝트 관리와 AI 채팅 기능을 제공하며, 개인 사용자는 무료로 이용할 수 있다.
+- 기업 사용자는 프로젝트 과정의 기억을 공유하여 효율적인 협업을 할 수 있어 실용적이다.
 
 ## GeekNews 요약
 안녕하세요. 마이두 개발자 이근영입니다.

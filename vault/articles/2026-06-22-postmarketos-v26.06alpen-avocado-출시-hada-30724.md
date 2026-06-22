@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-22'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://postmarketos.org/blog/2026/06/21/v26.06-release/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- postmarketOS v26.06(Alpen Avocado)는 Linux 기반 모바일 운영체제의 최신 출시를 다룬다.
+- Alpine Linux 3.24를 기반으로 하며, 다수의 모바일 UI 업데이트와 새로운 기능들이 추가되었다.
+- 이 릴리스는 사용자에게 향후 지원 중단 예정인 기능들에 대한 경고와 개선된 사용자 경험을 제공한다.
 
 ## GeekNews 요약
 - **Linux 애호가**를 주 대상으로 하며, Android나 iOS 수준의 완성도를 기대하는 사용자에게는 아직 맞지 않는 릴리스

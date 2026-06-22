@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.693
+recommended_on: '2026-06-22'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/hmmhmmhm/ax-grep
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 ax-grep이라는 웹 리서치 툴의 기능과 효과를 설명한다.
+- ax-grep은 접근성 트리를 재현하여 에이전트 웹 검색 시 토큰 사용량을 3배 개선하고 메모리 소모를 15배 줄인다.
+- 이 도구는 웹 데이터 수집에 효율성을 높여주며, 개발자에게 유용한 라이브러리로 활용될 수 있다.
 
 ## GeekNews 요약
 안녕하세요 이번엔 ax-grep 이라는 에이전트 웹리서치 툴을 만들어 와봤습니다~!
