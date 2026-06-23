@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.693
+recommended_on: '2026-06-23'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://chromewebstore.google.com/detail/efpggcboclcalhhbpjeogpkepcbleoan
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 X에서 외국어 글을 자동으로 번역하는 크롬 확장을 소개한다.
+- 이 확장은 X의 자체 번역 기능을 활용하여 번역 버튼을 자동으로 클릭하며, 사용자 데이터는 외부 서버로 전송되지 않는다.
+- 독자는 이 확장을 통해 번거로운 번역 과정 없이 외국어 콘텐츠를 쉽게 소비할 수 있는 방법을 알게 된다.
 
 ## GeekNews 요약
 **Just Translate Already — for X**

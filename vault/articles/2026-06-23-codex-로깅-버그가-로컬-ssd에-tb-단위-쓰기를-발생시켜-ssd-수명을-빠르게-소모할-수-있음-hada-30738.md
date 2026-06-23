@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-23'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/openai/codex/issues/28224
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Codex가 로컬 SSD에 대량의 로그 데이터를 기록하는 버그에 대해 다룬다.
+- 21일 동안 약 37TB의 데이터가 기록되어 SSD 수명을 심각하게 단축시킬 수 있다.
+- 이 문제는 사용자의 SSD 관리에 영향을 미치며, 향후 유사한 버그 예방의 필요성을 시사한다.
 
 ## GeekNews 요약
 - Codex가 로컬 **SQLite 피드백 로그 DB**에 지속적으로 대량 데이터를 기록하며, 한 사용자 환경에서 21일 가동 후 메인 SSD에 약 **37TB**가 기록됨
