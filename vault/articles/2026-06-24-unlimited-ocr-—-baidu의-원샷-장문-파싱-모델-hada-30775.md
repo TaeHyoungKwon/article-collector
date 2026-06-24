@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-06-24'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/baidu/Unlimited-OCR
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Baidu의 새로운 원샷 장문 파싱 모델인 E2E OCR에 대해 다룬다.
+- 이 모델은 참조 슬라이딩 윈도우 어텐션(R-SWA) 기법을 통해 메모리 및 연산 비용을 차단하면서도 SOTA 성능을 달성했다.
+- 이는 OCR뿐만 아니라 ASR과 번역 등 다양한 장문 작업에 적용 가능하여 향후 인공지능 기술 발전에 기여할 수 있다.
 
 ## GeekNews 요약
 - **DeepSeek OCR**를 기반으로 디코더의 모든 어텐션을 교체해, 수십 페이지 문서를 **한 번의 순전파(forward pass)** 로 전사하는 E2E OCR 모델

@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.594
+recommended_on: '2026-06-24'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://twitter.com/JPoehnelt/status/2069482265953087602
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Google Workspace CLI 개발자가 구글에서 해고된 사건을 다룹니다.
+- 공개 직후 Hacker News 1위를 기록하고 수천 명의 사용자를 확보했지만, 법무팀의 반대로 인해 해고에 이른 것으로 보입니다.
+- 이 사건은 구글 내부에서의 혁신과 법적 문제 간의 갈등을 여실히 드러내며, 조직 내 변화에 대한 두려움을 상징적으로 보여줍니다.
 
 ## GeekNews 요약
 - gws는 Google Drive, Gmail, Calendar 등 **모든 Workspace API**를 다루며 사람과 에이전트 양쪽을 위해 설계된 오픈소스 CLI
