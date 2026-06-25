@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.099
+recommended_on: '2026-06-25'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://llm-router.cafe24.com/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Cafe24에서 공개한 통합 LLM 인프라인 LLM Router에 대해 다루고 있다.
+- LLM Router는 100개 이상의 모델을 단일 API로 호출하고, 비용 최적화를 위한 다양한 기능을 제공한다.
+- 이 기술은 개발자들이 API 통합 작업을 단순화하고 비용 관리를 개선할 수 있는 이점을 제공한다.
 
 ## GeekNews 요약
 - Claude, Gemini, Qwen, Llama, DeepSeek 등 **100개 이상 모델**을 **단일 엔드포인트**로 호출하는 통합 LLM 인프라

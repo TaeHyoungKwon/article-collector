@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.594
+recommended_on: '2026-06-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.image2image.ai
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 텍스트로 사진을 편집할 수 있는 AI 이미지 에디터, Image2Image.ai를 소개한다.
+- 사용자는 사진을 업로드하고 텍스트로 원하는 편집 내용을 입력하면 AI가 자동으로 이미지를 생성한다.
+- 이를 통해 전문적인 기술 없이도 쉽게 고품질 이미지를 제작할 수 있어 사람들은 시간과 비용을 절약할 수 있다.
 
 ## GeekNews 요약
 사진을 편집하고 싶은데 포토샵은 너무 복잡하고, 유료 툴은 부담스러우셨나요?  

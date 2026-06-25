@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.428
+recommended_on: '2026-06-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/airtaxi/Deskband11Lib
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Windows 11의 작업표시줄에 앱 UI를 통합할 수 있는 라이브러리 **Deskband11Lib**에 대해 설명한다.
+- 이 라이브러리는 WinUI 3나 WPF 앱을 작업표시줄 위젯으로 구현할 수 있는 기능을 제공한다.
+- 개발자들은 이 라이브러리를 통해 Windows 11의 작업표시줄에서도 자신만의 UI 경험을 유지할 수 있다.
 
 ## GeekNews 요약
 최근 Windows 11 작업표시줄(taskbar) 안에 직접 앱 UI를 끼워 넣을 수 있는 라이브러리를 공개했습니다. 이름은 **Deskband11Lib**이고, NuGet으로 설치하면 WinUI 3이나 WPF 앱을 작업표시줄 위젯으로 만들 수 있습니다.

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.609
+recommended_on: '2026-06-25'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://code-as-harness.github.io/code-as-harness-webpage/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 코드가 에이전트의 실행 기반으로 작용하는 새로운 관점을 다룬 논문을 소개한다.
+- 코드가 단순한 파일이 아닌, 에이전트의 환경을 구성하는 핵심 요소라는 주장을 통해 새로운 기획과 메모리 시스템을 제안한다.
+- 이는 복잡한 멀티에이전트 시스템에서 코드 설계를 통해 효율성을 개선할 수 있는 시사점을 제공한다.
 
 ## GeekNews 요약
 **UIUC × Meta × Stanford** 합작. 5월 arXiv에 올라온 서베이 논문인데, 관점이 꽤 재밌다.

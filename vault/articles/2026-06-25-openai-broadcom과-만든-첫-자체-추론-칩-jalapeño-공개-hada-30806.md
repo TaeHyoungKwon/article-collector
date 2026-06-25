@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-25'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-buil
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 OpenAI가 Broadcom과 협력하여 개발한 첫 번째 추론 칩 Jalapeño에 대해 다룬다.
+- Jalapeño는 단 9개월 만에 개발 완료되었고, 초기 테스트에서 AI GPU 대비 약 50% 비용을 절감하며 성능이 우수하다.
+- 이 칩은 OpenAI의 AI 인프라 사업자로의 확장을 지원하며, 향후 데이터센터 배치 계획이 수익성 입증에 중요한 역할을 할 것이다.
 
 ## GeekNews 요약
 - **Jalapeño(할라페뇨)** 는 LLM 추론(inference)에 특화된 가속기이자 Broadcom과 함께 만드는 **다세대 컴퓨팅 플랫폼**의 첫 결과물
