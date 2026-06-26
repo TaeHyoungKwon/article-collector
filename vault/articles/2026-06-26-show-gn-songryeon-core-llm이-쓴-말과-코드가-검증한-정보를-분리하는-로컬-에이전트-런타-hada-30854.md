@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-26'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/Junghoo-developer/SongRyeon
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 SongRyeon Core라는 로컬 에이전트 런타임 실험을 통해 LLM의 판단과 코드가 검증한 정보를 구분하는 방법을 다룬다.
+- 정보는 절대정보, 상대정보, 혼합정보로 나뉘어, 각 정보를 보다 명확하게 처리할 수 있는 구조를 제공한다.
+- 이 실험은 AI 에이전트의 신뢰성을 높이고 사용자가 정보를 올바르게 이해할 수 있도록 돕는 중요한 시도를 의미한다.
 
 ## GeekNews 요약
 안녕하세요. 코딩을 배우면서 AI 에이전트 런타임을 직접 실험하고 있는 정후입니다.

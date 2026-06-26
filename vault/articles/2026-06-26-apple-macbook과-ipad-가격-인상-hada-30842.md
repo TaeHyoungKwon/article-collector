@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.924
+recommended_on: '2026-06-26'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipa
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Apple은 부품 비용 상승으로 인해 MacBook과 iPad의 가격을 인상했다.
+- Tim Cook은 가격 인상이 불가피하며, 고객에게의 비용 전가는 지속할 수 없다고 설명했다.
+- 이 정보는 소비자에게 애플 제품 구매 시 가격 변동에 대한 주의가 필요함을 시사한다.
 
 ## GeekNews 요약
 - 메모리·저장장치 등 **부품 비용 급등**이 Apple 제품 가격에 직접 반영되며, MacBook과 iPad를 중심으로 시작 가격이 일제히 올라감

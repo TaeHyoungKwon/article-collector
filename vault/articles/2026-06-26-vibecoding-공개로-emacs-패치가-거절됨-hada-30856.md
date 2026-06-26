@@ -6,9 +6,11 @@ geeknews_score: 1
 geeknews_url: https://news.hada.io/topic?id=30856
 id: hada-30856
 matched_keywords:
+- AI
 - LLM
 read: false
-recommend_score: 2.901
+recommend_score: 4.901
+recommended_on: '2026-06-26'
 source: geeknews
 tags:
 - AI
@@ -19,7 +21,9 @@ url: https://xlii.space/eng/honesty-gets-emacs-patch-rejected/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Emacs 패치 제출이 LLM 정책으로 인해 거절된 사건을 다룬다.
+- 패치 제출자가 LLM을 활용했음에도 불구하고 정책이 이를 반영하지 않아 거절되었음을 비판했다.
+- 이는 공개 소프트웨어 프로젝트에서 정책이 기술 발전에 미치는 영향과 개발자의 동기에 대한 논의를 촉발할 수 있다.
 
 ## GeekNews 요약
 - macOS용 **Emacs 성능 개선**을 위해 만든 작은 패치가 `emacs-devel`에 제출됐지만, LLM 보조 작업을 받지 않는 GNU 정책 때문에 받아들여지지 않음

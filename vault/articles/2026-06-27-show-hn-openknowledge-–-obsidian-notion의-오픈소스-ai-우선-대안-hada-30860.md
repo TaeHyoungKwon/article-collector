@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.901
+recommended_on: '2026-06-26'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/inkeep/open-knowledge
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenKnowledge는 오픈소스 AI 우선 대안으로, 개인 노트와 지식 베이스를 위한 WYSIWYG Markdown 편집기이다.
+- 이 편집기는 Google Doc처럼 느껴지는 편집 환경을 제공하며, Claude, Codex와의 통합을 통해 협업형 AI 편집을 지원한다.
+- 사용자에게 친숙한 인터페이스와 오픈소스 특성을 결합하여, 개인 및 팀의 지식 관리 효율성을 높이는 시사점을 가진다.
 
 ## GeekNews 요약
 - 개인 노트, 지식 베이스, 스펙, LLM 위키를 위한 로컬 우선 **WYSIWYG Markdown 편집기**이며 Claude, Codex 등 하네스와의 통합을 제공함
