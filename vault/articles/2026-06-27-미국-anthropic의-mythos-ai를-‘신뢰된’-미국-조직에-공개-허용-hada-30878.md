@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-06-27'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-m
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 미국 정부가 Anthropic의 **Claude Mythos 5**를 신뢰된 조직에 공개하도록 허용했다.
+- 100곳이 넘는 미국 기관이 Mythos에 접근할 수 있게 되면서, Trump 행정부와 Anthropic 간의 긴장이 완화되었다.
+- 이는 AI 기술의 발전과 활용에 있어 정부와 기업 간의 협력이 중요함을 시사한다.
 
 ## GeekNews 요약
 - 미국 정부가 Anthropic의 강력한 **Claude Mythos 5** 차단을 풀면서, 100곳이 넘는 미국 기관·대기업·정부기관이 접근할 수 있게 됨
