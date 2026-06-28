@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-28'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://nlnetlabs.nl/llm-policy/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- NLnet Labs는 프로젝트 기여와 커뮤니케이션에서 LLM 사용을 제한하는 정책을 가지고 있다.
+- 기여는 사람이 직접 작성해야 하며, LLM의 생성물은 제출할 수 없다.
+- 이는 기여의 품질을 유지하고, 오류 가능성을 줄이기 위한 안전장치로 보인다.
 
 ## GeekNews 요약
 - NLnet Labs는 프로젝트 기여와 커뮤니케이션에서 **LLM 사용을 제한**하며, 정책 위반 제출물은 사전 통지 없이 닫히거나 삭제될 수 있음
