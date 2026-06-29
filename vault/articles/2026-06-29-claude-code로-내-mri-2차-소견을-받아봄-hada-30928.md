@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.307
+recommended_on: '2026-06-29'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://antoine.fi/mri-analysis-using-claude-code-opus
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code를 사용해 MRI 진단을 재분석한 사례에 대해 다룬다.
+- 병원 진단과 AI 분석 결과가 상반되어 최종 판단에 혼란을 초래했다.
+- 이는 AI와 의료 전문가 간의 신뢰 문제를 탐구하는 필요성을 시사한다.
 
 ## GeekNews 요약
 - 오른쪽 어깨 통증 MRI 이후 병원의 **Grade III 부분층 파열** 진단과 빠른 치료 계획에 의문이 생겨, Opus 4.8로 영상 판독을 다시 시도함

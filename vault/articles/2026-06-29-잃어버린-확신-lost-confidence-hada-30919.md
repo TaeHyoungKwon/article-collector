@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.594
+recommended_on: '2026-06-29'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://longform.asmartbear.com/confidence/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 확신 기반 우선순위 프레임워크의 문제점과 대안적 의사결정 방식을 다루고 있다.
+- 확신 점수가 프로젝트의 우선순위를 왜곡하여 가치 있는 기회를 놓칠 수 있다는 주장을 한다.
+- 독자들은 불확실성을 다루는 새로운 접근법을 통해 더 효과적인 의사결정을 할 수 있는 시사점을 얻는다.
 
 ## GeekNews 요약
 - RICE 등 **확신 기반 우선순위 프레임워크**는 대부분 노이즈이며, 알 수 없는 미래를 아는 척하지 않고 의사결정하는 방법이 필요함

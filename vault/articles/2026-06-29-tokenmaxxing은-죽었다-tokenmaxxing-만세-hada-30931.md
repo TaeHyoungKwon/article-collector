@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-06-29'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Tokenmaxxing의 개념과 그 변화가 AI 도입에 미친 영향을 다룬다.
+- Tokenmaxxing이 비용을 초래했지만, AI 도구 확산에 기여한 반면, 최근에는 누적 정확성이 더 중시되고 있다.
+- 향후 저렴한 오픈 모델을 활용한 접근 방식이 효율성을 높일 것으로 예상된다.
 
 ## GeekNews 요약
 - 기업의 AI 도입 초기에 **토큰 사용량**을 성과 평가와 연결한 tokenmaxxing은 무의미한 비용을 만들었지만, AI 도구 사용을 조직에 강제로 퍼뜨리는 역할도 했음

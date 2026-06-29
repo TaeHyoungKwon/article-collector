@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.092
+recommended_on: '2026-06-29'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://zendy00.github.io/orch-term-pages/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 코딩 에이전트를 통합하여 여러 작업 환경을 조율할 수 있는 데스크톱 앱, Orch term을 소개합니다.
+- 사용자는 여러 AI 에이전트를 동시에 운용하며 효율적으로 코드 개발 및 관리를 진행할 수 있습니다.
+- 이 앱은 개발과 협업의 방식에 변화를 가져오며, AI와의 상호작용을 통해 생산성을 높일 수 있는 가능성을 제공합니다.
 
 ## GeekNews 요약
 터미널·코드 에디터·브라우저·Git을 한 창에 담고, 그 위에서 여러 AI 코딩 에이전트(Claude Code, Codex, Gemini CLI 등)를 동시에 돌려 조율하는 데스크톱 앱입니다. Windows와 macOS를 지원합니다.
