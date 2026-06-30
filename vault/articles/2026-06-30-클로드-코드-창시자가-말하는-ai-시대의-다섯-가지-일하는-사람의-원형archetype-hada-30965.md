@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.428
+recommended_on: '2026-06-30'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://wikidocs.net/blog/@jaehong/21167/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 시대에 필요한 다섯 가지 일하는 사람의 원형에 대해 설명한다.
+- 프로토타이퍼, 빌더, 스위퍼, 그로워, 메인테이너 등 다양한 역할이 존재하며 각기 다른 기능을 수행한다.
+- 이러한 원형들은 미래 조직의 구조와 역할 분담에 대한 중요한 시사점을 제공한다.
 
 ## GeekNews 요약
 보리스 체르니(클로드 코드 창시자)는 AI 시대의 다섯 가지 일하는 사람의 원형(패턴)에 대한 글을 올렸습니다.

@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.901
+recommended_on: '2026-06-30'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Pollen의 글 삭제 시도와 관련된 사건을 다룬다.
+- 허위 저작권 신고가 공익적 기록을 지우는 경우가 발생하고 있음을 보여준다.
+- 이런 상황은 디지털 저작권 보호의 한계와 그로 인해 발생할 수 있는 사회적 문제를 시사한다.
 
 ## GeekNews 요약
 - Pollen 붕괴를 다룬 2022년 글이 **DMCA 신고**를 이유로 Google 검색 결과에서 사라지며, 허위 저작권 신고가 공익적 기록을 지울 수 있다는 문제가 드러남
