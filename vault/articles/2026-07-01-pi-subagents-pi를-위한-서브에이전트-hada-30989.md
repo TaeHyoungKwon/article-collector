@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-07-01'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/nicobailon/pi-subagents
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Pi를 위한 서브에이전트(pi-subagents) 기능에 대해 설명한다.
+- 이 기능은 자연어 요청으로 다양한 작업을 효율적으로 위임할 수 있게 해주며, 여러 빌트인 에이전트를 통해 작업의 복잡성을 줄인다.
+- 독자에게는 코드 작업의 효율성을 높이고, 무한 중첩을 방지하는 안전장치가 마련되어 있어 실용적인 이점이 있다.
 
 ## GeekNews 요약
 - **Pi 코딩 에이전트**가 작업을 **자식 Pi 세션**에 위임하도록 해주는 확장 기능

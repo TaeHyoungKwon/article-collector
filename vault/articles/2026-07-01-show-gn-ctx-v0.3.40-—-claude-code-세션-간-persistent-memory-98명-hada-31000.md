@@ -12,6 +12,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 8.693
+recommended_on: '2026-07-01'
 source: geeknews
 tags:
 - AI
@@ -23,7 +24,9 @@ url: https://github.com/jaytoone/CTX
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code에서 세션 간 지속적 메모리를 제공하는 CTX v0.3.40의 기능과 중요성을 다루고 있다.
+- CTX는 과거 대화와 결정을 다음 세션에 자동으로 주입하여 사용자 경험을 개선하며, 설치가 간편하다.
+- 이 도구는 개발자들이 작업의 연속성을 유지할 수 있도록 도와주어 효율성을 높이는 데 기여한다.
 
 ## GeekNews 요약
 Claude Code를 매일 쓰는데, 세션이 끊기면 이전 결정과 맥락이 모두 사라지는 게 너무 아까웠습니다.  

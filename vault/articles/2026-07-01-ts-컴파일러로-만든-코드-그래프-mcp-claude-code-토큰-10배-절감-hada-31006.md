@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.099
+recommended_on: '2026-07-01'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-cla
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 TS 컴파일러 활용으로 코드 그래프를 생성하여 토큰 사용을 줄이는 방법을 설명한다.
+- @ttsc/graph는 코드 의존성을 효율적으로 분석해 토큰을 약 10배 절감하며, 답변 품질은 유지된다.
+- 이는 코드 분석 효율성을 높이는 동시에, 개발자의 작업 환경을 개선할 수 있는 가능성을 제공한다.
 
 ## GeekNews 요약
 - 코딩 에이전트가 "이거 어떻게 동작해?" 같은 구조 질문에 답할 때, 보통 grep → 파일 열기 → import 추적을 수십 번 반복하며 토큰을 태움

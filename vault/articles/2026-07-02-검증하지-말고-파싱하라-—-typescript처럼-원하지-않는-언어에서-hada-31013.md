@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-01'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://cekrem.github.io/posts/parse-dont-validate-typescript/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 TypeScript에서 검증 없이 파싱하는 방법과 그에 따른 타입 시스템 문제를 다룬다.
+- 코드의 조건 확인을 최소화하고, 파서를 통해 더 신뢰할 수 있는 타입 정보를 제공해야 한다는 주장을 내세운다.
+- 이를 통해 개발자는 입력값의 유효성을 보다 효율적으로 관리할 수 있으며, 타입 안전성을 높일 수 있다.
 
 ## GeekNews 요약
 - TypeScript 코드에 `if (user.email)` 같은 확인이 흩어지면, 이미 확인한 사실이 타입에 남지 않아 호출 스택 뒤쪽에서 같은 조건을 계속 의심하게 됨

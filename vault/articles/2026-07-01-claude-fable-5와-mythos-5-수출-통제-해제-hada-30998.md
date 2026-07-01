@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-01'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://twitter.com/AnthropicAI/status/2072106151890809341
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 미국의 수출 통제 해제로 Anthropic의 Claude Fable 5와 Mythos 5 모델 접근이 재개됨을 다룬다.
+- 모델 접근 복구는 내일부터 시작되며, 사용자들은 이전 성능 유지 여부와 여러 이용 조건에 대해 궁금해하고 있다.
+- 이는 AI 모델의 사용 가능성을 확대하며, 관련 사용자와 개발자들에게 중요한 변화를 가져올 것이다.
 
 ## GeekNews 요약
 - 미국 상무부의 **수출 통제 해제** 통지로 Anthropic은 Claude Fable 5와 Mythos 5 접근을 다시 열 준비에 들어감

@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-01'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/NomaDamas/umkachu-volleyball-umlang.git
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 UmLang(엄랭)으로 피카츄 배구 게임을 구현한 과정을 다룬다.
+- Codex가 41시간 만에 피카츄 배구를 완성하며, 엄랭의 성능이 메이저 언어와 비교해 흥미로운 결과를 나타냈다.
+- 엄랭을 통한 프로그래밍 언어의 가능성은 한국어 기반 AI 개발에 새로운 시사점을 제공한다.
 
 ## GeekNews 요약
 41h만에 완성된 Umkachu Volleyball을 소개합니다!
