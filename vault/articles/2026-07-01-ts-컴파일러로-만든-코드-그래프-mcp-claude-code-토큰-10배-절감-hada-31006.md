@@ -9,7 +9,7 @@ matched_keywords:
 - AI
 - Claude Code
 read: false
-recommend_score: 5.099
+recommend_score: -994.901
 recommended_on: '2026-07-01'
 source: geeknews
 tags:
