@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-03'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.instagram.com/p/DaLWruxtU_r/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenAI가 Codex 사용자를 위한 전용 하드웨어인 **Codex Micro**를 티저 공개했다.
+- 이 장치는 Codex 관련 액션을 물리 버튼으로 빠르게 실행할 수 있도록 설계된 매크로패드 형태로, 정식 공개일은 **2026년 7월 15일**이다.
+- 개발자들에게 물리적 인터페이스를 제공함으로써 AI 코딩 도구의 활용성과 워크플로우 개선에 기여할 수 있는 가능성이 있다.
 
 ## GeekNews 요약
 OpenAI가 Codex 사용자를 위한 전용 하드웨어 **Codex Micro**를 예고했습니다.  

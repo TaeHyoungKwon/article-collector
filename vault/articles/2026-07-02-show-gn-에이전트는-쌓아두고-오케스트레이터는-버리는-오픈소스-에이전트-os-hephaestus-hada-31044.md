@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.693
+recommended_on: '2026-07-03'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/agentlas-ai/Hephaestus
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 오픈소스 에이전트 OS Hephaestus의 구조적 혁신을 다룹니다.
+- Hephaestus는 전문 에이전트를 영구 자산으로 유지하고 오케스트레이터는 태스크마다 일회성으로 사용하여 효율성을 높였습니다.
+- 이러한 접근은 에이전트 개발 및 운영에서 유연성과 재사용성을 증대시키며, 사용자에게 새로운 워크플로우를 제시합니다.
 
 ## GeekNews 요약
 태스크가 생길 때마다 에이전트를 새로 만들고 프롬프트·툴을 다시 세팅하는 게  

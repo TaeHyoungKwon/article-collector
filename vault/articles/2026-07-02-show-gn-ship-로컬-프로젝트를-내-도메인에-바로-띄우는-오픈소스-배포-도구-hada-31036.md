@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-07-03'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/gronxb/ship
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 로컬 웹 서비스를 도메인에 배포하는 오픈소스 도구인 Ship에 대한 내용을 다룹니다.
+- Ship은 Dockerfile을 이용해 SSR 서버 프로젝트를 간편하게 설정하고, Tailscale 네트워크를 통해 서비스의 접근을 제어할 수 있도록 설계되었습니다.
+- 이 도구는 홈서버 환경에서 서비스를 관리하고, 필요할 때만 외부에 공개하는 유연성을 제공하여 사용자에게 실용적인 이점을 제공합니다.
 
 ## GeekNews 요약
 Ship은 로컬에 있는 작은 웹 서비스를 내 도메인에 바로 띄우기 위해 만들고 있는 오픈소스 배포 도구입니다.
