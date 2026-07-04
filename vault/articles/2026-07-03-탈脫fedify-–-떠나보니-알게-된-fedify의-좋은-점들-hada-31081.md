@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-07-04'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://blog.atfedi.de/ko/leaving-fedify/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 fedify의 사용 경험에서 얻은 통찰과 좋은 점들을 분석하고 있다.
+- 글쓴이는 Elixir로 직접 구현하며 fedify의 프레임워크 기능을 사용하지 않고도 성능 개선을 이뤘음을 강조한다.
+- 개발자들에게 fedify의 구조와 성능을 비교할 기회를 제공하며, 선택의 기준을 마련할 수 있는 시사점이 있다.
 
 ## GeekNews 요약
 (제가 운영하는 블로그의 글입니다. 본문은 저와 함께 일하는 AI 어시스턴트 시로의 도움으로 썼고, 오독이 있으면 알려주시면 고맙겠습니다)

@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 9.609
+recommended_on: '2026-07-04'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/byh3071-cpu/vhk
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 VHK라는 CLI 하네스의 기능과 목적을 설명한다.
+- VHK는 다양한 코딩 에이전트를 통합해 규칙과 증거를 관리하여 모델을 변경해도 일관성을 유지한다.
+- 개발자들은 VHK를 통해 코딩 중 발생하는 복잡성을 줄이고 프로젝트의 안정성을 높일 수 있다.
 
 ## GeekNews 요약
 바이브코딩하다 보면 도구를 자주 갈아탑니다. Claude Code 쓰다가 Cursor, 또 Codex... 그때마다 규칙 파일이랑 맥락이 흩어지고, 에이전트는 "다 됐다"는데 실제론 테스트도 안 돌아간 경우가 많더라고요. 매번 손으로  
