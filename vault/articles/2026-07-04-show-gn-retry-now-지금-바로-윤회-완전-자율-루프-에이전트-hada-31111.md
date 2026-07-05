@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.099
+recommended_on: '2026-07-05'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/owjs3901/retry-now
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 윤회형 AI 코딩 에이전트 `retry-now`의 구조와 작동 방식을 설명한다.
+- `retry-now`는 매번 새로운 세션에서 코드를 분석하고 개선하여 이전 판단의 영향을 받지 않도록 설계되었다.
+- 독자에게 이 시스템은 코드 개선 과정의 효율성을 높이는 방법으로, 개발 환경의 발전에 기여할 수 있다.
 
 ## GeekNews 요약
 AI 코딩 에이전트를 반복 실행해서 코드베이스를 점진적으로 개선하는 에이전트 `retry-now`를 만들었습니다.

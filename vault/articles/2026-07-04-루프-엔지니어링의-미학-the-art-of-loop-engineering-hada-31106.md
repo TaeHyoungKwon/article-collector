@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.386
+recommended_on: '2026-07-05'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.langchain.com/blog/the-art-of-loop-engineering
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 루프 엔지니어링을 통해 에이전트를 효과적으로 관리하고 활용하는 방법을 다룬다.
+- 에이전트 루프는 LLM에 컨텍스트를 제공하며 도구를 반복 호출하는 구조로, 여러 종류의 루프를 쌓아 올려 더 나은 기능을 만든다.
+- 이는 에이전트를 구성하는 방식이 모델의 잠재력에 큰 영향을 미친다는 점에서 중요하다.
 
 ## GeekNews 요약
 - 에이전트를 안정적으로 유용한 작업에 활용하려면 좋은 모델만으로는 부족하며, 작업 집합에 맞게 설계된 **하네스(harness)** 가 필요함
