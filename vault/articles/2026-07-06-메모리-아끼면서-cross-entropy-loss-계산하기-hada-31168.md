@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-07'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://trillion-labs.github.io/blog/posts/fused-linear-cross-entropy/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 긴 context와 큰 vocab의 LLM 학습에서 Cross Entropy Loss의 메모리 소비 문제를 다룬다.
+- 128K context에서 logits 텐서의 크기가 40GB에 달해, 모델 weight보다 더 클 수 있다는 점이 강조된다.
+- 독자는 메모리 효율성을 개선할 수 있는 FLCE 방법론을 통해 LLM 학습에서의 OOM 문제를 해결할 수 있는 이점을 알게 된다.
 
 ## GeekNews 요약
 긴 context, 큰 vocab의 LLM 학습에서 LM head + cross entropy가 왜 가장 큰 메모리 소비처 중 하나가 되는지 짚어본 글. 128K context에서는 logits 텐서 하나가 40GB에 육박해서, 모델 weight보다도 커진다.

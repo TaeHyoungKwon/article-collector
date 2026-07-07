@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.946
+recommended_on: '2026-07-07'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/CopilotKit/OpenTag
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Slack용 Claude Tag의 오픈소스 대안인 OpenTag에 대해 설명하고 있다.
+- OpenTag는 셀프 호스팅 AI 에이전트로서 비종속성 및 다양한 플랫폼에서의 호환성을 제공한다.
+- 사용자는 원하는 모델을 연결하고 직접 운영할 수 있어 데이터 소유 및 관리에 유리하다.
 
 ## GeekNews 요약
 - Slack 스레드를 읽고 답변하며 도구를 호출해 결과를 대화창에 바로 렌더링하는 **셀프 호스팅 AI 에이전트**

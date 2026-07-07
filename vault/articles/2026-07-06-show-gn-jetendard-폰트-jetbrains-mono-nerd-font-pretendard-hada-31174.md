@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.609
+recommended_on: '2026-07-07'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/kuskhan/jetendard
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Jetendard 폰트의 설계 배경과 특징을 설명한다.
+- Jetendard 폰트는 한글의 가독성을 높이기 위해 스케일을 조정하여 불필요한 자간 공백을 줄이고, 코딩 환경에서의 시각적 편안함을 제공한다.
+- 이는 코딩 시 한글의 가독성을 향상시키며, 개발자들이 보다 효율적으로 작업할 수 있게 돕는다.
 
 ## GeekNews 요약
 [여밀 폰트](https://news.hada.io/topic?id=31137) 의 소스코드를 거의 그대로 사용했습니다. 여밀 폰트와 다른 점은 [Geist mono font](https://github.com/vercel/geist-font) 대신에 [JetBrains Mono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures)를 사용했습니다.
