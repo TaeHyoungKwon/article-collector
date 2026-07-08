@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.023
+recommended_on: '2026-07-08'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Amazon의 크라우드소싱 서비스 **Mechanical Turk**가 2026년 7월 30일부터 신규 고객 접수를 중단할 예정이다.
+- AWS는 보안과 가용성 개선을 지속하겠지만 새 기능 추가는 하지 않겠다고 밝혔다.
+- 이는 AI 산업에서 인간 작업의 필요성과 노동 윤리에 대한 논의를 촉발할 것으로 보인다.
 
 ## GeekNews 요약
 - Amazon의 크라우드소싱 서비스 **Mechanical Turk**는 2026년 7월 30일부터 신규 고객을 받지 않고, 기존 고객만 계속 사용할 수 있음

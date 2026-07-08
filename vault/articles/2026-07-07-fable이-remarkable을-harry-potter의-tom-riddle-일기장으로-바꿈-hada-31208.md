@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-08'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/MaximeRivest/Riddle
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Fable 앱이 reMarkable을 Harry Potter의 Tom Riddle 일기장처럼 바꾸는 기술적 과정에 대해 설명한다.
+- 앱은 펜으로 쓴 글씨가 사라졌다가 LLM이 이를 인식해 다시 나타나게 하는 기능을 제공한다.
+- 이러한 기능은 사용자에게 새로운 필기 경험을 제공하며, 창의적인 작업에 도움을 줄 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 - **riddle**은 reMarkable Paper Pro에서 펜으로 쓴 글씨가 잠시 뒤 사라지고, Tom Riddle의 일기장처럼 답변이 손글씨 획으로 다시 쓰였다가 사라지는 앱임
