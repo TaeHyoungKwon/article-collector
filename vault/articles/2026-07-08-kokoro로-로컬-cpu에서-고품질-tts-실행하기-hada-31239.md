@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-09'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Kokoro를 활용한 로컬 CPU에서의 고품질 텍스트 음성 변환(TTS) 실행에 대해 다룬다.
+- Kokoro는 82M 파라미터 모델로, 다양한 언어와 음성을 지원하며 GPU 없이도 최적의 성능을 낼 수 있다.
+- 이 기술은 로컬 환경에서 음성을 보다 쉽게 생성할 수 있도록 하여, 사용자 경험을 개선하는 데 기여할 수 있다.
 
 ## GeekNews 요약
 - 로컬 음성 생성은 이제 **전용 GPU 없이도** 충분히 현실적인 품질을 낼 수 있으며, 예시 환경에서는 GPU를 LLM 추론에 남기고 TTS를 CPU가 처리함

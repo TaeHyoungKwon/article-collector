@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-09'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-o
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 유럽의회가 Chat Control 과도기 규정을 재도입하기 위한 긴급 절차를 통과시켰다.
+- 이 규정은 주요 IT 기업들이 아동 성적 학대 자료를 비공식 채널에서 스캔할 수 있도록 허용한다.
+- 이 변화는 시민의 프라이버시와 데이터 보호에 중대한 영향을 미칠 수 있다.
 
 ## GeekNews 요약
 - 유럽의회가 4월 만료된 **Chat Control 과도기 규정**을 되살리는 긴급 절차를 331 대 304, 기권 11표로 통과시켜 목요일 본회의 재표결이 가능해짐

@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-09'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/kunchenguid/no-mistakes
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Git push 과정에서 실수를 방지하는 'no-mistakes' 프록시 시스템을 소개한다.
+- 이 시스템은 AI 기반 검증 파이프라인을 통해 모든 검사를 통과한 후에만 브랜치를 전달하여 안전한 배포를 지원한다.
+- 이는 개발자들이 보다 신뢰성 있게 코드를 관리하고, 작업 흐름을 방해받지 않도록 도와준다.
 
 ## GeekNews 요약
 - 실제 remote 앞에 **로컬 git 프록시**를 둬서, `origin` 대신 `no-mistakes`로 push하면 검증을 거쳐 **깔끔한 PR**을 자동 생성
