@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-07-10'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/gaemi/agentic-fc
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 오픈소스 축구 매니지먼트 시뮬레이션인 Agentic FC에 대한 소개와 첫 공개 릴리스를 다룬다.
+- AI 에이전트가 MCP를 통해 장기적으로 플레이하는 구조로 설계되어 있어, 반복적인 게임 환경의 가능성을 탐구한다.
+- 이는 AI 기반 게임 개발의 새로운 방향성을 제시하며, 게임 관찰 및 분석 도구의 필요성을 강조한다.
 
 ## GeekNews 요약
 안녕하세요. Agentic FC라는 오픈소스 축구 매니지먼트 시뮬레이션을 만들고 첫 공개 릴리즈(v0.1.0)를 올려봅니다.

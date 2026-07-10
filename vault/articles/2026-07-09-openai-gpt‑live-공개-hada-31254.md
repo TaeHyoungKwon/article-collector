@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-07-10'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://openai.com/index/introducing-gpt-live/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenAI는 실시간 대화를 개선하기 위해 **GPT‑Live‑1**과 **GPT‑Live‑1 mini**를 공개했다.
+- 이 시스템은 풀듀플렉스 구조를 통해 동시에 듣고 말하는 기능을 지원하여 상호작용의 자연스러움을 증대시킨다.
+- GPT‑Live의 도입은 음성 AI의 사용자 경험을 향상시켜, 보다 직관적인 대화형 인터페이스를 제공할 가능성이 있다.
 
 ## GeekNews 요약
 - ChatGPT Voice를 더 자연스러운 실시간 대화에 가깝게 만들기 위해 **GPT‑Live‑1**과 **GPT‑Live‑1 mini**를 공개

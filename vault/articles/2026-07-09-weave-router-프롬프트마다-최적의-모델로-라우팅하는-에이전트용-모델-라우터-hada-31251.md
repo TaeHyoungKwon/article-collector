@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.121
+recommended_on: '2026-07-10'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/workweave/router
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Weave Router는 최적의 모델로 요청을 라우팅하는 에이전트용 모델 라우터이다.
+- 이 시스템은 요청을 50ms 이내에 처리하며, 엔드포인트 변경을 통해 비용을 40-70% 절감할 수 있다.
+- 다양한 API와 오픈 소스 모델을 지원하여, 개발자들에게 유연성과 비용 효율성을 제공하는 의미가 있다.
 
 ## GeekNews 요약
 - Anthropic, OpenAI, Gemini를 **단일 엔드포인트**로 묶는 드롭인 프록시. 요청마다 최적 모델을 자동 선택

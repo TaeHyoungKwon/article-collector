@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-07-10'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-c
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Uniqlo의 Akamai 디자인 티셔츠에 인쇄된 난독화된 bash 스크립트를 해독한 과정과 결과에 대해 설명한다.
+- 디코딩된 스크립트는 `♥PEACE♥FOR♥ALL♥` 문구를 사인파 애니메이션으로 출력하는 기능을 갖추고 있다.
+- 이 이야기는 기술과 예술의 융합, 그리고 창의적 표현 방식의 중요성을 시사한다.
 
 ## GeekNews 요약
 - Uniqlo 매장에서 팔린 Akamai 디자인 티셔츠에는 `base64 --decode` 결과를 `eval`로 실행하는 **난독화된 bash 코드**가 인쇄돼 있었지만, 실제로는 `Peace for All` 캠페인용 이스터에그였음
