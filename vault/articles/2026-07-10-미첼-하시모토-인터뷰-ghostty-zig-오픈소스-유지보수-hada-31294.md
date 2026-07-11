@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-11'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 미첼 하시모토의 Ghostty, Zig, 오픈소스 유지보수에 관한 인터뷰 내용을 다룬다.
+- 하시모토는 Ghostty가 GPU 프로그래밍과 Zig 학습을 위한 개인 프로젝트에서 출발했으며, 텍스트 기반 앱의 구성 가능성을 강조한다.
+- 이 내용은 오픈소스 소프트웨어 개발자들이 기능과 품질을 개선하는 방법에 대한 통찰을 제공하여 개발 커뮤니티에 중요한 시사점을 담고 있다.
 
 ## GeekNews 요약
 - Mitchell Hashimoto는 Vagrant, Terraform, Vault 이후 **Ghostty**와 Vouch를 만들며, 터미널·Zig·오픈소스 유지보수·제품 품질에 대한 자신의 기준을 정리함

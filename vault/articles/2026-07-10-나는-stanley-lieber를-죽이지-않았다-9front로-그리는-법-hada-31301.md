@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-11'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://triapul.cz/automa/i_did_not_kill_stanley_lieber
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 9front 운영체제에서 그림을 그리는 방법과 관련된 절차를 설명한다.
+- 그림 작업은 입력 장치 선택부터 캔버스 관리와 결과물 조정까지 다양한 작업을 포함하지만, `paint(1)`의 제한으로 사용자가 직접 세심하게 관리해야 한다.
+- 이를 통해 독자는 9front의 그림 그리기가 어떻게 이루어지는지 이해하고, 이를 활용하여 창의적인 표현을 할 수 있는 방법을 알 수 있다.
 
 ## GeekNews 요약
 - 9front에서 그림을 그리는 전체 흐름을 `paint(1)` 중심으로 정리하며, **입력 장치 선택**부터 캔버스 관리, 이미지 조작, 내보내기까지 연결함

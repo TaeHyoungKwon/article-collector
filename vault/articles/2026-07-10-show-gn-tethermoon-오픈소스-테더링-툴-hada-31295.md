@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-11'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/SpaceDLFactory/TetherMoon
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Sony A7C 카메라를 위한 오픈소스 테더링 툴 TetherMoon의 기능과 발전 방향을 소개한다.
+- 이 툴은 MJPEG 스트리밍, 포커스 피킹, 다양한 촬영 모드 등의 기능을 제공하며, 현재 A7C에만 최적화되어 있다.
+- 오픈소스 프로젝트로서 더 많은 기종 지원과 기능 개선이 이루어질 가능성이 있어 사진작가들에게 유용할 수 있다.
 
 ## GeekNews 요약
 개인프로젝트로 소니 카메라 테더링 툴을 만들고 있습니다.
