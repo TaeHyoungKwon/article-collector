@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-12'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 애플이 전 직원들과 OpenAI를 상대로 영업비밀 부정취득 및 계약 위반 소송을 제기했다.
+- 소송에서는 OpenAI가 애플의 기밀 정보를 활용하여 소비자 하드웨어 시장에 진입했다고 주장하고 있다.
+- 이는 기술 기업 간 기밀 유출의 심각성을 드러내며, 경영상의 법적 대응에 대한 시사점을 제공한다.
 
 ## GeekNews 요약
 - 애플은 전 직원 2명과 OpenAI 및 Jony Ive의 io Products를 상대로 **영업비밀 부정취득**과 계약 위반 소송을 제기하며, OpenAI의 하드웨어 진출이 Apple 기밀에 기대고 있다고 주장
