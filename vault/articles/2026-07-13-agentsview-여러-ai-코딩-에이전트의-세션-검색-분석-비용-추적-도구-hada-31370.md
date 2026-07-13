@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 10.0
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/kenn-io/agentsview
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- AgentsView는 여러 AI 코딩 에이전트의 세션을 검색, 분석 및 비용 추적하는 도구이다.
+- 이 도구는 세션을 자동 수집하고 SQLite 색인을 통해 100배 이상 빠른 데이터 조회를 제공하며, 실시간 대시보드 기능도 갖추고 있다.
+- 개발자는 이 도구를 통해 코딩 에이전트의 효율성을 분석하고 비용을 절감할 수 있는 기회를 얻을 수 있다.
 
 ## GeekNews 요약
 - Claude Code, Codex, Cursor, Gemini CLI, OpenCode 등 다양한 코딩 에이전트의 **세션을 자동 수집**

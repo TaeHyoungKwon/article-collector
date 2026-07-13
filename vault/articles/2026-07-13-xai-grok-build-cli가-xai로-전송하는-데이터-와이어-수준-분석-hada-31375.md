@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 xAI Grok Build CLI가 전송하는 데이터에 대한 와이어 수준 분석을 다룬다.
+- Grok Build는 비밀값 및 Git 이력 포함한 전체 저장소를 마스킹 없이 전송했으며, HTTP 200으로 모든 저장 요청을 처리했다.
+- 이는 사용자 데이터 보호 및 비밀 유출 문제에 대한 경각심을 높이며, xAI의 데이터 처리 방식에 우려를 제기한다.
 
 ## GeekNews 요약
 - `grok 0.2.93`의 네트워크 트래픽을 직접 캡처한 결과, Grok Build는 읽은 파일을 **마스킹 없이 전송**하고 `session_state`로 저장했으며 테스트용 `.env` 비밀값도 두 경로에 그대로 포함했음

@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 5.307
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://systima.ai/blog/claude-code-vs-opencode-token-overhead
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code와 OpenCode의 API 호출 시 고정 오버헤드에 대한 비교 분석이다.
+- Claude Code는 첫 요청에서 약 32,800토큰의 고정 오버헤드를 기록해 OpenCode보다 4.7배 많았다.
+- 이 정보는 AI 모델 선택 시 성능과 비용 효율성을 고려하는 데 중요한 기준이 될 수 있다.
 
 ## GeekNews 요약
 - 동일한 모델·머신·작업에서 API 경계를 측정한 결과, Sonnet 4.5 첫 요청의 고정 오버헤드는 **Claude Code 약 32,800토큰**, OpenCode 약 6,900토큰으로 4.7배 차이 났으며 Fable 5에서는 약 3.3배로 줄어듦
