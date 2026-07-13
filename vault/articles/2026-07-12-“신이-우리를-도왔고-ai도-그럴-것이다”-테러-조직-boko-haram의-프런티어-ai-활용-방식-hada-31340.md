@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://casp.ac/reports/ai-enabled-terrorism
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Boko Haram 조직이 프런티어 AI를 전투와 운영에 활용하는 방식을 다룬다.
+- 인터뷰를 통해 확인된 바에 따르면, 이들은 AI를 공격 준비부터 작전 보안까지 광범위하게 사용하고 있다.
+- 이는 보안 체계를 강화해야 할 필요성을 시사하며, AI 기술의 악용 가능성을 경고한다.
 
 ## GeekNews 요약
 - 2025~2026년 나이지리아 북동부에서 전 Boko Haram 구성원 27명을 대상으로 **대면 인터뷰 57회**를 진행한 결과, ISWAP과 JAS 두 분파가 2023년부터 프런티어 AI를 전투·작전·일상 운영에 체계적으로 활용해 온 정황이 확인됨

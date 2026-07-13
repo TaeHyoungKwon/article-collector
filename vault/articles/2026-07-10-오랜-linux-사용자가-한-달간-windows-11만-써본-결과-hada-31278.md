@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-u
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 오랜 Linux 사용자가 Windows 11의 기본 환경을 한 달간 사용한 경험을 다룬다.
+- 사용자는 설치와 드라이버 문제, UI 일관성 부족 등으로 결국 Linux로 돌아갔다.
+- 이는 사용자 맞춤화와 시스템의 일관성을 중시하는 이들에게 중요한 참고자료가 될 수 있다.
 
 ## GeekNews 요약
 - OSNews의 장기 Linux 사용자가 후원 인센티브로 **Windows 11 기본 환경**을 한 달간 업무에만 사용했지만, 설치·드라이버·절전·앱 생태계·UI 일관성에서 반복적으로 막혀 결국 Linux로 돌아감

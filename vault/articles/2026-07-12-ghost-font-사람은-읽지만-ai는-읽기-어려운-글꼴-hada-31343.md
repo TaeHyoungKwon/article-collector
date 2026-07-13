@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.mixfont.com/ghost-font
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Ghost Font라는 글꼴이 사람은 쉽게 읽지만 AI는 읽기 어려운 방식으로 정보를 전달하는 실험을 다룬다.
+- Ghost Font는 점들의 움직임을 활용하여 AI가 메시지를 해독하는 데 어려움을 겪게 만들며, 특정 기법을 요구한다.
+- 이 글꼴은 AI의 시각 인식 능력을 시험할 수 있지만, 그 해독 가능성과 사용자 경험의 난이도에서 한계를 지닐 수 있다.
 
 ## GeekNews 요약
 - **Ghost Font**는 배경과 같은 점들의 움직임으로 글자를 만들어, 사람은 영상에서 메시지를 인식하지만 개별 프레임을 분석하는 AI는 쉽게 해독하지 못하게 하는 시각 커뮤니케이션 실험임

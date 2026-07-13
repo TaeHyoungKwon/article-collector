@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-13'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 EU 의회가 Chat Control 1.0을 승인한 내용을 다룬다.
+- 사적 통신을 대량 스캔할 수 있는 법안이 2028년까지 허용되었다.
+- 이는 개인의 프라이버시와 보안에 대한 새로운 우려를 제기한다.
 
 ## GeekNews 요약
 - 사적 통신을 사전 의심 없이 대량 스캔하는 **Chat Control 1.0**이 거부되지 못하면서, 해당 조치가 2028년까지 다시 허용됨
