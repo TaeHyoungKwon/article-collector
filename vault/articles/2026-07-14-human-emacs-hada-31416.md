@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-14'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://human-emacs.org/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Human Emacs가 GNU 정책과 무관하게 LLM 생성 기여를 받지 않겠다는 선언을 다룬다.
+- Human Emacs 참여자들은 GNU 공통 정책이 정해질 때까지 현재의 임시 금지를 유지하고, LLM 비사용 Emacs를 지속할 방침이다.
+- 이는 LLM 기술의 적용 여부와 관계없이 Emacs의 독립성과 유지보수 방침에 대한 중요한 논의를 제기한다.
 
 ## GeekNews 요약
 - **Human Emacs**는 GNU의 최종 정책과 무관하게 LLM 생성 기여를 받지 않는 Emacs를 사용하고 개발하겠다는 참여자들의 선언임

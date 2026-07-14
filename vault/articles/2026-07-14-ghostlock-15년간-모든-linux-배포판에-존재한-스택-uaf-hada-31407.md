@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.307
+recommended_on: '2026-07-14'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://nebusec.ai/research/ionstack-part-2/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- GhostLock(CVE-2026-43499)은 Linux 커널의 스택 UAF 취약점으로, 비특권 로컬 공격자가 루트 권한을 획득할 수 있다.
+- 이 취약점은 스레드 간의 상호작용을 활용하여 해제된 스택 프레임을 가리키는 포인터를 남겨 공격자가 제어 흐름을 탈취하도록 한다.
+- 패치되지 않은 모든 Linux 배포판은 이번 공격으로부터 보호하기 위해 최신 LTS로 업그레이드해야 할 필요성이 있다.
 
 ## GeekNews 요약
 - **GhostLock(CVE-2026-43499)** 은 Linux 2.6.39에 도입돼 7.1에서 수정된 커널 취약점으로, 비특권 로컬 공격자가 일반적인 스레딩 시스템 호출만으로 스택 UAF를 일으켜 **루트 권한 획득과 컨테이너 탈출**에 이용할 수 있음

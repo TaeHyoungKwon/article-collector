@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-14'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/rkstgr/papermake
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Papermake는 Typst 템플릿 기반의 셀프 호스팅 PDF 문서 생성 서버이다.
+- 이 서버는 REST API를 통해 PDF를 생성하고, 템플릿 버전 관리 및 감사 추적 기능을 제공한다.
+- 개발자와 기업은 중앙 집중식 템플릿 관리와 효율적인 리소스 사용으로 문서 생성 프로세스를 개선할 수 있다.
 
 ## GeekNews 요약
 Papermake는 Typst 템플릿을 이용하여 PDF를 생성하는 HTTP 기반 문서 생성 서버임.
