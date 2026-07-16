@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.386
+recommended_on: '2026-07-16'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://jetbrains.github.io/hexana/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 JetBrains의 Hexana라는 WebAssembly 및 바이너리 분석 도구에 대해 설명하고 있다.
+- Hexana는 Kotlin Multiplatform 코어를 공유하며 다양한 플랫폼에서 바이너리 분석과 디버깅 기능을 제공한다.
+- 개발자들은 이 도구를 통해 WebAssembly 파일을 보다 효율적으로 처리하고 다양한 환경에서 활용할 수 있다.
 
 ## GeekNews 요약
 - `.wasm` 파일의 구조 분석/편집/실행/디버깅을 지원하며 **JetBrains 플러그인**과 **VS Code 확장**으로 제공
