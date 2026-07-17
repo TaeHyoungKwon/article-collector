@@ -9,7 +9,7 @@ matched_keywords:
 - backend
 - AI
 read: false
-recommend_score: 5.386
+recommend_score: -994.614
 recommended_on: '2026-07-17'
 source: geeknews
 tags:
