@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.023
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/Younesfdj/gitfut
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- GitFut는 GitHub 프로필의 활동을 분석해 축구 선수 카드 형식으로 시각화하는 서비스이다.
+- GitHub 활동에 기반한 축구 능력치를 6가지 신호로 변환하여 선수 카드를 생성하며, 이는 실시간으로 업데이트된다.
+- 개발자들은 자신의 GitHub 통계를 카드 형태로 공유할 수 있어, 포트폴리오와 README를 통해 시각적으로 매력적인 정보를 제공할 수 있다.
 
 ## GeekNews 요약
 - GitHub 프로필의 활동을 분석해 **99점 만점**짜리 축구 선수 카드를 생성해줌

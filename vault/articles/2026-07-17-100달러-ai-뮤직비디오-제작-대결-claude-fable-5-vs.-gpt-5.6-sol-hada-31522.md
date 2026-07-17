@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 생성 모델인 Claude Fable 5와 GPT-5.6 Sol의 뮤직비디오 제작 대결을 다룬다.
+- 두 모델 모두 적정 예산 내에서 완전한 뮤직비디오를 생성했지만, 자기 검토와 창의성에서 아쉬운 점이 있었다.
+- AI를 활용한 영상 제작의 가능성을 보여줌과 동시에, 개선이 필요한 부분을 지적한다.
 
 ## GeekNews 요약
 - Claude Fable 5와 GPT-5.6 Sol에 같은 곡과 가사, **25·100달러 예산**, 웹 검색과 ffmpeg를 제공하고 조사부터 영상 생성·편집까지 맡긴 결과, 네 번 모두 원곡을 결합한 완전한 길이의 영상을 자율적으로 완성함
