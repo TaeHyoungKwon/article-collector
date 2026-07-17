@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/beginner-jhj/livero
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 대학생이 C 언어로 개발한 온디바이스 벡터 데이터베이스에 대해 설명한다.
+- LSM-tree와 HNSW 인덱스를 결합하여 외부 의존성 없이 기기에서 직접 구동되는 벡터 스토어를 구현하였다.
+- 이 데이터베이스는 임베디드 환경에서 RAG 및 시맨틱 검색을 가능하게 하여 다양한 애플리케이션에 활용될 수 있다.
 
 ## GeekNews 요약
 대학 1학년이고, 데이터베이스 엔진이 실제로 어떻게 동작하는지 궁금해서 4개월 전에 직접 만들어보기 시작했습니다. 처음엔 학습용 LSM-tree 키-값 스토어였는데, 벡터 레이어를 붙이고 HNSW 인덱스를 얹으면서 온디바이스 벡터 데이터베이스가 됐습니다.

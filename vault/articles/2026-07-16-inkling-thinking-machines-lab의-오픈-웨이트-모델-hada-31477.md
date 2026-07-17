@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.817
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://thinkingmachines.ai/news/introducing-inkling/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Thinking Machines Lab의 오픈 웨이트 모델 Inkling에 대한 상세 정보를 다룬다.
+- Inkling은 975B 파라미터를 가진 MoE Transformer로, 멀티모달 기능과 범용성을 중시하며 다양한 작업을 지원한다.
+- 이 모델은 효율적인 추론과 Tinker 미세조정 기능이 결합되어 있어, AI 개발 환경에서의 활용 가능성을 높인다.
 
 ## GeekNews 요약
 - 처음부터 학습해 전체 가중치를 공개한 **Inkling**은 총 975B·활성 41B 파라미터의 MoE Transformer로, 최대 1M 토큰 문맥과 텍스트·이미지·오디오 기반 추론을 지원함

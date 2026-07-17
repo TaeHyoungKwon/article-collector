@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://openai.com/supply/co-lab/work-louder/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 OpenAI와 Work Louder가 개발한 Codex Micro 키보드에 대해 다룬다.
+- 이 키보드는 실시간 RGB, 조이스틱, 회전 다이얼 등을 통한 물리적 에이전트 제어 기능을 제공하며 가격은 230달러이다.
+- Codex Micro는 사용자들이 AI와의 상호작용을 더 직관적으로 수행할 수 있도록 돕고, 개발 환경의 효율성을 높일 수 있는 가능성을 지닌다.
 
 ## GeekNews 요약
 - OpenAI와 Work Louder가 **Codex 에이전트 작업을 물리적으로 제어**할 수 있는 키보드를 공동 설계했으며, 가격은 **230달러**임

@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://ai-watch.dev/reports/2026-06/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 6월 AI 서비스의 업타임과 인시던트 등을 다룬 AIWatch 리포트를 분석하고 있다.
+- Claude의 공식 업타임 99.55%에도 불구하고 45건의 인시던트가 발생해 AIWatch 점수는 Fair 67로 평가되었다.
+- 이러한 신뢰도 점수는 AI 서비스의 실제 안정성을 이해하는 데 중요하며, 사용자 선택에 큰 영향을 미칠 수 있다.
 
 ## GeekNews 요약
 **AIWatch**는 Claude·OpenAI·Gemini 등 **41개 AI 서비스**(LLM API·코딩 에이전트·음성·인프라·AI 앱)의 업타임·인시던트·지연을 실시간으로 모니터링합니다. 6월 리포트(6/1–30)를 공개했습니다.

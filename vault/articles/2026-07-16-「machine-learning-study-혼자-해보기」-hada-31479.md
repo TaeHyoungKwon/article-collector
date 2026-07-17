@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 6.895
+recommended_on: '2026-07-17'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/teddylee777/machine-learning
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 머신러닝과 딥러닝을 독학하고자 하는 사람들을 위한 학습 자료를 체계적으로 정리한 내용이다.
+- 다양한 강의, 블로그, GitHub 자료를 포함해 단계별로 학습할 수 있는 추천 과정을 제공한다.
+- 구체적인 학습 경로 제시는 독자가 효율적으로 AI 기술을 습득하고 적용하는 데 도움을 줄 수 있다.
 
 ## GeekNews 요약
 ### 1. 문서의 목적과 구성
