@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-18'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code의 자동 진행 기능 설계 문제를 분석한다.
+- 모델이 사용자 질문에 60초 동안 답이 없으면 자동으로 작업을 계속 수행하는 기능이 문제가 되었고, 출시 직후 변경 로그에 반영되지 않았다.
+- 이는 사용자가 예상치 못한 방식으로 소프트웨어의 작동이 변경될 수 있음을 경고하며, 앞으로의 버전 관리와 투명성의 중요성을 강조한다.
 
 ## GeekNews 요약
 - Claude Code `2.1.198`은 `AskUserQuestion`에 60초간 답이 없으면 모델이 자체 판단으로 작업을 계속하는 **자동 진행 기능**을 기본 활성화했지만, 출시 당시 변경 로그와 문서에는 기록하지 않았음

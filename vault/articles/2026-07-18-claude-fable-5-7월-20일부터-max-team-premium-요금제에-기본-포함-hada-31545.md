@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 2.901
+recommended_on: '2026-07-18'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://x.com/claudeai/status/2078302415804379218
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Claude Fable 5가 7월 20일부터 Max/Team Premium 요금제에 기본 포함될 예정이다.
+- Max/Team Premium 사용자는 Fable 5를 요금제 사용 한도의 50%까지 이용 가능하며, Pro/Team Standard는 일회성 100달러 크레딧을 지급받는다.
+- 이 변화는 사용자들을 위한 명확한 이용 기준을 제시하여 서비스에 대한 신뢰성을 높일 것으로 보인다.
 
 ## GeekNews 요약
 - **맥스/팀 프리미엄** 사용자는 7월 20일부터 Fable 5를 요금제 사용 한도의 **50%까지** 이용 가능
