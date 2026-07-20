@@ -10,6 +10,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-20'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://playarcade.to
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 고전 아케이드 게임을 웹 기반에서 네트워크 플레이로 즐길 수 있는 플랫폼 개발에 대해 설명한다.
+- 사용자가 mame rom을 업로드하고 관리자 승인을 통해 네트워크 게임을 지원하며, 화면 전송 방식으로 동기화 문제를 해결했다.
+- 이는 고전 게임을 현대적 기술로 재현하여 사용자 경험을 확장하며, 네트워크 플레이의 가능성을 제시한다.
 
 ## GeekNews 요약
 고전 mame게임을 웹으로 즐길 수 있는 사이트를 만들어 보았습니다.  
