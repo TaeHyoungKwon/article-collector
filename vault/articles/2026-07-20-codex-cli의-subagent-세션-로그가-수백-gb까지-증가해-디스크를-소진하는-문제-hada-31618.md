@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 5.307
+recommended_on: '2026-07-21'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/openai/codex/issues/34061
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Codex CLI에서 장기 세션 중 Subagent를 반복 생성할 때 세션 기록 파일이 비정상적으로 증가하는 문제를 다룬다.
+- 하나의 부모 세션에서 2,393개의 Subagent 파일이 생성되어 약 731.5GiB를 차지하는 사례가 보고되었다.
+- 이 문제는 디스크 공간 소진을 초래하며, 공식 수정이 확인되기 전 세션 관리에 주의가 필요하다.
 
 ## GeekNews 요약
 - Codex CLI가 Resume된 장기 세션에서 Subagent를 반복 생성할 때, `~/.codex/sessions` 아래의 JSONL 세션 파일이 비정상적으로 증가하는 문제가 보고됨

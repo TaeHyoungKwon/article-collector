@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-21'
 source: geeknews
 tags:
 - Dev Tools
@@ -20,7 +21,9 @@ url: https://github.com/esc5221/sessionhub
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- sessionhub는 여러 머신에 분산된 Claude Code와 Codex 세션을 통합하여 검색할 수 있는 도구이다.
+- 사용자는 SSH를 통해 세션을 15분마다 중앙 서버에 모으며, 필요한 경우 검색으로 쉽게 접근할 수 있다.
+- 이 도구는 과거 작업을 신속하게 검색할 수 있도록 도와주며, 개발자의 효율성을 높이는 데 기여한다.
 
 ## GeekNews 요약
 sessionhub는 여러 머신에 흩어진 Claude Code · Codex 세션을 한 곳에 모아 검색하는 도구입니다.

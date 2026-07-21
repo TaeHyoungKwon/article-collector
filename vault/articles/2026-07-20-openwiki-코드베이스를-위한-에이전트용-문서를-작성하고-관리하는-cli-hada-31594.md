@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.609
+recommended_on: '2026-07-21'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://github.com/langchain-ai/openwiki
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- OpenWiki는 에이전트 전용으로 코드베이스를 문서화하고 관리하는 CLI 도구이다.
+- 이 도구는 로컬 지식 소스를 통합하여 개인 브레인 위키를 구축하는 기능을 제공하며, CI와 연동하여 문서를 자동으로 갱신할 수 있다.
+- 이는 개발자들이 코드와 관련된 정보를 효율적으로 관리하고 업데이트할 수 있는 유용한 방법을 제공하여 생산성을 높인다.
 
 ## GeekNews 요약
 - **에이전트 전용**으로 제작된 문서화 도구로, 코드베이스나 목적별 메모리용 위키를 작성/유지
