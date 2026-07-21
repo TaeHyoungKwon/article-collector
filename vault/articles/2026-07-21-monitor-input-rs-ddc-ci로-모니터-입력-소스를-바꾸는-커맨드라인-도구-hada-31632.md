@@ -9,6 +9,7 @@ matched_keywords:
 - backend
 read: false
 recommend_score: 4.982
+recommended_on: '2026-07-21'
 source: geeknews
 tags:
 - Backend
@@ -19,7 +20,9 @@ url: https://github.com/kojiishi/monitor-input-rs
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- monitor-input-rs는 DDC/CI 프로토콜을 통해 모니터의 입력 소스를 커맨드라인에서 쉽게 전환할 수 있는 도구이다.
+- 사용자는 특정 모니터를 지정하고 입력 소스를 토글하는 다양한 기능을 지원받아 다중 모니터 환경에서 유연하게 설정을 관리할 수 있다.
+- 이는 윈도우, 맥, 리눅스 사용자들이 더 효율적으로 작업할 수 있도록 도와주며, 특히 다중모니터 환경에서 유용한 솔루션이 된다.
 
 ## GeekNews 요약
 - **DDC/CI** 프로토콜로 모니터의 입력 소스(DisplayPort, HDMI, USB-C 등)를 커맨드라인에서 전환하는 도구로, **윈/맥/리눅스** 모두 지원

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-21'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://www.kimi.com/products/kimi-work
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Kimi Work라는 차세대 데스크톱 AI 에이전트의 기능과 특징에 대해 설명하고 있다.
+- Kimi Work는 내장된 Cron 엔진을 통해 자동화된 작업과 여러 전문 에이전트를 조율하여 복합 작업을 효율적으로 처리한다.
+- 이 기술은 지식 노동자에게 반복적인 업무에서 벗어나 생산성을 높일 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 - **Kimi Work**는 로컬 파일 연결, 브라우저 자동화, 백그라운드 코드 실행, 예약 작업을 결합해 깊이 있는 업무를 수행하는 데스크톱 AI 에이전트임
