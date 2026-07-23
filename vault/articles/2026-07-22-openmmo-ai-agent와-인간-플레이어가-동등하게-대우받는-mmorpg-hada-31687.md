@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 4.303
+recommended_on: '2026-07-23'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://x.com/appledelhi/status/2079022142663094356
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 송재경님이 개발 중인 OpenMMO 프로젝트의 특징을 다룬다.
+- OpenMMO의 독특한 점은 AI Agent와 인간 플레이어가 동일한 WebSocket 프로토콜을 통해 상호작용하며, 서로의 동작을 구분하지 않는다는 것이다.
+- 이는 AI와 인간 플레이어 간의 경계를 허물며, 새로운 게임 경험을 제시할 수 있는 가능성을 지닌다.
 
 ## GeekNews 요약
 엑스엘게임즈 창업자 송재경님이 공개한 1인 프로젝트입니다.

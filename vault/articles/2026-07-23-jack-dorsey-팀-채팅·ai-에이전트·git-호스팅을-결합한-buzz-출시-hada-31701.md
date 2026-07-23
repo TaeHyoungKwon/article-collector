@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.901
+recommended_on: '2026-07-23'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Jack Dorsey의 Block은 팀 채팅, AI 에이전트, Git 호스팅을 통합한 오픈소스 워크스페이스 Buzz를 출시했다.
+- Buzz는 모든 요소를 서명된 Nostr 이벤트로 관리하고, 에이전트가 다양한 작업을 수행할 수 있도록 설계되었다.
+- 이 플랫폼은 데이터 소유권과 호스팅 옵션을 제공하지만, 운영자가 모든 관리 책임을 져야 하고 아직 미완성된 부분이 존재한다.
 
 ## GeekNews 요약
 - Block이 직원과 AI 에이전트, 대화, 소프트웨어 저장소를 하나의 신원 체계로 연결하는 **오픈소스 워크스페이스 Buzz**를 출시해 Slack과 GitHub 의존도를 줄이려 함

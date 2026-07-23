@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.817
+recommended_on: '2026-07-23'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://apps.apple.com/app/life-tile/id6767332648
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 아이폰용 온디바이스 시간·위치 기록 앱인 Show GN: Life Tile의 개발 과정을 다룬다.
+- 개발자는 이전 앱의 업데이트 중단을 인지하고, 사용자 편의성을 고려해 위치 추적의 어려움을 해결하고자 했다.
+- 이 앱은 사용자 프라이버시 보호와 간편한 데이터 수정 기능을 통해 네이티브 앱 개발의 중요성을 보여준다.
 
 ## GeekNews 요약
 프론트엔드 개발자. 이전에 Claude Code로 웹 앱은 만들어 봤지만 네이티브 앱은 처음.  
