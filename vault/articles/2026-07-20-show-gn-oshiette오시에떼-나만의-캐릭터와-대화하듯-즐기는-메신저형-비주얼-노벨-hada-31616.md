@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.109
+recommended_on: '2026-07-24'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://myoshicanvas.com/oshiette
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 메신저형 비주얼 노벨인 Oshiette(오시에떼)를 소개한다.
+- 사용자가 만든 캐릭터로 스토리를 이어가며, AI로 생성된 대사와 이모티콘으로 몰입감을 제공한다.
+- 독자는 캐릭터와의 대화형 경험을 통해 새로운 형태의 인터랙티브한 스토리텔링을 즐길 수 있다.
 
 ## GeekNews 요약
 **소개**

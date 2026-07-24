@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.727
+recommended_on: '2026-07-24'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/diegosouzapw/OmniRoute
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 OmniRoute라는 플랫폼이 다양한 AI 티어와 코딩 툴을 통합하는 방식에 대해 다룬다.
+- 이 플랫폼은 90개 이상의 무료 티어를 활용하여 연간 약 14억 개 무료 토큰을 제공하고, 효율적인 자원 관리를 통해 사용자의 비용을 절감한다.
+- OmniRoute는 AI 도구를 통합 관리하여 개발자들에게 비용 효율적이고 편리한 작업 환경을 제공할 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 - 하나의 로컬 엔드포인트(`localhost:20128/v1`)로 **271개 프로바이더/500개 이상 모델**을 연결하고 Claude Code/Codex/Cursor/Cline/Copilot 등 26개 코딩 툴을 설정 하나로 사용

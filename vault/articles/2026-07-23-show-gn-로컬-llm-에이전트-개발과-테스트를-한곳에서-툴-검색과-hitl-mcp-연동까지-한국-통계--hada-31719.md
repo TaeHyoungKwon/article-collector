@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-24'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/spring-ai-community/spring-ai-playground
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Spring AI Playground를 이용해 로컬 LLM 에이전트를 개발하고 테스트하는 방법을 다룹니다.
+- 국가통계포털(KOSIS)와의 연동을 통해 비코드 환경에서 동적인 도구 검색 및 승인 게이트를 설정할 수 있는 점이 가장 흥미롭습니다.
+- 이는 공공데이터 연결 및 사용자 승인을 효율적으로 처리할 수 있는 기반을 마련함으로써, 데이터 활용의 범위를 넓힐 가능성을 제시합니다.
 
 ## GeekNews 요약
 국가통계포털(KOSIS)이 공식 MCP 시범서비스를 열어서, 노트북에서 도는 9B 로컬 모델에 붙여봤습니다. API 키 없이 합계출산율을 찾아 차트를 그리고, CSV로 저장하려는 순간에는 승인 창이 뜹니다. 파일 쓰기처럼 사람이 승인(HITL)해야만 하는 작업은 UI에서 사람이 확인하고 승인하도록 해뒀기 때문입니다.

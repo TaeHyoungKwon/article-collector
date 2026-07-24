@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-24'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/akon47/NvChat
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 NVIDIA의 무료 LLM을 활용한 단일 exe 윈도우 클라이언트인 NvChat을 소개한다.
+- 사용자는 100개 이상의 오픈 모델을 쉽게 선택하고, 실시간 스트리밍 및 추론 과정을 확인할 수 있다.
+- 이 클라이언트는 웹 플레이그라운드 사용의 불편함을 줄여주며, 무료 API를 통해 활용 가능성 있는 도구가 된다.
 
 ## GeekNews 요약
 NVIDIA의 build.nvidia.com 은 여러 오픈 모델을 OpenAI 호환 API로 무료로 쓸 수 있게 해줍니다. 그런데 매번 웹 플레이그라운드로 들어가는 게 번거로워서, 클로드, ChatGPT 데스크톱 앱처럼 쓸 수 있는 윈도우 클라이언트를 직접 만들었습니다.
