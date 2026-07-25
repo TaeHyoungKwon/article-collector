@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.307
+recommended_on: '2026-07-25'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Codeberg가 LLM(대형 언어 모델)으로부터 FLOSS(자유 오픈 소스 소프트웨어) 자원을 보호하기 위한 조치를 설명한다.
+- Codeberg는 사용자 및 프로젝트 데이터를 LLM 훈련에 사용하지 않겠다는 방침을 가결하고, 바이브 코딩 프로젝트에 대한 규정을 개정할 계획이다.
+- 이러한 결정은 FLOSS 환경의 데이터 안전성을 높이며, LLM 사용으로 인해 생길 수 있는 인프라 비용 증가와 저품질 기여 문제에 대한 대응을 시사한다.
 
 ## GeekNews 요약
 - Codeberg e. V. 회원들은 **사용자·프로젝트 데이터를 LLM 훈련에 쓰지 않는 방침**과 ‘바이브 코딩’ 프로젝트를 제한하는 이용약관 변경안을 모두 가결함

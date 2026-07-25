@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.716
+recommended_on: '2026-07-25'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://finance.yahoo.com/markets/stocks/articles/reddit-may-block-google-a
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Reddit이 Google과의 데이터 라이선스 계약 갱신 여부를 검토하고 있으며, 이에 따른 AI 콘텐츠 접근 차단 가능성이 논의되고 있다.
+- Google의 AI Overviews가 검색 클릭률을 낮추는 데이터가 나타나자 여러 매체들이 Google과의 관계를 재검토하고 있다.
+- Reddit의 결정은 AI 콘텐츠 시장의 가격 결정과 관련해 다른 게시자와 AI 기업 간 계약에 영향을 미칠 수 있다.
 
 ## GeekNews 요약
 - Reddit이 Google에 게시물 사용을 허용한 **연 6천만 달러 규모의 데이터 라이선스 계약** 만료를 앞두고 AI용 콘텐츠 접근 차단을 검토하며, 양사는 갱신 협상을 진행 중이지만 아직 최종 결정은 내리지 않음

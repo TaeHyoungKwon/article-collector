@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-25'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://x.com/OpenAI/status/2080378182469857576
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- ChatGPT Voice가 데스크톱 앱에 도입되어 음성으로 컴퓨터를 조작할 수 있게 되었다.
+- 사용자는 GPT-Live를 기반으로 음성을 통해 작업을 지시하고 앱 내부 작업도 조율할 수 있다.
+- 이는 사용자 편의성을 높이고, 다양한 요금제 사용자에게 음성 인터페이스의 접근성을 제공한다.
 
 ## GeekNews 요약
 - 이제 **음성**만으로 컴퓨터를 조작하고 ChatGPT Work 또는 Codex에서 실행 중인 여러 에이전트에 작업을 지시할 수 있게 됨

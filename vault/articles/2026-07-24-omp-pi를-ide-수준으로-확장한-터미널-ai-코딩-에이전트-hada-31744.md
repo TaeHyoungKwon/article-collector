@@ -10,6 +10,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.154
+recommended_on: '2026-07-25'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://omp.sh/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- omp는 Pi를 기반으로 하는 IDE 수준의 터미널 AI 코딩 에이전트이다.
+- LSP와 다양한 개발 기능을 통합해 에이전트가 IDE처럼 활용할 수 있도록 설계되었다.
+- 개발자에게 효율적인 작업 환경을 제공하지만, 기존 Pi Extension과의 호환성 문제가 존재하므로 주의가 필요하다.
 
 ## GeekNews 요약
 - [omp](https://omp.sh/)는 Mario Zechner의 오픈소스 코딩 에이전트 [Pi](https://github.com/badlogic/pi-mono)를 기반으로, IDE 수준의 개발 도구와 실전 기능을 기본 탑재한 터미널 코딩 에이전트

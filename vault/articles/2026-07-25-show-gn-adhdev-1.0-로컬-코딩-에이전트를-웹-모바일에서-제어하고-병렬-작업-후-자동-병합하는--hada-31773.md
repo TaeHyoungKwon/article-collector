@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-07-25'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://adhf.dev
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 ADHDev 1.0이라는 로컬 코딩 에이전트를 웹과 모바일에서 제어하고 병렬 작업 후 자동으로 병합하는 도구에 대한 설명이다.
+- 이 도구는 자동 병합 및 승인 요청 기능을 통해 여러 머신에서 작업을 더 효율적으로 관리할 수 있게 도와준다.
+- 개발자와 팀의 복잡한 작업 흐름을 간소화하여 생산성을 높일 수 있는 가능성을 제시한다.
 
 ## GeekNews 요약
 안녕하세요, ADHDev 만든 개발자입니다. 스탠드얼론 에디션은 AGPL로 공개했고, 클라우드 버전으로 운영비를 벌 생각입니다.
