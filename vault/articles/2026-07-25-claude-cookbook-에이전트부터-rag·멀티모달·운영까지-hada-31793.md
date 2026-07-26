@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 4.901
+recommended_on: '2026-07-26'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://platform.claude.com/cookbook/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude 애플리케이션 구현을 위한 실전 가이드와 다양한 예제를 다룬다.
+- Claude Agent SDK와 Managed Agents의 예제에는 멀티에이전트 조율, 장애 대응 등의 운영 패턴이 포함된다.
+- 독자는 Claude의 다양한 기능을 통해 AI 솔루션 개발 및 운영을 효과적으로 개선할 수 있는 정보를 얻을 수 있다.
 
 ## GeekNews 요약
 - Claude 애플리케이션을 구현하는 **실전 가이드와 예제**를 모아 에이전트 구축부터 RAG·도구 사용·멀티모달·평가까지 폭넓게 다룸

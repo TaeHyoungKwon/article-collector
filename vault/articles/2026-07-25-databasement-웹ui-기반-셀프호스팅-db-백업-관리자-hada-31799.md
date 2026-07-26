@@ -10,6 +10,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 4.693
+recommended_on: '2026-07-26'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/David-Crty/databasement
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- databasement는 다양한 데이터베이스의 백업 및 복원 기능을 제공하는 웹 UI 기반의 셀프 호스팅 DB 관리자이다.
+- 이 시스템은 SSH 터널과 원격 에이전트를 통해 보안성을 높이며, 자동 백업과 멀티 압축 옵션을 지원한다.
+- 사용자와 기업은 강화된 데이터 보호 및 관리 효율성을 통해 보다 안전한 데이터 환경을 구축할 수 있다.
 
 ## GeekNews 요약
 - 여러 종류의 DB를 단일 웹 UI에서 **백업, 복원, 스케줄링**하는 셀프 호스팅 관리자
