@@ -9,6 +9,7 @@ matched_keywords:
 - backend
 read: false
 recommend_score: 3.386
+recommended_on: '2026-07-27'
 source: geeknews
 tags:
 - Backend
@@ -19,7 +20,9 @@ url: https://github.com/foru17/neko-master
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 네트워크 트래픽을 시각화하고 분석하는 대시보드인 neko-master에 대해 설명한다.
+- WebSocket을 통한 실시간 데이터 수집과 클라우드 기반 게이트웨이의 연결을 지원하여 사용자 네트워크의 밀리초 단위 지연 모니터링이 가능하다.
+- 사용자 개인의 네트워크 데이터 분석과 시각화는 안전하고 효율적인 네트워크 관리를 위한 새로운 접근 방식을 제시한다.
 
 ## GeekNews 요약
 - 로컬 게이트웨이 환경 전용 **트래픽 분석/시각화 대시보드**
