@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 6.693
+recommended_on: '2026-07-28'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/marshallku/copad
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 코딩 에이전트를 관리하기 위한 도구인 comux에 대해 설명한다.
+- comux는 tmux의 기능을 개선하여 AI 에이전트의 상태를 실시간으로 모니터링하고 알림을 제공한다.
+- 이는 여러 에이전트를 동시에 운영하는 개발자들에게 중요한 효율성을 제공하며, 사용 경험을 향상시킨다.
 
 ## GeekNews 요약
 Claude Code, Codex 같은 AI 코딩 에이전트를 tmux 세션 여러 개에 띄워놓고 동시에 굴리다 보니 문제가 생겼습니다. 어떤 세션이 끝났는지, 어떤 게 저를 기다리며 막혀 있는지 놓치고, 백그라운드에서 돌아가는 에이전트는 usage limit도 걸리고 나서야 알게 되더라고요.  

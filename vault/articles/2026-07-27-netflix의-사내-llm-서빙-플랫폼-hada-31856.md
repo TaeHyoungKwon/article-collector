@@ -11,6 +11,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 7.386
+recommended_on: '2026-07-28'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 넷플릭스는 LLM을 기존 ML 인프라에서 통합하여 운영하는 서빙 플랫폼을 개발했다.
+- 선택된 vLLM은 사용자 정의 모델 지원과 디버깅 용이성을 제공하며, 안정적인 배포를 위한 여러 전략을 적용했다.
+- 이 접근 방식은 넷플릭스의 ML 시스템의 유연성을 높이고, 기술적 간극을 보완하여 효율적인 모델 운영을 가능하게 한다.
 
 ## GeekNews 요약
 - 넷플릭스는 LLM을 별도 사일로로 분리하지 않고 기존 ML 인프라에서 함께 운영하며, **vLLM과 Triton**을 통합 서빙 체계에 연결함

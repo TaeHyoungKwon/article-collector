@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.386
+recommended_on: '2026-07-28'
 source: geeknews
 tags:
 - AI
@@ -21,7 +22,9 @@ url: https://github.com/AlmanacCode/codealmanac/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 AI 코딩 에이전트를 위한 코드베이스 위키인 CodeAlmanac의 기능과 운영 방식을 다룬다.
+- CodeAlmanac은 코드 외에도 맥락과 결정을 기록하여 AI 에이전트에게 풍부한 정보를 제공하며, 로컬에서 지속적으로 업데이트된다.
+- 이를 통해 개발자는 AI와 효율적으로 협업하며 코드의 흐름과 과거 결정을 명확히 이해할 수 있다.
 
 ## GeekNews 요약
 - 코드만으로는 담을 수 없는 **결정, 흐름, 불변 조건, 함정(gotchas)** 을 기록해 AI 에이전트에게 맥락을 제공하는 살아있는 위키
