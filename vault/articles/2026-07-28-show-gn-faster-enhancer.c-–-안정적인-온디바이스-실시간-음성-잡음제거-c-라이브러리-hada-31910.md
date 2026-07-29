@@ -10,6 +10,7 @@ matched_keywords:
 - RAG
 read: false
 recommend_score: 5.099
+recommended_on: '2026-07-29'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://github.com/kdrkdrkdr/faster-enhancer.c
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 안정적인 온디바이스 실시간 음성 잡음제거를 위한 C 라이브러리를 다룬다.
+- Apple M2에서의 런타임은 0.069로, 기존 ONNX Runtime 대비 3.3배 빠른 성능을 보인다.
+- 이 라이브러리는 재학습 없이도 높은 음성 품질을 유지하며, 실시간 환경에서의 안정성을 보장한다.
 
 ## GeekNews 요약
 직접 만든 프로젝트임.

@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.023
+recommended_on: '2026-07-29'
 source: geeknews
 tags:
 - AI
@@ -20,7 +21,9 @@ url: https://huggingface.co/moonshotai/Kimi-K3
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- Kimi-K3는 2.8조 개의 매개변수를 가진 오픈 가중치 멀티모달 AI 모델이다.
+- 이 모델은 Kimi K2보다 2.5배 높은 스케일링 효율을 제공하며, 다양한 작업을 지원한다.
+- Kimi-K3의 공개와 최신 기술은 AI 모델 개발에 있어 효율성과 성능 개선의 새로운 기준을 설정할 수 있다.
 
 ## GeekNews 요약
 - **Kimi K3**는 2.8조 개 매개변수와 104만 8,576토큰 컨텍스트를 갖춘 오픈 가중치 네이티브 멀티모달 에이전트 모델로, 장시간 코딩·지식 작업·추론을 지원함

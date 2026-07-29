@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 3.792
+recommended_on: '2026-07-29'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://claude.com/blog/ai-code-migration
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Claude Code를 활용한 대규모 코드 마이그레이션 방법에 대해 설명한다.
+- Anthropic의 개발자들은 동적 워크플로를 통해 수십만 줄의 코드를 효율적으로 이전하며, 높은 테스트 통과율을 기록했다.
+- 이러한 접근법은 코드 마이그레이션 프로세스를 자동화하고 검증하는 데 유용하여, 개발자들에게 시간과 비용을 절감할 수 있는 기회를 제공한다.
 
 ## GeekNews 요약
 - Anthropic 개발자들은 Claude Fable 5, Claude Opus 4.8과 동적 워크플로를 이용해 최근 한 달간 수만~수십만 줄 규모의 패키지 10개를 이전했으며, 개별 코드를 고치는 대신 **코드를 생성하는 반복 과정**을 개선함
