@@ -9,7 +9,7 @@ matched_keywords:
 - AI
 - RAG
 read: false
-recommend_score: 5.946
+recommend_score: -994.054
 recommended_on: '2026-07-29'
 source: geeknews
 tags:
