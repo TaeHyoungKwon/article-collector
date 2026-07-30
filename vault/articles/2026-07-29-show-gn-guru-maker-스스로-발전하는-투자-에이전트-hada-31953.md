@@ -12,6 +12,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 8.693
+recommended_on: '2026-07-30'
 source: geeknews
 tags:
 - AI
@@ -22,7 +23,9 @@ url: https://github.com/monarchjuno/guru-maker
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Guru Maker라는 AI 투자 에이전트의 메모리 구조와 기능을 설명하고 있다.
+- 이 에이전트는 오버피팅을 방지하기 위해 다섯 가지 메모리 유형을 사용하여 투자 판단을 검증하고 갱신한다.
+- 투자 분석에 있어 신뢰성을 높이고 지속 가능한 원칙을 제공함으로써 사용자의 의사결정에 도움을 줄 수 있다.
 
 ## GeekNews 요약
 투자 에이전트에게 메모리를 쥐어주면 학습을 통해 투자 대가가 될 수 있습니다.

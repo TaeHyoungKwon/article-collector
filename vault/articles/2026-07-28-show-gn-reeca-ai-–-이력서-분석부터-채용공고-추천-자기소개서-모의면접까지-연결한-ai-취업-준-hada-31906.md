@@ -9,6 +9,7 @@ matched_keywords:
 - AI
 read: false
 recommend_score: 3.099
+recommended_on: '2026-07-30'
 source: geeknews
 tags:
 - AI
@@ -19,7 +20,9 @@ url: https://www.reeca.ai/
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 Reeca AI라는 통합 AI 취업 준비 서비스의 기능과 의의를 다룹니다.
+- 사용자는 이력서를 기반으로 여러 취업 준비 작업을 연계하여 효율적으로 진행할 수 있습니다.
+- 이 서비스는 구직자들이 시간을 절약하고 보다 체계적으로 취업 준비를 할 수 있는 기회를 제공합니다.
 
 ## GeekNews 요약
 구직자가 취업 준비 과정에서 이력서 첨삭, 채용공고 탐색, 자기소개서 작성, 면접 연습을 각각 다른 서비스에서 반복해야 하는 문제를 줄이기 위해 Reeca AI를 만들었습니다.

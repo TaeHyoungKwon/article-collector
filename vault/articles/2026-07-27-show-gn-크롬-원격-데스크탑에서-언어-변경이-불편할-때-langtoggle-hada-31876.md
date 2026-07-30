@@ -9,6 +9,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 3.386
+recommended_on: '2026-07-30'
 source: geeknews
 tags:
 - Dev Tools
@@ -19,7 +20,9 @@ url: https://github.com/halfmoon-project/langtoggle
 ---
 
 ## TL;DR
-- (요약 대기 중)
+- 이 글은 크롬 원격 데스크탑에서의 언어 변경 불편함을 해결하기 위한 앱인 LangToggle을 소개한다.
+- 원격에서 한/영 변환이 어렵고 기존 해결책이 효과적이지 않다는 점을 강조하고 있다.
+- 독자는 이 앱을 통해 원격 사용의 효율성을 높이고 언어 변경의 번거로움을 줄일 수 있다.
 
 ## GeekNews 요약
 최근에 맥미니를 사서 사용할 때 원격으로 접속하면 어떤 툴들을 사용할지 고민하다가 선택한게 Chrome Remote Desktop이었습니다.  
