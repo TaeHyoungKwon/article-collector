@@ -8,7 +8,7 @@ id: hada-31876
 matched_keywords:
 - Codex
 read: false
-recommend_score: 3.386
+recommend_score: -996.614
 recommended_on: '2026-07-30'
 source: geeknews
 tags:
