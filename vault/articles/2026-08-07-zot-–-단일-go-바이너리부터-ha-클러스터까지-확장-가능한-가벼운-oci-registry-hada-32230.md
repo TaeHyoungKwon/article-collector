@@ -7,9 +7,10 @@ geeknews_url: https://news.hada.io/topic?id=32230
 id: hada-32230
 matched_keywords:
 - backend
+- AI
 - RAG
 read: false
-recommend_score: 4.901
+recommend_score: 6.901
 source: geeknews
 tags:
 - AI
