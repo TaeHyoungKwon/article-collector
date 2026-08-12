@@ -11,6 +11,7 @@ matched_keywords:
 - Codex
 read: false
 recommend_score: 7.099
+recommended_on: '2026-08-12'
 source: geeknews
 tags:
 - AI
