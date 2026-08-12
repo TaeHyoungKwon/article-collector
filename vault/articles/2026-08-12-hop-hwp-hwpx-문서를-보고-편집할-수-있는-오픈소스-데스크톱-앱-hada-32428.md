@@ -6,9 +6,10 @@ geeknews_score: 5
 geeknews_url: https://news.hada.io/topic?id=32428
 id: hada-32428
 matched_keywords:
+- AI
 - RAG
 read: false
-recommend_score: 3.792
+recommend_score: 5.792
 source: geeknews
 tags:
 - AI
