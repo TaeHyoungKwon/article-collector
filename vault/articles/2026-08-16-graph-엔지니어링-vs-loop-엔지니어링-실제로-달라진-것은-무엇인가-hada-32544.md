@@ -10,6 +10,7 @@ matched_keywords:
 - LLM
 read: false
 recommend_score: 5.099
+recommended_on: '2026-08-16'
 source: geeknews
 tags:
 - AI
