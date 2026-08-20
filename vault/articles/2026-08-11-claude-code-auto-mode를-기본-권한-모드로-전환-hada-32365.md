@@ -9,6 +9,7 @@ matched_keywords:
 - Claude Code
 read: false
 recommend_score: 2.901
+recommended_on: '2026-08-20'
 source: geeknews
 tags:
 - Dev Tools
